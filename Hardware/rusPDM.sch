@@ -1,0 +1,992 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 29
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Sheet
+S 2400 700  750  900 
+U 5E363ACA
+F0 "Input" 50
+F1 "Input.sch" 50
+F2 "Input8" I L 2400 1500 50 
+F3 "Input7" I L 2400 1400 50 
+F4 "Input6" I L 2400 1300 50 
+F5 "Input5" I L 2400 1200 50 
+F6 "Input4" I L 2400 1100 50 
+F7 "Input3" I L 2400 1000 50 
+F8 "Input2" I L 2400 900 50 
+F9 "Input1" I L 2400 800 50 
+F10 "Output1" I R 3150 800 50 
+F11 "Output2" I R 3150 900 50 
+F12 "Output3" I R 3150 1000 50 
+F13 "Output4" I R 3150 1100 50 
+F14 "Output5" I R 3150 1200 50 
+F15 "Output6" I R 3150 1300 50 
+F16 "Output7" I R 3150 1400 50 
+F17 "Output8" I R 3150 1500 50 
+$EndSheet
+Wire Wire Line
+	4000 800  4000 1100
+Wire Wire Line
+	4000 1100 4100 1100
+Wire Wire Line
+	3900 900  3900 1200
+Wire Wire Line
+	3900 1200 4100 1200
+Wire Wire Line
+	3800 1300 4100 1300
+Wire Wire Line
+	3800 1000 3800 1300
+Wire Wire Line
+	3700 1100 3700 1400
+Wire Wire Line
+	3700 1400 4100 1400
+Wire Wire Line
+	3600 1200 3600 1500
+Wire Wire Line
+	3600 1500 4100 1500
+Wire Wire Line
+	3150 800  4000 800 
+Wire Wire Line
+	3150 900  3900 900 
+Wire Wire Line
+	3150 1000 3800 1000
+Wire Wire Line
+	3150 1100 3700 1100
+Wire Wire Line
+	3150 1200 3600 1200
+Wire Wire Line
+	3150 1300 3500 1300
+Wire Wire Line
+	3500 1300 3500 1600
+Wire Wire Line
+	3500 1600 4100 1600
+Wire Wire Line
+	3150 1400 3400 1400
+Wire Wire Line
+	3400 1400 3400 1700
+Wire Wire Line
+	3400 1700 4100 1700
+Wire Wire Line
+	3150 1500 3300 1500
+Wire Wire Line
+	3300 1500 3300 1800
+Wire Wire Line
+	3300 1800 4100 1800
+Wire Wire Line
+	3150 1900 4100 1900
+Wire Wire Line
+	4100 2000 3150 2000
+Wire Wire Line
+	3150 2100 4100 2100
+Wire Wire Line
+	4100 2200 3150 2200
+Wire Wire Line
+	3150 2300 4100 2300
+Wire Wire Line
+	4100 2400 3150 2400
+Wire Wire Line
+	3150 2500 4100 2500
+Wire Wire Line
+	4100 2600 3150 2600
+Wire Wire Line
+	3150 3700 4000 3700
+Wire Wire Line
+	4000 3700 4000 3400
+Wire Wire Line
+	4000 3400 4100 3400
+Wire Wire Line
+	3150 3600 3900 3600
+Wire Wire Line
+	3900 3600 3900 3300
+Wire Wire Line
+	3900 3300 4100 3300
+Wire Wire Line
+	3150 3500 3800 3500
+Wire Wire Line
+	3800 3500 3800 3200
+Wire Wire Line
+	3800 3200 4100 3200
+Wire Wire Line
+	3150 3400 3700 3400
+Wire Wire Line
+	3700 3400 3700 3100
+Wire Wire Line
+	3700 3100 4100 3100
+Wire Wire Line
+	3150 3300 3600 3300
+Wire Wire Line
+	3600 3300 3600 3000
+Wire Wire Line
+	3600 3000 4100 3000
+Wire Wire Line
+	3150 3200 3500 3200
+Wire Wire Line
+	3500 3200 3500 2900
+Wire Wire Line
+	3500 2900 4100 2900
+Wire Wire Line
+	3150 3100 3400 3100
+Wire Wire Line
+	3400 3100 3400 2800
+Wire Wire Line
+	3400 2800 4100 2800
+Wire Wire Line
+	3150 3000 3300 3000
+Wire Wire Line
+	3300 3000 3300 2700
+Wire Wire Line
+	3300 2700 4100 2700
+$Comp
+L Leavyseal:1-1418362-1 J1
+U 1 1 5E4F3ABA
+P 8850 3100
+F 0 "J1" H 8850 4767 50  0000 C CNN
+F 1 "1-1418362-1" H 8850 4676 50  0000 C CNN
+F 2 "TE_1-1418362-1" H 8850 3100 50  0001 L BNN
+F 3 "https://www.te.com/usa-en/product-1-1418362-1.html?te_bu=Cor&te_type=disp&te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&elqCampaignId=32493" H 8850 3100 50  0001 L BNN
+F 4 "Compliant" H 8850 3100 50  0001 L BNN "Field4"
+F 5 "1-1418362-1" H 8850 3100 50  0001 L BNN "Field5"
+	1    8850 3100
+	1    0    0    -1  
+$EndComp
+Text Label 10450 4050 0    50   ~ 0
+HighCurrent1
+Text Label 9500 3000 0    50   ~ 0
+HighCurrent2
+Text Label 9500 2200 0    50   ~ 0
+HighCurrent3
+Text Label 8200 4500 2    50   ~ 0
+HighCurrent6
+Wire Wire Line
+	8350 4500 8200 4500
+Wire Wire Line
+	9350 1900 9500 1900
+Wire Wire Line
+	9350 1700 9500 1700
+Wire Wire Line
+	9350 2100 9500 2100
+Wire Wire Line
+	10300 4050 10450 4050
+Text Label 9500 3400 0    50   ~ 0
+LowCurrent18
+Text Label 8200 3300 2    50   ~ 0
+LowCurrent17
+Text Label 8200 2500 2    50   ~ 0
+LowCurrent12
+Text Label 9500 3800 0    50   ~ 0
+LowCurrent11
+Text Label 8200 3700 2    50   ~ 0
+LowCurrent10
+Text Label 8200 4100 2    50   ~ 0
+LowCurrent9
+Text Label 9500 1900 0    50   ~ 0
+LowCurrent8
+Text Label 8200 2100 2    50   ~ 0
+LowCurrent5
+Text Label 8200 2000 2    50   ~ 0
+LowCurrent4
+Text Label 8200 1900 2    50   ~ 0
+LowCurrent3
+Text Label 8200 1800 2    50   ~ 0
+LowCurrent2
+Text Label 8200 1700 2    50   ~ 0
+LowCurrent1
+Wire Wire Line
+	9350 3400 9500 3400
+Wire Wire Line
+	8350 3300 8200 3300
+Wire Wire Line
+	9350 2200 9500 2200
+Wire Wire Line
+	8350 2900 8200 2900
+Wire Wire Line
+	9350 4600 9500 4600
+Wire Wire Line
+	8350 2500 8200 2500
+Wire Wire Line
+	9350 3800 9500 3800
+Wire Wire Line
+	8350 3700 8200 3700
+Wire Wire Line
+	8350 4100 8200 4100
+Wire Wire Line
+	9350 1800 9500 1800
+Wire Wire Line
+	9350 2000 9500 2000
+Wire Wire Line
+	9350 3000 9500 3000
+Wire Wire Line
+	8350 2100 8200 2100
+Wire Wire Line
+	8350 2000 8200 2000
+Wire Wire Line
+	8200 1900 8350 1900
+Wire Wire Line
+	8200 1800 8350 1800
+Wire Wire Line
+	8200 1700 8350 1700
+Wire Wire Line
+	7000 950  7150 950 
+Wire Wire Line
+	7000 1150 7150 1150
+Wire Wire Line
+	7000 1250 7150 1250
+Wire Wire Line
+	7000 1350 7150 1350
+Text Label 7150 2800 0    50   ~ 0
+LowCurrent9
+Text Label 7150 1450 0    50   ~ 0
+LowCurrent8
+Text Label 7150 1350 0    50   ~ 0
+LowCurrent6
+Text Label 7150 1250 0    50   ~ 0
+LowCurrent5
+Text Label 7150 1150 0    50   ~ 0
+LowCurrent4
+Wire Wire Line
+	7000 3400 7150 3400
+Wire Wire Line
+	7000 3200 7150 3200
+Wire Wire Line
+	7000 3300 7150 3300
+Wire Wire Line
+	7000 3100 7150 3100
+Wire Wire Line
+	7000 3000 7150 3000
+Wire Wire Line
+	7000 2800 7150 2800
+Wire Wire Line
+	7150 2900 7000 2900
+Wire Wire Line
+	7150 1450 7000 1450
+Text Label 7150 2900 0    50   ~ 0
+LowCurrent10
+Wire Wire Line
+	7000 3500 7150 3500
+Text Label 7150 3300 0    50   ~ 0
+LowCurrent14
+Text Label 7150 3200 0    50   ~ 0
+LowCurrent13
+Text Label 7150 3100 0    50   ~ 0
+LowCurrent12
+Text Label 7150 3400 0    50   ~ 0
+LowCurrent15
+Text Label 7150 3500 0    50   ~ 0
+LowCurrent16
+$Sheet
+S 2400 1800 750  900 
+U 5E8255F9
+F0 "Input2" 50
+F1 "Input.sch" 50
+F2 "Input8" I L 2400 2600 50 
+F3 "Input7" I L 2400 2500 50 
+F4 "Input6" I L 2400 2400 50 
+F5 "Input5" I L 2400 2300 50 
+F6 "Input4" I L 2400 2200 50 
+F7 "Input3" I L 2400 2100 50 
+F8 "Input2" I L 2400 2000 50 
+F9 "Input1" I L 2400 1900 50 
+F10 "Output1" I R 3150 1900 50 
+F11 "Output2" I R 3150 2000 50 
+F12 "Output3" I R 3150 2100 50 
+F13 "Output4" I R 3150 2200 50 
+F14 "Output5" I R 3150 2300 50 
+F15 "Output6" I R 3150 2400 50 
+F16 "Output7" I R 3150 2500 50 
+F17 "Output8" I R 3150 2600 50 
+$EndSheet
+$Sheet
+S 2400 2900 750  900 
+U 5E82DF72
+F0 "Input3" 50
+F1 "Input.sch" 50
+F2 "Input8" I L 2400 3700 50 
+F3 "Input7" I L 2400 3600 50 
+F4 "Input6" I L 2400 3500 50 
+F5 "Input5" I L 2400 3400 50 
+F6 "Input4" I L 2400 3300 50 
+F7 "Input3" I L 2400 3200 50 
+F8 "Input2" I L 2400 3100 50 
+F9 "Input1" I L 2400 3000 50 
+F10 "Output1" I R 3150 3000 50 
+F11 "Output2" I R 3150 3100 50 
+F12 "Output3" I R 3150 3200 50 
+F13 "Output4" I R 3150 3300 50 
+F14 "Output5" I R 3150 3400 50 
+F15 "Output6" I R 3150 3500 50 
+F16 "Output7" I R 3150 3600 50 
+F17 "Output8" I R 3150 3700 50 
+$EndSheet
+Text Label 7150 3000 0    50   ~ 0
+LowCurrent11
+Wire Wire Line
+	7000 850  7150 850 
+Text Label 7150 850  0    50   ~ 0
+LowCurrent1
+Text Label 7150 950  0    50   ~ 0
+LowCurrent2
+Text Label 5250 1100 0    50   ~ 0
+OUT1
+Text Label 5250 1200 0    50   ~ 0
+OUT2
+Text Label 5250 1400 0    50   ~ 0
+OUT4
+Text Label 5250 1500 0    50   ~ 0
+OUT5
+Text Label 5250 1600 0    50   ~ 0
+OUT6
+Text Label 5250 1700 0    50   ~ 0
+OUT7
+Text Label 5250 1900 0    50   ~ 0
+ADC1
+Text Label 5250 2000 0    50   ~ 0
+ADC2
+Text Label 5250 2200 0    50   ~ 0
+ADC4
+Text Label 5250 2300 0    50   ~ 0
+ADC5
+Text Label 5250 2400 0    50   ~ 0
+ADC6
+Text Label 5250 2500 0    50   ~ 0
+ADC7
+Text Label 7150 4900 0    50   ~ 0
+HighCurrent1
+Text Label 7150 4700 0    50   ~ 0
+LowCurrent18
+Text Label 7150 4800 0    50   ~ 0
+LowCurrent17
+Wire Wire Line
+	7000 4700 7150 4700
+Wire Wire Line
+	7000 4800 7150 4800
+Wire Wire Line
+	7000 4900 7150 4900
+Text Label 7150 5000 0    50   ~ 0
+HighCurrent2
+Wire Wire Line
+	7000 5400 7150 5400
+Wire Wire Line
+	7000 5300 7150 5300
+Wire Wire Line
+	7000 5200 7150 5200
+Wire Wire Line
+	7000 5100 7150 5100
+Wire Wire Line
+	7000 5000 7150 5000
+Text Label 7150 5400 0    50   ~ 0
+HighCurrent6
+Text Label 7150 5300 0    50   ~ 0
+HighCurrent5
+Text Label 7150 5200 0    50   ~ 0
+HighCurrent4
+Text Label 7150 5100 0    50   ~ 0
+HighCurrent3
+Text Label 5250 2800 0    50   ~ 0
+OUT9
+Text Label 5250 2900 0    50   ~ 0
+OUT10
+Text Label 5250 3100 0    50   ~ 0
+OUT12
+Text Label 5250 3200 0    50   ~ 0
+OUT13
+Text Label 5250 3300 0    50   ~ 0
+OUT14
+Text Label 5250 3400 0    50   ~ 0
+OUT15
+Text Label 5250 3500 0    50   ~ 0
+OUT16
+Text Label 5250 4500 0    50   ~ 0
+OUT17
+Text Label 5250 4600 0    50   ~ 0
+OUT18
+Text Label 5250 4700 0    50   ~ 0
+OUT19
+Text Label 5250 4800 0    50   ~ 0
+OUT20
+Text Label 5250 4900 0    50   ~ 0
+OUT21
+Text Label 5250 5000 0    50   ~ 0
+OUT22
+Text Label 5250 5100 0    50   ~ 0
+OUT23
+Text Label 5250 3600 0    50   ~ 0
+ADC9
+Text Label 5250 3700 0    50   ~ 0
+ADC10
+Text Label 5250 3800 0    50   ~ 0
+ADC11
+Text Label 5250 3900 0    50   ~ 0
+ADC12
+Text Label 5250 4000 0    50   ~ 0
+ADC13
+Text Label 5250 4100 0    50   ~ 0
+ADC14
+Text Label 5250 4200 0    50   ~ 0
+ADC15
+Text Label 5250 4300 0    50   ~ 0
+ADC16
+Text Label 5250 5300 0    50   ~ 0
+ADC17
+Text Label 5250 5400 0    50   ~ 0
+ADC18
+Text Label 5250 5500 0    50   ~ 0
+ADC19
+Text Label 5250 5600 0    50   ~ 0
+ADC20
+Text Label 5250 5700 0    50   ~ 0
+ADC21
+Text Label 5250 5800 0    50   ~ 0
+ADC22
+Text Label 5250 5900 0    50   ~ 0
+ADC23
+Text Label 5250 6000 0    50   ~ 0
+ADC24
+Wire Wire Line
+	5050 1100 5250 1100
+Wire Wire Line
+	5250 1200 5050 1200
+Wire Wire Line
+	5250 1400 5050 1400
+Wire Wire Line
+	5050 1500 5250 1500
+Wire Wire Line
+	5050 1600 5250 1600
+Wire Wire Line
+	5050 1700 5250 1700
+Wire Wire Line
+	5250 1900 5050 1900
+Wire Wire Line
+	5050 2000 5250 2000
+Wire Wire Line
+	5050 2200 5250 2200
+Wire Wire Line
+	5250 2300 5050 2300
+Wire Wire Line
+	5050 2400 5250 2400
+Wire Wire Line
+	5250 2500 5050 2500
+Wire Wire Line
+	5050 2800 5250 2800
+Wire Wire Line
+	5250 2900 5050 2900
+Wire Wire Line
+	5050 3000 5250 3000
+Wire Wire Line
+	5250 3100 5050 3100
+Wire Wire Line
+	5050 3200 5250 3200
+Wire Wire Line
+	5250 3300 5050 3300
+Wire Wire Line
+	5050 3400 5250 3400
+Wire Wire Line
+	5250 3500 5050 3500
+Wire Wire Line
+	5050 3600 5250 3600
+Wire Wire Line
+	5250 3700 5050 3700
+Wire Wire Line
+	5050 3800 5250 3800
+Wire Wire Line
+	5250 3900 5050 3900
+Wire Wire Line
+	5050 4000 5250 4000
+Wire Wire Line
+	5250 4100 5050 4100
+Wire Wire Line
+	5050 4200 5250 4200
+Wire Wire Line
+	5250 4300 5050 4300
+Wire Wire Line
+	5250 4500 5050 4500
+Wire Wire Line
+	5050 4600 5250 4600
+Wire Wire Line
+	5250 4700 5050 4700
+Wire Wire Line
+	5050 4800 5250 4800
+Wire Wire Line
+	5250 4900 5050 4900
+Wire Wire Line
+	5050 5000 5250 5000
+Wire Wire Line
+	5250 5100 5050 5100
+Wire Wire Line
+	5050 5200 5250 5200
+Wire Wire Line
+	5250 5300 5050 5300
+Wire Wire Line
+	5050 5400 5250 5400
+Wire Wire Line
+	5250 5500 5050 5500
+Wire Wire Line
+	5050 5600 5250 5600
+Wire Wire Line
+	5050 5700 5250 5700
+Wire Wire Line
+	5250 5800 5050 5800
+Wire Wire Line
+	5050 5900 5250 5900
+Wire Wire Line
+	5250 6000 5050 6000
+Text Label 6050 4700 2    50   ~ 0
+OUT17
+Text Label 6050 4800 2    50   ~ 0
+OUT18
+Text Label 6050 4900 2    50   ~ 0
+OUT19
+Text Label 6050 5000 2    50   ~ 0
+OUT20
+Text Label 6050 5100 2    50   ~ 0
+OUT21
+Text Label 6050 5200 2    50   ~ 0
+OUT22
+Text Label 6050 5300 2    50   ~ 0
+OUT23
+Text Label 6050 5400 2    50   ~ 0
+OUT24
+Text Label 6050 5500 2    50   ~ 0
+ADC17
+Text Label 6050 5600 2    50   ~ 0
+ADC18
+Text Label 6050 5700 2    50   ~ 0
+ADC19
+Text Label 6050 5800 2    50   ~ 0
+ADC20
+Wire Wire Line
+	6050 4700 6250 4700
+Wire Wire Line
+	6250 4800 6050 4800
+Wire Wire Line
+	6050 4900 6250 4900
+Wire Wire Line
+	6250 5000 6050 5000
+Wire Wire Line
+	6050 5100 6250 5100
+Wire Wire Line
+	6250 5200 6050 5200
+Wire Wire Line
+	6050 5300 6250 5300
+Wire Wire Line
+	6250 5400 6050 5400
+Wire Wire Line
+	6050 5500 6250 5500
+Wire Wire Line
+	6250 5600 6050 5600
+Wire Wire Line
+	6050 5700 6250 5700
+Wire Wire Line
+	6250 5800 6050 5800
+Wire Wire Line
+	6250 5900 6050 5900
+Wire Wire Line
+	6050 6000 6250 6000
+Wire Wire Line
+	6250 6100 6050 6100
+Wire Wire Line
+	6050 6200 6250 6200
+Text Label 6050 6200 2    50   ~ 0
+ADC24
+Text Label 6050 6100 2    50   ~ 0
+ADC23
+Text Label 6050 2800 2    50   ~ 0
+OUT9
+Text Label 6050 2900 2    50   ~ 0
+OUT10
+Text Label 6050 3000 2    50   ~ 0
+OUT11
+Text Label 6050 3100 2    50   ~ 0
+OUT12
+Text Label 6050 3200 2    50   ~ 0
+OUT13
+Text Label 6050 3300 2    50   ~ 0
+OUT14
+Text Label 6050 3400 2    50   ~ 0
+OUT15
+Text Label 6050 3500 2    50   ~ 0
+OUT16
+Text Label 6050 3600 2    50   ~ 0
+ADC9
+Text Label 6050 3700 2    50   ~ 0
+ADC10
+Text Label 6050 3800 2    50   ~ 0
+ADC11
+Text Label 6050 3900 2    50   ~ 0
+ADC12
+Text Label 6050 4000 2    50   ~ 0
+ADC13
+Text Label 6050 4100 2    50   ~ 0
+ADC14
+Text Label 6050 4200 2    50   ~ 0
+ADC15
+Text Label 6050 4300 2    50   ~ 0
+ADC16
+Wire Wire Line
+	6250 2800 6050 2800
+Wire Wire Line
+	6050 2900 6250 2900
+Wire Wire Line
+	6250 3000 6050 3000
+Wire Wire Line
+	6050 3100 6250 3100
+Wire Wire Line
+	6250 3200 6050 3200
+Wire Wire Line
+	6050 3300 6250 3300
+Wire Wire Line
+	6250 3400 6050 3400
+Wire Wire Line
+	6050 3500 6250 3500
+Wire Wire Line
+	6250 3600 6050 3600
+Wire Wire Line
+	6050 3700 6250 3700
+Wire Wire Line
+	6250 3800 6050 3800
+Wire Wire Line
+	6050 3900 6250 3900
+Wire Wire Line
+	6250 4000 6050 4000
+Wire Wire Line
+	6050 4100 6250 4100
+Wire Wire Line
+	6250 4200 6050 4200
+Wire Wire Line
+	6050 4300 6250 4300
+Text Label 6050 850  2    50   ~ 0
+OUT1
+Text Label 6050 950  2    50   ~ 0
+OUT2
+Text Label 6050 1150 2    50   ~ 0
+OUT4
+Text Label 6050 1250 2    50   ~ 0
+OUT5
+Text Label 6050 1350 2    50   ~ 0
+OUT6
+Text Label 6050 1450 2    50   ~ 0
+OUT7
+Text Label 6050 1650 2    50   ~ 0
+ADC1
+Text Label 6050 1750 2    50   ~ 0
+ADC2
+Text Label 6050 2050 2    50   ~ 0
+ADC5
+Text Label 6050 2250 2    50   ~ 0
+ADC7
+Wire Wire Line
+	6250 850  6050 850 
+Wire Wire Line
+	6050 950  6250 950 
+Wire Wire Line
+	6050 1150 6250 1150
+Wire Wire Line
+	6250 1250 6050 1250
+Wire Wire Line
+	6250 1350 6050 1350
+Wire Wire Line
+	6250 1450 6050 1450
+Wire Wire Line
+	6050 1650 6250 1650
+Wire Wire Line
+	6250 1750 6050 1750
+Wire Wire Line
+	6250 1950 6050 1950
+Wire Wire Line
+	6050 2050 6250 2050
+Wire Wire Line
+	6250 2150 6050 2150
+Wire Wire Line
+	6050 2250 6250 2250
+Text Label 6050 6000 2    50   ~ 0
+ADC22
+Text Label 6050 1950 2    50   ~ 0
+ADC4
+Text Label 5250 3000 0    50   ~ 0
+OUT11
+Text Label 5250 5200 0    50   ~ 0
+OUT24
+Text Label 8200 2900 2    50   ~ 0
+LowCurrent14
+Wire Wire Line
+	10300 4150 10450 4150
+Text Label 9500 4600 0    50   ~ 0
+LowCurrent13
+Text Label 10450 4150 0    50   ~ 0
+LowCurrent16
+Wire Wire Line
+	9350 4200 9500 4200
+Text Label 9500 4200 0    50   ~ 0
+HighCurrent5
+$Sheet
+S 2050 5000 1350 1250
+U 5E5656AB
+F0 "psu" 50
+F1 "psu.sch" 50
+F2 "12V_RAW" I L 2050 5150 50 
+F3 "CLK" I R 3400 5150 50 
+F4 "MOSI" I R 3400 5250 50 
+F5 "MISO" O R 3400 5350 50 
+F6 "CSN" I R 3400 5450 50 
+F7 "RSTN" O R 3400 5850 50 
+F8 "TXDCAN" I R 3400 5950 50 
+F9 "RXDCAN" O R 3400 6050 50 
+F10 "CANH" B L 2050 5500 50 
+F11 "CANL" B L 2050 5600 50 
+F12 "12v_PROT" O L 2050 5950 50 
+$EndSheet
+$Sheet
+S 4100 900  950  5300
+U 5E44F1E9
+F0 "STM32G473VBT6" 50
+F1 "mcu.sch" 50
+F2 "IN3" I L 4100 1300 50 
+F3 "IN4" I L 4100 1400 50 
+F4 "IN5" I L 4100 1500 50 
+F5 "IN6" I L 4100 1600 50 
+F6 "IN7" I L 4100 1700 50 
+F7 "OUT20" I R 5050 4800 50 
+F8 "OUT21" I R 5050 4900 50 
+F9 "OUT22" I R 5050 5000 50 
+F10 "ADC11" I R 5050 3800 50 
+F11 "ADC12" I R 5050 3900 50 
+F12 "ADC13" I R 5050 4000 50 
+F13 "ADC14" I R 5050 4100 50 
+F14 "OUT23" I R 5050 5100 50 
+F15 "ADC1" I R 5050 1900 50 
+F16 "ADC2" I R 5050 2000 50 
+F17 "ADC3" I R 5050 2100 50 
+F18 "ADC4" I R 5050 2200 50 
+F19 "ADC5" I R 5050 2300 50 
+F20 "ADC6" I R 5050 2400 50 
+F21 "ADC7" I R 5050 2500 50 
+F22 "ADC8" I R 5050 2600 50 
+F23 "ADC15" I R 5050 4200 50 
+F24 "ADC16" I R 5050 4300 50 
+F25 "ADC17" I R 5050 5300 50 
+F26 "ADC18" I R 5050 5400 50 
+F27 "ADC19" I R 5050 5500 50 
+F28 "IN8" I L 4100 1800 50 
+F29 "IN9" I L 4100 1900 50 
+F30 "IN10" I L 4100 2000 50 
+F31 "IN11" I L 4100 2100 50 
+F32 "IN12" I L 4100 2200 50 
+F33 "IN13" I L 4100 2300 50 
+F34 "IN14" I L 4100 2400 50 
+F35 "IN15" I L 4100 2500 50 
+F36 "IN16" I L 4100 2600 50 
+F37 "IN23" I L 4100 3300 50 
+F38 "IN24" I L 4100 3400 50 
+F39 "OUT18" I R 5050 4600 50 
+F40 "OUT19" I R 5050 4700 50 
+F41 "ADC20" I R 5050 5600 50 
+F42 "ADC21" I R 5050 5700 50 
+F43 "ADC22" I R 5050 5800 50 
+F44 "ADC23" I R 5050 5900 50 
+F45 "CAN_RX" I L 4100 5950 50 
+F46 "CAN_TX" I L 4100 6050 50 
+F47 "ADC24" I R 5050 6000 50 
+F48 "OUT24" I R 5050 5200 50 
+F49 "OUT1" I R 5050 1100 50 
+F50 "OUT2" I R 5050 1200 50 
+F51 "OUT3" I R 5050 1300 50 
+F52 "OUT4" I R 5050 1400 50 
+F53 "ADC9" I R 5050 3600 50 
+F54 "ADC10" I R 5050 3700 50 
+F55 "OUT5" I R 5050 1500 50 
+F56 "USB_DM" I L 4100 4350 50 
+F57 "USB_DP" I L 4100 4250 50 
+F58 "SW_DIO" I L 4100 4500 50 
+F59 "DSW_CLK" I L 4100 4600 50 
+F60 "OUT6" I R 5050 1600 50 
+F61 "OUT7" I R 5050 1700 50 
+F62 "OUT8" I R 5050 1800 50 
+F63 "OUT9" I R 5050 2800 50 
+F64 "OUT10" I R 5050 2900 50 
+F65 "OUT11" I R 5050 3000 50 
+F66 "OUT12" I R 5050 3100 50 
+F67 "OUT13" I R 5050 3200 50 
+F68 "OUT14" I R 5050 3300 50 
+F69 "OUT15" I R 5050 3400 50 
+F70 "OUT16" I R 5050 3500 50 
+F71 "OUT17" I R 5050 4500 50 
+F72 "IN17" I L 4100 2700 50 
+F73 "IN18" I L 4100 2800 50 
+F74 "IN19" I L 4100 2900 50 
+F75 "IN20" I L 4100 3000 50 
+F76 "IN21" I L 4100 3100 50 
+F77 "IN22" I L 4100 3200 50 
+F78 "IN1" I L 4100 1100 50 
+F79 "IN2" I L 4100 1200 50 
+F80 "MOSI" I L 4100 5250 50 
+F81 "MISO" I L 4100 5350 50 
+F82 "SCK" I L 4100 5150 50 
+F83 "!SS" I L 4100 5450 50 
+$EndSheet
+Wire Wire Line
+	3400 6050 4100 6050
+Wire Wire Line
+	3400 5950 4100 5950
+Wire Wire Line
+	3400 5450 4100 5450
+Wire Wire Line
+	3400 5350 4100 5350
+Wire Wire Line
+	3400 5250 4100 5250
+Wire Wire Line
+	3400 5150 4100 5150
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Wire Wire Line
+	1850 5150 2050 5150
+Wire Wire Line
+	7150 1550 7000 1550
+Text Label 7150 1550 0    50   ~ 0
+LowCurrent7
+Wire Wire Line
+	5050 1300 5250 1300
+Text Label 5250 1300 0    50   ~ 0
+OUT3
+Wire Wire Line
+	5050 1800 5250 1800
+Text Label 5250 1800 0    50   ~ 0
+OUT8
+Wire Wire Line
+	5250 2100 5050 2100
+Text Label 5250 2100 0    50   ~ 0
+ADC3
+Wire Wire Line
+	5050 2600 5250 2600
+Text Label 5250 2600 0    50   ~ 0
+ADC8
+Wire Wire Line
+	6250 2350 6050 2350
+Text Label 6050 2350 2    50   ~ 0
+ADC8
+Wire Wire Line
+	6050 1850 6250 1850
+Text Label 6050 1850 2    50   ~ 0
+ADC3
+Wire Wire Line
+	6050 1550 6250 1550
+Text Label 6050 1550 2    50   ~ 0
+OUT8
+Wire Wire Line
+	6250 1050 6050 1050
+Text Label 6050 1050 2    50   ~ 0
+OUT3
+Wire Wire Line
+	7000 1050 7150 1050
+Text Label 7150 1050 0    50   ~ 0
+LowCurrent3
+Text Label 6050 2150 2    50   ~ 0
+ADC6
+Text Label 6050 5900 2    50   ~ 0
+ADC21
+Text Label 9900 2500 0    50   ~ 0
+LowCurrent6
+Text Label 10150 1900 0    50   ~ 0
+HighCurrent4
+Text Label 9500 2000 0    50   ~ 0
+LowCurrent7
+Text Label 10050 2200 0    50   ~ 0
+LowCurrent15
+$Sheet
+S 6250 750  750  5550
+U 5E53342A
+F0 "OutputGroup1" 50
+F1 "OutputGroup2.sch" 50
+F2 "Input1" I L 6250 850 50 
+F3 "Input2" I L 6250 950 50 
+F4 "Input3" I L 6250 1050 50 
+F5 "Input4" I L 6250 1150 50 
+F6 "Input5" I L 6250 1250 50 
+F7 "Input6" I L 6250 1350 50 
+F8 "Input7" I L 6250 1450 50 
+F9 "Input8" I L 6250 1550 50 
+F10 "Output1" I R 7000 850 50 
+F11 "Output2" I R 7000 950 50 
+F12 "Output3" I R 7000 1050 50 
+F13 "Output4" I R 7000 1150 50 
+F14 "Output5" I R 7000 1250 50 
+F15 "Output6" I R 7000 1350 50 
+F16 "Output7" I R 7000 1450 50 
+F17 "Output8" I R 7000 1550 50 
+F18 "Sense1" I L 6250 1650 50 
+F19 "Sense2" I L 6250 1750 50 
+F20 "Sense3" I L 6250 1850 50 
+F21 "Sense4" I L 6250 1950 50 
+F22 "Sense5" I L 6250 2050 50 
+F23 "Sense6" I L 6250 2150 50 
+F24 "Sense7" I L 6250 2250 50 
+F25 "Sense8" I L 6250 2350 50 
+F26 "Input9" I L 6250 2800 50 
+F27 "Output9" I R 7000 2800 50 
+F28 "Sense9" I L 6250 3600 50 
+F29 "Input10" I L 6250 2900 50 
+F30 "Output10" I R 7000 2900 50 
+F31 "Sense10" I L 6250 3700 50 
+F32 "Input11" I L 6250 3000 50 
+F33 "Output11" I R 7000 3000 50 
+F34 "Sense11" I L 6250 3800 50 
+F35 "Input22" I L 6250 5200 50 
+F36 "Output22" I R 7000 5200 50 
+F37 "Sense22" I L 6250 6000 50 
+F38 "Input12" I L 6250 3100 50 
+F39 "Output12" I R 7000 3100 50 
+F40 "Sense12" I L 6250 3900 50 
+F41 "Input13" I L 6250 3200 50 
+F42 "Output13" I R 7000 3200 50 
+F43 "Sense13" I L 6250 4000 50 
+F44 "Input14" I L 6250 3300 50 
+F45 "Output14" I R 7000 3300 50 
+F46 "Sense14" I L 6250 4100 50 
+F47 "Input15" I L 6250 3400 50 
+F48 "Output15" I R 7000 3400 50 
+F49 "Sense15" I L 6250 4200 50 
+F50 "Input16" I L 6250 3500 50 
+F51 "Output16" I R 7000 3500 50 
+F52 "Sense16" I L 6250 4300 50 
+F53 "Input17" I L 6250 4700 50 
+F54 "Output17" I R 7000 4700 50 
+F55 "Sense17" I L 6250 5500 50 
+F56 "Input18" I L 6250 4800 50 
+F57 "Output18" I R 7000 4800 50 
+F58 "Sense18" I L 6250 5600 50 
+F59 "Input19" I L 6250 4900 50 
+F60 "Output19" I R 7000 4900 50 
+F61 "Sense19" I L 6250 5700 50 
+F62 "Input20" I L 6250 5000 50 
+F63 "Output20" I R 7000 5000 50 
+F64 "Sense20" I L 6250 5800 50 
+F65 "Input21" I L 6250 5100 50 
+F66 "Output21" I R 7000 5100 50 
+F67 "Sense21" I L 6250 5900 50 
+$EndSheet
+$EndSCHEMATC

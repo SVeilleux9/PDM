@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NE555DR
+D Single Precision Timer
+K
+F http://www.ti.com/lit/ds/symlink/ne555.pdf
+$ENDCMP
+#
+$CMP STM32G473VBT6
+D ARM Microcontrollers - MCU
+K
+F https://componentsearchengine.com/Datasheets/1/STM32G473VBT6.pdf
+$ENDCMP
+#
+#End Doc Library

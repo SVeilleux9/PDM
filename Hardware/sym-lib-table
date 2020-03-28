@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name STMICROELECTRONICS_VN7004CHTR)(type Legacy)(uri ${KIPRJMOD}/vn7004/STMICROELECTRONICS_VN7004CHTR.lib)(options "")(descr ""))
+  (lib (name STM32G)(type Legacy)(uri C:/Users/Shaun/Desktop/PCB/rusPDM/Library/SamacSys_Parts.lib)(options "")(descr ""))
+  (lib (name Leavyseal)(type Legacy)(uri C:/Users/Shaun/Desktop/PCB/rusPDM/Library/1-1418362-1.lib)(options "")(descr ""))
+  (lib (name TPD4E001RDBVR)(type Legacy)(uri C:/Users/Shaun/Desktop/PCB/rusPDM/Library/TPD4E001RDBVR.lib)(options "")(descr ""))
+  (lib (name tle9471)(type Legacy)(uri ${KIPRJMOD}/Library/tle9471.lib)(options "")(descr ""))
+)
