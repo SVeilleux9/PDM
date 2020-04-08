@@ -148,7 +148,7 @@ Wire Wire Line
 Wire Wire Line
 	3300 2700 4100 2700
 $Comp
-L Leavyseal:1-1418362-1 J1
+L rusPDM-rescue:1-1418362-1-Leavyseal J1
 U 1 1 5E4F3ABA
 P 8850 3100
 F 0 "J1" H 8850 4767 50  0000 C CNN
@@ -160,14 +160,12 @@ F 5 "1-1418362-1" H 8850 3100 50  0001 L BNN "Field5"
 	1    8850 3100
 	1    0    0    -1  
 $EndComp
-Text Label 10450 4050 0    50   ~ 0
-HighCurrent1
 Text Label 9500 3000 0    50   ~ 0
 HighCurrent2
 Text Label 9500 2200 0    50   ~ 0
 HighCurrent3
 Text Label 8200 4500 2    50   ~ 0
-HighCurrent6
+LowCurrent16
 Wire Wire Line
 	8350 4500 8200 4500
 Wire Wire Line
@@ -177,7 +175,7 @@ Wire Wire Line
 Wire Wire Line
 	9350 2100 9500 2100
 Wire Wire Line
-	10300 4050 10450 4050
+	12050 4100 12200 4100
 Text Label 9500 3400 0    50   ~ 0
 LowCurrent18
 Text Label 8200 3300 2    50   ~ 0
@@ -719,15 +717,13 @@ OUT24
 Text Label 8200 2900 2    50   ~ 0
 LowCurrent14
 Wire Wire Line
-	10300 4150 10450 4150
+	12050 4200 12200 4200
 Text Label 9500 4600 0    50   ~ 0
 LowCurrent13
-Text Label 10450 4150 0    50   ~ 0
-LowCurrent16
 Wire Wire Line
 	9350 4200 9500 4200
 Text Label 9500 4200 0    50   ~ 0
-HighCurrent5
+HighCurrent1
 $Sheet
 S 2050 5000 1350 1250
 U 5E5656AB
@@ -909,13 +905,13 @@ Text Label 6050 2150 2    50   ~ 0
 ADC6
 Text Label 6050 5900 2    50   ~ 0
 ADC21
-Text Label 9900 2500 0    50   ~ 0
-LowCurrent6
-Text Label 10150 1900 0    50   ~ 0
-HighCurrent4
 Text Label 9500 2000 0    50   ~ 0
+LowCurrent6
+Text Label 9500 1700 0    50   ~ 0
+HighCurrent4
+Text Label 9500 1800 0    50   ~ 0
 LowCurrent7
-Text Label 10050 2200 0    50   ~ 0
+Text Label 9500 2100 0    50   ~ 0
 LowCurrent15
 $Sheet
 S 6250 750  750  5550
@@ -989,4 +985,200 @@ F65 "Input21" I L 6250 5100 50
 F66 "Output21" I R 7000 5100 50 
 F67 "Sense21" I L 6250 5900 50 
 $EndSheet
+Wire Wire Line
+	2200 800  2400 800 
+Wire Wire Line
+	2400 900  2200 900 
+Wire Wire Line
+	2200 1000 2400 1000
+Wire Wire Line
+	2400 1100 2200 1100
+Wire Wire Line
+	2200 1200 2400 1200
+Wire Wire Line
+	2400 1300 2200 1300
+Wire Wire Line
+	2200 1400 2400 1400
+Wire Wire Line
+	2400 1500 2200 1500
+Wire Wire Line
+	2200 1900 2400 1900
+Wire Wire Line
+	2400 2000 2200 2000
+Wire Wire Line
+	2200 2100 2400 2100
+Wire Wire Line
+	2400 2200 2200 2200
+Wire Wire Line
+	2200 2300 2400 2300
+Wire Wire Line
+	2400 2400 2200 2400
+Wire Wire Line
+	2200 2500 2400 2500
+Wire Wire Line
+	2400 2600 2200 2600
+Wire Wire Line
+	2200 3000 2400 3000
+Wire Wire Line
+	2400 3100 2200 3100
+Wire Wire Line
+	2200 3200 2400 3200
+Wire Wire Line
+	2400 3300 2200 3300
+Wire Wire Line
+	2200 3400 2400 3400
+Wire Wire Line
+	2400 3500 2200 3500
+Wire Wire Line
+	2200 3600 2400 3600
+Wire Wire Line
+	2200 3700 2400 3700
+Text Label 12200 4200 0    50   ~ 0
+LowCurrent16
+Text Label 12200 4100 0    50   ~ 0
+HighCurrent1
+Wire Wire Line
+	8200 3600 8350 3600
+Wire Wire Line
+	8200 4300 8350 4300
+Wire Wire Line
+	8350 4400 8200 4400
+Wire Wire Line
+	8200 4600 8350 4600
+Wire Wire Line
+	8200 4700 8350 4700
+Wire Wire Line
+	9350 4700 9500 4700
+Wire Wire Line
+	9350 4400 9500 4400
+Wire Wire Line
+	9350 4300 9500 4300
+Wire Wire Line
+	9500 4100 9350 4100
+Wire Wire Line
+	9500 4000 9350 4000
+Wire Wire Line
+	9350 3900 9500 3900
+Wire Wire Line
+	9350 3600 9500 3600
+Wire Wire Line
+	9350 3500 9500 3500
+Wire Wire Line
+	9350 3300 9500 3300
+Wire Wire Line
+	9350 3200 9500 3200
+Wire Wire Line
+	9350 3100 9500 3100
+Wire Wire Line
+	9350 2800 9500 2800
+Wire Wire Line
+	9350 2700 9500 2700
+Wire Wire Line
+	9350 2500 9500 2500
+Wire Wire Line
+	9350 2400 9500 2400
+Text Label 2200 3700 2    50   ~ 0
+Input24
+Text Label 2200 3600 2    50   ~ 0
+Input23
+Text Label 2200 3500 2    50   ~ 0
+Input22
+Text Label 2200 3400 2    50   ~ 0
+Input21
+Text Label 2200 3300 2    50   ~ 0
+Input20
+Text Label 2200 3200 2    50   ~ 0
+Input19
+Text Label 2200 3100 2    50   ~ 0
+Input18
+Text Label 2200 3000 2    50   ~ 0
+Input17
+Text Label 2200 2600 2    50   ~ 0
+Input16
+Text Label 2200 2500 2    50   ~ 0
+Input15
+Text Label 2200 2400 2    50   ~ 0
+Input14
+Text Label 2200 2300 2    50   ~ 0
+Input13
+Text Label 2200 2200 2    50   ~ 0
+Input12
+Text Label 2200 2100 2    50   ~ 0
+Input11
+Text Label 2200 2000 2    50   ~ 0
+Input10
+Text Label 2200 1900 2    50   ~ 0
+Input9
+Text Label 2200 1500 2    50   ~ 0
+Input8
+Text Label 2200 1400 2    50   ~ 0
+Input7
+Text Label 2200 1300 2    50   ~ 0
+Input6
+Text Label 2200 1200 2    50   ~ 0
+Input5
+Text Label 2200 1100 2    50   ~ 0
+Input4
+Text Label 2200 1000 2    50   ~ 0
+Input3
+Text Label 2200 900  2    50   ~ 0
+Input2
+Text Label 2200 800  2    50   ~ 0
+Input1
+Wire Wire Line
+	8350 4000 8200 4000
+Wire Wire Line
+	8200 3900 8350 3900
+Wire Wire Line
+	8350 3800 8200 3800
+Wire Wire Line
+	9350 2300 9500 2300
+Text Label 9500 4700 0    50   ~ 0
+Input5
+Text Label 8200 4000 2    50   ~ 0
+Input6
+Text Label 8200 4400 2    50   ~ 0
+Input7
+Text Label 9500 4300 0    50   ~ 0
+Input4
+Text Label 9500 3900 0    50   ~ 0
+Input2
+Text Label 8200 4700 2    50   ~ 0
+Input1
+Text Label 8200 3600 2    50   ~ 0
+Input8
+Text Label 9500 3500 0    50   ~ 0
+Input3
+Text Label 9500 3100 0    50   ~ 0
+Input15
+Text Label 9500 3600 0    50   ~ 0
+Input13
+Text Label 9500 3200 0    50   ~ 0
+Input12
+Text Label 9500 2800 0    50   ~ 0
+Input10
+Text Label 9500 2700 0    50   ~ 0
+Input11
+Text Label 8200 4300 2    50   ~ 0
+Input9
+Text Label 8200 3900 2    50   ~ 0
+Input24
+Text Label 9500 2300 0    50   ~ 0
+Input23
+Text Label 9500 2400 0    50   ~ 0
+Input22
+Text Label 9500 3300 0    50   ~ 0
+Input21
+Text Label 9500 2500 0    50   ~ 0
+Input20
+Text Label 8200 4600 2    50   ~ 0
+Input19
+Text Label 9500 4100 0    50   ~ 0
+Input18
+Text Label 8200 3800 2    50   ~ 0
+Input17
+Text Label 9500 4400 0    50   ~ 0
+Input16
+Text Label 9500 4000 0    50   ~ 0
+Input14
 $EndSCHEMATC

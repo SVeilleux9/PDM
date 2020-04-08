@@ -4,4 +4,6 @@
   (lib (name Leavyseal)(type Legacy)(uri C:/Users/Shaun/Desktop/PCB/rusPDM/Library/1-1418362-1.lib)(options "")(descr ""))
   (lib (name TPD4E001RDBVR)(type Legacy)(uri C:/Users/Shaun/Desktop/PCB/rusPDM/Library/TPD4E001RDBVR.lib)(options "")(descr ""))
   (lib (name tle9471)(type Legacy)(uri ${KIPRJMOD}/Library/tle9471.lib)(options "")(descr ""))
+  (lib (name rusPDM-rescue)(type Legacy)(uri ${KIPRJMOD}/rusPDM-rescue.lib)(options "")(descr ""))
+  (lib (name STM32F407ZGT6)(type Legacy)(uri ${KIPRJMOD}/Library/STM32F407ZGT6.lib)(options "")(descr ""))
 )
