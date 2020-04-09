@@ -13,17 +13,15 @@ Comment2 ""
 Comment3 ""
 Comment4 ""
 $EndDescr
-Text HLabel 5300 6750 2    50   Input ~ 0
+Text HLabel 2600 2750 0    50   Input ~ 0
 IN3
-Text HLabel 5300 6950 2    50   Input ~ 0
-IN5
-Text HLabel 5300 7050 2    50   Input ~ 0
+Text HLabel 5300 3850 2    50   Input ~ 0
 IN6
-Text HLabel 5300 7150 2    50   Input ~ 0
+Text HLabel 5300 6750 2    50   Input ~ 0
 IN7
-Text HLabel 2600 3650 0    50   Input ~ 0
+Text HLabel 2600 5550 0    50   Input ~ 0
 OUT20
-Text HLabel 2600 3550 0    50   Input ~ 0
+Text HLabel 2600 5650 0    50   Input ~ 0
 OUT21
 Text HLabel 5300 1050 2    50   Input ~ 0
 ADC12
@@ -43,54 +41,50 @@ Text HLabel 5300 950  2    50   Input ~ 0
 ADC5
 Text HLabel 5300 1250 2    50   Input ~ 0
 ADC18
-Text HLabel 5300 7250 2    50   Input ~ 0
+Text HLabel 5300 6850 2    50   Input ~ 0
 IN8
-Text HLabel 5300 7350 2    50   Input ~ 0
-IN9
-Text HLabel 2600 2750 0    50   Input ~ 0
-IN11
-Text HLabel 2600 2850 0    50   Input ~ 0
-IN12
 Text HLabel 2600 2950 0    50   Input ~ 0
+IN9
+Text HLabel 2600 3150 0    50   Input ~ 0
+IN11
+Text HLabel 2600 3250 0    50   Input ~ 0
+IN12
+Text HLabel 5300 6950 2    50   Input ~ 0
 IN13
-Text HLabel 2600 3050 0    50   Input ~ 0
+Text HLabel 5300 7050 2    50   Input ~ 0
 IN14
 Text HLabel 5300 1750 2    50   Input ~ 0
 IN23
 Text HLabel 5300 1850 2    50   Input ~ 0
 IN24
-Text HLabel 2600 4350 0    50   Input ~ 0
+Text HLabel 2600 4250 0    50   Input ~ 0
 OUT19
 Text HLabel 5300 3350 2    50   Input ~ 0
 CAN_RX
 Text HLabel 5300 3450 2    50   Input ~ 0
 CAN_TX
-Text HLabel 2600 4850 0    50   Input ~ 0
+Text HLabel 2600 4550 0    50   Input ~ 0
 ADC24
 Text HLabel 5300 6650 2    50   Input ~ 0
 OUT24
-Text HLabel 2600 6050 0    50   Input ~ 0
-OUT2
 Text HLabel 2600 5950 0    50   Input ~ 0
-OUT3
-Text HLabel 2600 4050 0    50   Input ~ 0
+OUT2
+Text HLabel 5300 3150 2    50   Input ~ 0
 OUT4
 Text HLabel 5300 1450 2    50   Input ~ 0
 ADC9
 Text HLabel 5300 1350 2    50   Input ~ 0
 ADC10
-Text HLabel 2600 6250 0    50   Input ~ 0
+Text HLabel 2600 6150 0    50   Input ~ 0
 OUT5
-Text HLabel 5300 5650 2    50   Input ~ 0
-OUT9
 Text HLabel 5300 5550 2    50   Input ~ 0
+OUT9
+Text HLabel 2600 6550 0    50   Input ~ 0
 OUT10
-Text HLabel 5300 3150 2    50   Input ~ 0
+Text HLabel 2600 2550 0    50   Input ~ 0
 OUT15
-Text HLabel 5300 5750 2    50   Input ~ 0
+Text HLabel 5300 5650 2    50   Input ~ 0
 OUT16
-Text HLabel 2600 3950 0    50   Input ~ 0
-OUT17
 Text HLabel 2600 3350 0    50   Input ~ 0
 IN17
 Text HLabel 5300 4950 2    50   Input ~ 0
@@ -99,10 +93,6 @@ Text HLabel 5300 5150 2    50   Input ~ 0
 IN21
 Text HLabel 5300 1650 2    50   Input ~ 0
 IN22
-Text HLabel 5300 3750 2    50   Input ~ 0
-IN1
-Text HLabel 5300 3850 2    50   Input ~ 0
-IN2
 Wire Wire Line
 	5300 4750 5150 4750
 Wire Wire Line
@@ -138,11 +128,11 @@ Wire Wire Line
 Wire Wire Line
 	2750 6050 2600 6050
 Wire Wire Line
-	2600 3050 2750 3050
+	5300 7050 5150 7050
 Wire Wire Line
-	2600 3150 2750 3150
+	5300 7150 5150 7150
 Wire Wire Line
-	2750 3250 2600 3250
+	5150 7250 5300 7250
 Wire Wire Line
 	5300 1850 5150 1850
 Wire Wire Line
@@ -166,12 +156,12 @@ Wire Wire Line
 Wire Wire Line
 	5150 1450 5300 1450
 Wire Wire Line
-	2600 4850 2750 4850
+	2600 4550 2750 4550
 Wire Wire Line
 	5150 4650 5300 4650
-Text HLabel 2600 4250 0    50   Input ~ 0
+Text HLabel 5300 5750 2    50   Input ~ 0
 OUT13
-Text HLabel 2600 3750 0    50   Input ~ 0
+Text HLabel 2600 6750 0    50   Input ~ 0
 OUT6
 Text HLabel 5300 2950 2    50   Input ~ 0
 MISO
@@ -191,7 +181,7 @@ Text HLabel 5300 1550 2    50   Input ~ 0
 ADC16
 Text HLabel 5300 2550 2    50   Input ~ 0
 ADC11
-Text HLabel 2600 5250 0    50   Input ~ 0
+Text HLabel 2600 4950 0    50   Input ~ 0
 ADC8
 Text HLabel 2600 5150 0    50   Input ~ 0
 ADC7
@@ -304,21 +294,21 @@ F 3 "" H 600 900 50  0001 C CNN
 $EndComp
 Text HLabel 5300 5050 2    50   Input ~ 0
 IN20
-Text HLabel 2600 3150 0    50   Input ~ 0
+Text HLabel 5300 7150 2    50   Input ~ 0
 IN15
-Text HLabel 2600 3250 0    50   Input ~ 0
+Text HLabel 5300 7250 2    50   Input ~ 0
 IN16
 Text HLabel 5300 4850 2    50   Input ~ 0
 IN18
-Text HLabel 2600 5050 0    50   Input ~ 0
+Text HLabel 2600 4750 0    50   Input ~ 0
 ADC6
-Text HLabel 5300 3250 2    50   Input ~ 0
+Text HLabel 2600 5750 0    50   Input ~ 0
 OUT7
-Text HLabel 5300 4250 2    50   Input ~ 0
+Text HLabel 2600 4850 0    50   Input ~ 0
 ADC22
-Text HLabel 2600 4550 0    50   Input ~ 0
+Text HLabel 2600 5250 0    50   Input ~ 0
 ADC21
-Text HLabel 2600 4950 0    50   Input ~ 0
+Text HLabel 5300 4250 2    50   Input ~ 0
 ADC20
 Wire Wire Line
 	5150 2350 5300 2350
@@ -327,67 +317,57 @@ Wire Wire Line
 Wire Wire Line
 	5150 2950 5300 2950
 Wire Wire Line
-	2600 3950 2750 3950
-Wire Wire Line
 	1500 3600 1350 3600
 Wire Wire Line
 	2600 4250 2750 4250
 Wire Wire Line
 	5150 6650 5300 6650
 Wire Wire Line
-	2600 3650 2750 3650
+	2600 5550 2750 5550
 Wire Wire Line
-	2600 3550 2750 3550
+	2600 5650 2750 5650
 Wire Wire Line
-	5300 3250 5150 3250
+	2600 5750 2750 5750
 Wire Wire Line
-	5150 3750 5300 3750
+	2750 2750 2600 2750
 Wire Wire Line
 	5300 3850 5150 3850
 Wire Wire Line
-	5150 6750 5300 6750
-Wire Wire Line
 	5300 6850 5150 6850
 Wire Wire Line
-	5150 6950 5300 6950
-Wire Wire Line
-	5300 7050 5150 7050
-Wire Wire Line
-	5300 7250 5150 7250
-Wire Wire Line
-	5150 7150 5300 7150
-Wire Wire Line
-	2600 4950 2750 4950
-Wire Wire Line
-	2600 4550 2750 4550
-Wire Wire Line
-	2600 5150 2750 5150
-Wire Wire Line
-	2600 4650 2750 4650
-Wire Wire Line
-	2600 5250 2750 5250
+	5150 6750 5300 6750
 Wire Wire Line
 	5300 4250 5150 4250
 Wire Wire Line
+	2600 5250 2750 5250
+Wire Wire Line
+	2600 5150 2750 5150
+Wire Wire Line
 	2600 5050 2750 5050
+Wire Wire Line
+	2600 4850 2750 4850
+Wire Wire Line
+	2600 4950 2750 4950
+Wire Wire Line
+	2600 4750 2750 4750
 Wire Wire Line
 	2750 2350 2100 2350
 Wire Wire Line
 	2750 2250 2100 2250
 Wire Wire Line
-	2600 3750 2750 3750
+	2600 6750 2750 6750
+Wire Wire Line
+	5300 6950 5150 6950
+Wire Wire Line
+	2600 3250 2750 3250
+Wire Wire Line
+	2600 3150 2750 3150
 Wire Wire Line
 	2600 2950 2750 2950
-Wire Wire Line
-	2600 2850 2750 2850
-Wire Wire Line
-	2600 2750 2750 2750
-Wire Wire Line
-	5300 7350 5150 7350
-Text HLabel 2600 4650 0    50   Input ~ 0
+Text HLabel 2600 5050 0    50   Input ~ 0
 ADC15
 Wire Wire Line
-	5300 3150 5150 3150
+	2600 2550 2750 2550
 $Comp
 L Connector_Generic:Conn_02x05_Odd_Even J?
 U 1 1 5E68D9DC
@@ -601,10 +581,10 @@ F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/da
 $EndComp
 Text HLabel 5300 4750 2    50   Input ~ 0
 ADC19
-Text HLabel 2600 4750 0    50   Input ~ 0
+Text HLabel 2600 4650 0    50   Input ~ 0
 ADC23
 Wire Wire Line
-	2750 4750 2600 4750
+	2750 4650 2600 4650
 Text Label 5300 3950 0    50   ~ 0
 USB_D-
 Text Label 5300 4050 0    50   ~ 0
@@ -686,12 +666,12 @@ F 3 "" H 700 2150 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 Wire Wire Line
-	2600 4050 2750 4050
+	5300 3150 5150 3150
 Wire Wire Line
 	2600 4350 2750 4350
 Wire Wire Line
-	2600 3450 2750 3450
-Text HLabel 2600 3450 0    50   Input ~ 0
+	2600 6650 2750 6650
+Text HLabel 2600 6650 0    50   Input ~ 0
 OUT22
 $Comp
 L Device:C C38
@@ -1473,34 +1453,54 @@ Wire Wire Line
 	5150 850  5300 850 
 Text HLabel 5300 850  2    50   Input ~ 0
 ADC1
-Text HLabel 5300 6850 2    50   Input ~ 0
-IN4
 Wire Wire Line
-	5300 7450 5150 7450
-Text HLabel 5300 7450 2    50   Input ~ 0
+	2600 3050 2750 3050
+Text HLabel 2600 3050 0    50   Input ~ 0
 IN10
-Wire Wire Line
-	2600 4450 2750 4450
-Text HLabel 2600 4450 0    50   Input ~ 0
+Text HLabel 2600 4350 0    50   Input ~ 0
 OUT11
-Text HLabel 2600 6150 0    50   Input ~ 0
+Text HLabel 2600 6050 0    50   Input ~ 0
 OUT1
 Wire Wire Line
 	2750 6150 2600 6150
-Text HLabel 2600 6350 0    50   Input ~ 0
+Text HLabel 2600 6250 0    50   Input ~ 0
 OUT12
 Wire Wire Line
 	2750 6350 2600 6350
-Text HLabel 2600 3850 0    50   Input ~ 0
+Text HLabel 2600 2650 0    50   Input ~ 0
 OUT8
 Wire Wire Line
-	2600 3850 2750 3850
-Text HLabel 2600 6550 0    50   Input ~ 0
+	2600 2650 2750 2650
+Text HLabel 2600 6450 0    50   Input ~ 0
 OUT18
 Wire Wire Line
 	2600 6550 2750 6550
-Text HLabel 2600 6450 0    50   Input ~ 0
+Text HLabel 2600 6350 0    50   Input ~ 0
 OUT14
 Wire Wire Line
 	2750 6450 2600 6450
+Wire Wire Line
+	5300 3250 5150 3250
+Text HLabel 5300 3250 2    50   Input ~ 0
+OUT3
+Wire Wire Line
+	2600 4450 2750 4450
+Text HLabel 2600 4450 0    50   Input ~ 0
+OUT17
+Text HLabel 5300 7450 2    50   Input ~ 0
+IN2
+Wire Wire Line
+	5300 7450 5150 7450
+Text HLabel 5300 3750 2    50   Input ~ 0
+IN5
+Wire Wire Line
+	2600 2850 2750 2850
+Wire Wire Line
+	5150 3750 5300 3750
+Text HLabel 2600 2850 0    50   Input ~ 0
+IN4
+Wire Wire Line
+	5150 7350 5300 7350
+Text HLabel 5300 7350 2    50   Input ~ 0
+IN1
 $EndSCHEMATC

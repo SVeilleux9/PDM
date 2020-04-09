@@ -148,7 +148,7 @@ Wire Wire Line
 Wire Wire Line
 	3300 2700 4100 2700
 $Comp
-L Leavyseal:1-1418362-1 J1
+L rusPDM-rescue:1-1418362-1-Leavyseal J1
 U 1 1 5E4F3ABA
 P 8850 3100
 F 0 "J1" H 8850 4767 50  0000 C CNN
@@ -165,7 +165,7 @@ HighCurrent2
 Text Label 9500 2200 0    50   ~ 0
 HighCurrent3
 Text Label 8200 4500 2    50   ~ 0
-HighCurrent6
+LowCurrent16
 Wire Wire Line
 	8350 4500 8200 4500
 Wire Wire Line
@@ -723,7 +723,7 @@ LowCurrent13
 Wire Wire Line
 	9350 4200 9500 4200
 Text Label 9500 4200 0    50   ~ 0
-HighCurrent5
+HighCurrent1
 $Sheet
 S 2050 5000 1350 1250
 U 5E5656AB

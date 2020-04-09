@@ -1,4 +1,5 @@
 (fp_lib_table
   (lib (name vn7004)(type KiCad)(uri ${KIPRJMOD}/vn7004)(options "")(descr ""))
-  (lib (name STM32G)(type KiCad)(uri C:/Users/Shaun/Desktop/PCB/rusPDM/Library/SamacSys_Parts.pretty)(options "")(descr ""))
+  (lib (name Library)(type KiCad)(uri ${KIPRJMOD}/Library)(options "")(descr ""))
+  (lib (name SamacSys_Parts)(type KiCad)(uri ${KIPRJMOD}/Library/SamacSys_Parts.pretty)(options "")(descr ""))
 )
