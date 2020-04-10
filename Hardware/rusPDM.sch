@@ -174,8 +174,6 @@ Wire Wire Line
 	9350 1700 9500 1700
 Wire Wire Line
 	9350 2100 9500 2100
-Wire Wire Line
-	12050 4100 12200 4100
 Text Label 9500 3400 0    50   ~ 0
 LowCurrent18
 Text Label 8200 3300 2    50   ~ 0
@@ -716,8 +714,6 @@ Text Label 5250 5200 0    50   ~ 0
 OUT24
 Text Label 8200 2900 2    50   ~ 0
 LowCurrent14
-Wire Wire Line
-	12050 4200 12200 4200
 Text Label 9500 4600 0    50   ~ 0
 LowCurrent13
 Wire Wire Line
@@ -841,26 +837,6 @@ Wire Wire Line
 	3400 5250 4100 5250
 Wire Wire Line
 	3400 5150 4100 5150
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Wire Wire Line
-	1850 5150 2050 5150
 Wire Wire Line
 	7150 1550 7000 1550
 Text Label 7150 1550 0    50   ~ 0
@@ -1033,10 +1009,6 @@ Wire Wire Line
 	2200 3600 2400 3600
 Wire Wire Line
 	2200 3700 2400 3700
-Text Label 12200 4200 0    50   ~ 0
-LowCurrent16
-Text Label 12200 4100 0    50   ~ 0
-HighCurrent1
 Wire Wire Line
 	8200 3600 8350 3600
 Wire Wire Line
@@ -1181,4 +1153,158 @@ Text Label 9500 4400 0    50   ~ 0
 Input16
 Text Label 9500 4000 0    50   ~ 0
 Input14
+Wire Wire Line
+	1850 5150 2050 5150
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+$Comp
+L STPS3030CG-TR:STPS3030CG-TR D5
+U 1 1 5E9E4580
+P 10950 1600
+F 0 "D5" H 10925 1725 50  0000 C CNN
+F 1 "STPS3030CG-TR" H 10925 1634 50  0000 C CNN
+F 2 "Package_TO_SOT_SMD:TO-263-2" H 10950 1600 50  0001 C CNN
+F 3 "" H 10950 1600 50  0001 C CNN
+	1    10950 1600
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	10700 1800 10550 1800
+Text Label 10550 1800 2    50   ~ 0
+HighCurrent4
+Wire Wire Line
+	10700 1700 10550 1700
+Text Label 10550 1700 2    50   ~ 0
+LowCurrent6
+$Comp
+L power:GND #PWR0173
+U 1 1 5E9A2430
+P 11150 1750
+F 0 "#PWR0173" H 11150 1500 50  0001 C CNN
+F 1 "GND" H 11155 1577 50  0000 C CNN
+F 2 "" H 11150 1750 50  0001 C CNN
+F 3 "" H 11150 1750 50  0001 C CNN
+	1    11150 1750
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D6
+U 1 1 5EA1E6C3
+P 10850 2250
+F 0 "D6" H 10850 2515 50  0000 C CNN
+F 1 "DIODE" H 10850 2424 50  0000 C CNN
+F 2 "Diode_SMD:D_SMC" H 10850 2250 50  0001 C CNN
+F 3 "~" H 10850 2250 50  0001 C CNN
+	1    10850 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D7
+U 1 1 5EA1F207
+P 10850 2600
+F 0 "D7" H 10850 2865 50  0000 C CNN
+F 1 "DIODE" H 10850 2774 50  0000 C CNN
+F 2 "Diode_SMD:D_SMC" H 10850 2600 50  0001 C CNN
+F 3 "~" H 10850 2600 50  0001 C CNN
+	1    10850 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D8
+U 1 1 5EA3DEFE
+P 10850 2900
+F 0 "D8" H 10850 3165 50  0000 C CNN
+F 1 "DIODE" H 10850 3074 50  0000 C CNN
+F 2 "Diode_SMD:D_SMC" H 10850 2900 50  0001 C CNN
+F 3 "~" H 10850 2900 50  0001 C CNN
+	1    10850 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L pspice:DIODE D9
+U 1 1 5EA5CA06
+P 10850 3200
+F 0 "D9" H 10850 3465 50  0000 C CNN
+F 1 "DIODE" H 10850 3374 50  0000 C CNN
+F 2 "Diode_SMD:D_SMC" H 10850 3200 50  0001 C CNN
+F 3 "~" H 10850 3200 50  0001 C CNN
+	1    10850 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0174
+U 1 1 5EA7D8CE
+P 11050 2250
+F 0 "#PWR0174" H 11050 2000 50  0001 C CNN
+F 1 "GND" H 11055 2077 50  0000 C CNN
+F 2 "" H 11050 2250 50  0001 C CNN
+F 3 "" H 11050 2250 50  0001 C CNN
+	1    11050 2250
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0175
+U 1 1 5EA9C5A5
+P 11050 2600
+F 0 "#PWR0175" H 11050 2350 50  0001 C CNN
+F 1 "GND" H 11055 2427 50  0000 C CNN
+F 2 "" H 11050 2600 50  0001 C CNN
+F 3 "" H 11050 2600 50  0001 C CNN
+	1    11050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0176
+U 1 1 5EABB1F4
+P 11050 2900
+F 0 "#PWR0176" H 11050 2650 50  0001 C CNN
+F 1 "GND" H 11055 2727 50  0000 C CNN
+F 2 "" H 11050 2900 50  0001 C CNN
+F 3 "" H 11050 2900 50  0001 C CNN
+	1    11050 2900
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0177
+U 1 1 5EAD9DE5
+P 11050 3200
+F 0 "#PWR0177" H 11050 2950 50  0001 C CNN
+F 1 "GND" H 11055 3027 50  0000 C CNN
+F 2 "" H 11050 3200 50  0001 C CNN
+F 3 "" H 11050 3200 50  0001 C CNN
+	1    11050 3200
+	1    0    0    -1  
+$EndComp
+Text Label 10500 3200 2    50   ~ 0
+LowCurrent4
+Text Label 10500 2900 2    50   ~ 0
+LowCurrent3
+Text Label 10500 2600 2    50   ~ 0
+LowCurrent2
+Text Label 10500 2250 2    50   ~ 0
+LowCurrent1
+Wire Wire Line
+	10650 3200 10500 3200
+Wire Wire Line
+	10500 2900 10650 2900
+Wire Wire Line
+	10500 2600 10650 2600
+Wire Wire Line
+	10500 2250 10650 2250
 $EndSCHEMATC

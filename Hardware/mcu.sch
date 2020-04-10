@@ -186,7 +186,7 @@ ADC8
 Text HLabel 2600 5150 0    50   Input ~ 0
 ADC7
 $Comp
-L Device:Crystal_GND24 Y1
+L rusPDM-rescue:Crystal_GND24-Device Y1
 U 1 1 5E72F695
 P 1600 2300
 F 0 "Y1" V 1554 2544 50  0000 L CNN
@@ -205,7 +205,7 @@ Wire Wire Line
 Wire Wire Line
 	2100 2150 2100 2250
 $Comp
-L power:GND #PWR0122
+L rusPDM-rescue:GND-power #PWR0122
 U 1 1 5E73F59B
 P 1800 2300
 F 0 "#PWR0122" H 1800 2050 50  0001 C CNN
@@ -216,7 +216,7 @@ F 3 "" H 1800 2300 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR0123
+L rusPDM-rescue:GND-power #PWR0123
 U 1 1 5E7406C8
 P 1400 2300
 F 0 "#PWR0123" H 1400 2050 50  0001 C CNN
@@ -233,7 +233,7 @@ Wire Wire Line
 	1200 2450 1600 2450
 Connection ~ 1600 2450
 $Comp
-L Device:R_US R?
+L rusPDM-rescue:R_US-Device R?
 U 1 1 5E7CC237
 P 600 1050
 AR Path="/5E363ACA/5E367FE2/5E7CC237" Ref="R?"  Part="1" 
@@ -258,7 +258,7 @@ F 3 "~" H 600 1050 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0140
+L rusPDM-rescue:GND-power #PWR0140
 U 1 1 5E7D2099
 P 600 1650
 F 0 "#PWR0140" H 600 1400 50  0001 C CNN
@@ -269,7 +269,7 @@ F 3 "" H 600 1650 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0141
+L rusPDM-rescue:GND-power #PWR0141
 U 1 1 5E7D4E81
 P 800 1600
 F 0 "#PWR0141" H 800 1350 50  0001 C CNN
@@ -282,7 +282,7 @@ $EndComp
 Wire Wire Line
 	600  1250 600  1200
 $Comp
-L power:+3.3V #PWR0142
+L rusPDM-rescue:+3.3V-power #PWR0142
 U 1 1 5E7F146F
 P 600 900
 F 0 "#PWR0142" H 600 750 50  0001 C CNN
@@ -369,7 +369,7 @@ ADC15
 Wire Wire Line
 	2600 2550 2750 2550
 $Comp
-L Connector_Generic:Conn_02x05_Odd_Even J?
+L rusPDM-rescue:Conn_02x05_Odd_Even-Connector_Generic J?
 U 1 1 5E68D9DC
 P 7700 1500
 AR Path="/5E68D9DC" Ref="J?"  Part="1" 
@@ -382,7 +382,7 @@ F 3 "~" H 7700 1500 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+3.3V #PWR0150
+L rusPDM-rescue:+3.3V-power #PWR0150
 U 1 1 5E698DBF
 P 7300 1300
 F 0 "#PWR0150" H 7300 1150 50  0001 C CNN
@@ -395,7 +395,7 @@ $EndComp
 Wire Wire Line
 	7500 1300 7300 1300
 $Comp
-L power:GND #PWR0151
+L rusPDM-rescue:GND-power #PWR0151
 U 1 1 5E6A4EB8
 P 7300 1800
 F 0 "#PWR0151" H 7300 1550 50  0001 C CNN
@@ -436,7 +436,7 @@ SWCLK
 Text Label 8000 1300 0    50   ~ 0
 SWDIO
 $Comp
-L Connector:USB_B J3
+L rusPDM-rescue:USB_B-Connector J3
 U 1 1 5E6DDBC5
 P 8550 3000
 F 0 "J3" H 8607 3467 50  0000 C CNN
@@ -451,7 +451,7 @@ USB_D+
 Text Label 8850 3100 0    50   ~ 0
 USB_D-
 $Comp
-L power:GND #PWR0152
+L rusPDM-rescue:GND-power #PWR0152
 U 1 1 5E6E1128
 P 7950 4050
 F 0 "#PWR0152" H 7950 3800 50  0001 C CNN
@@ -462,7 +462,7 @@ F 3 "" H 7950 4050 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L pspice:CAP C?
+L rusPDM-rescue:CAP-pspice C?
 U 1 1 5E6E112E
 P 7950 3800
 AR Path="/5E363ACA/5E367FE2/5E6E112E" Ref="C?"  Part="1" 
@@ -487,7 +487,7 @@ F 3 "~" H 7950 3800 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:R_US R23
+L rusPDM-rescue:R_US-Device R23
 U 1 1 5E6E649E
 P 8250 3800
 F 0 "R23" H 8318 3846 50  0000 L CNN
@@ -507,7 +507,7 @@ Wire Wire Line
 	8450 3550 8450 3400
 Connection ~ 8250 3550
 $Comp
-L power:GND #PWR0153
+L rusPDM-rescue:GND-power #PWR0153
 U 1 1 5E6F34F6
 P 8250 4050
 F 0 "#PWR0153" H 8250 3800 50  0001 C CNN
@@ -520,7 +520,7 @@ $EndComp
 Wire Wire Line
 	8250 4050 8250 3950
 $Comp
-L power:GND #PWR0154
+L rusPDM-rescue:GND-power #PWR0154
 U 1 1 5E6FE9EA
 P 8550 3550
 F 0 "#PWR0154" H 8550 3300 50  0001 C CNN
@@ -533,7 +533,7 @@ $EndComp
 Wire Wire Line
 	8550 3550 8550 3400
 $Comp
-L Power_Protection:USBLC6-2SC6 U4
+L rusPDM-rescue:USBLC6-2SC6-Power_Protection U4
 U 1 1 5E70A5E8
 P 9750 3450
 F 0 "U4" H 9750 4131 50  0000 C CNN
@@ -548,7 +548,7 @@ Wire Wire Line
 Wire Wire Line
 	10250 3350 10250 3550
 $Comp
-L power:GND #PWR0155
+L rusPDM-rescue:GND-power #PWR0155
 U 1 1 5E719758
 P 9750 4100
 F 0 "#PWR0155" H 9750 3850 50  0001 C CNN
@@ -569,7 +569,7 @@ Wire Wire Line
 Wire Wire Line
 	9750 2800 9750 2950
 $Comp
-L MCU_ST_STM32F4:STM32F407ZGTx U27
+L rusPDM-rescue:STM32F407ZGTx-MCU_ST_STM32F4 U27
 U 1 1 5E8E1DB0
 P 3950 4150
 F 0 "U27" H 3950 461 50  0000 C CNN
@@ -594,7 +594,7 @@ MOSI
 Wire Wire Line
 	5300 3050 5150 3050
 $Comp
-L power:GND #PWR0139
+L rusPDM-rescue:GND-power #PWR0139
 U 1 1 5E7440CE
 P 700 2450
 F 0 "#PWR0139" H 700 2200 50  0001 C CNN
@@ -605,7 +605,7 @@ F 3 "" H 700 2450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L pspice:CAP C?
+L rusPDM-rescue:CAP-pspice C?
 U 1 1 5E749B4A
 P 950 2450
 AR Path="/5E363ACA/5E367FE2/5E749B4A" Ref="C?"  Part="1" 
@@ -630,7 +630,7 @@ F 3 "~" H 950 2450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L pspice:CAP C?
+L rusPDM-rescue:CAP-pspice C?
 U 1 1 5E7476F1
 P 950 2150
 AR Path="/5E363ACA/5E367FE2/5E7476F1" Ref="C?"  Part="1" 
@@ -655,7 +655,7 @@ F 3 "~" H 950 2150 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L power:GND #PWR0124
+L rusPDM-rescue:GND-power #PWR0124
 U 1 1 5E74232F
 P 700 2150
 F 0 "#PWR0124" H 700 1900 50  0001 C CNN
@@ -674,7 +674,7 @@ Wire Wire Line
 Text HLabel 2600 6650 0    50   Input ~ 0
 OUT22
 $Comp
-L Device:C C38
+L rusPDM-rescue:C-Device C38
 U 1 1 5ED785B4
 P 3350 -150
 F 0 "C38" V 3400 -50 50  0000 L CNN
@@ -685,7 +685,7 @@ F 3 "~" H 3350 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C39
+L rusPDM-rescue:C-Device C39
 U 1 1 5EDE498F
 P 3450 -150
 F 0 "C39" V 3500 -50 50  0000 L CNN
@@ -696,7 +696,7 @@ F 3 "~" H 3450 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C40
+L rusPDM-rescue:C-Device C40
 U 1 1 5EDEA024
 P 3550 -150
 F 0 "C40" V 3600 -50 50  0000 L CNN
@@ -707,7 +707,7 @@ F 3 "~" H 3550 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C41
+L rusPDM-rescue:C-Device C41
 U 1 1 5EDEF768
 P 3650 -150
 F 0 "C41" V 3700 -50 50  0000 L CNN
@@ -718,7 +718,7 @@ F 3 "~" H 3650 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C43
+L rusPDM-rescue:C-Device C43
 U 1 1 5EDF4E50
 P 3750 -150
 F 0 "C43" V 3800 -50 50  0000 L CNN
@@ -729,7 +729,7 @@ F 3 "~" H 3750 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C44
+L rusPDM-rescue:C-Device C44
 U 1 1 5EDFA42A
 P 3850 -150
 F 0 "C44" V 3900 -50 50  0000 L CNN
@@ -740,7 +740,7 @@ F 3 "~" H 3850 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C45
+L rusPDM-rescue:C-Device C45
 U 1 1 5EDFFA9F
 P 3950 -150
 F 0 "C45" V 4000 -50 50  0000 L CNN
@@ -751,7 +751,7 @@ F 3 "~" H 3950 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C46
+L rusPDM-rescue:C-Device C46
 U 1 1 5EE050EB
 P 4050 -150
 F 0 "C46" V 4100 -50 50  0000 L CNN
@@ -762,7 +762,7 @@ F 3 "~" H 4050 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C47
+L rusPDM-rescue:C-Device C47
 U 1 1 5EE0A88A
 P 4150 -150
 F 0 "C47" V 4200 -50 50  0000 L CNN
@@ -773,7 +773,7 @@ F 3 "~" H 4150 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C48
+L rusPDM-rescue:C-Device C48
 U 1 1 5EE1013C
 P 4250 -150
 F 0 "C48" V 4300 -50 50  0000 L CNN
@@ -784,7 +784,7 @@ F 3 "~" H 4250 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C49
+L rusPDM-rescue:C-Device C49
 U 1 1 5EE1591C
 P 4350 -150
 F 0 "C49" V 4400 -50 50  0000 L CNN
@@ -795,7 +795,7 @@ F 3 "~" H 4350 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C50
+L rusPDM-rescue:C-Device C50
 U 1 1 5EE1AFCB
 P 4450 -150
 F 0 "C50" V 4500 -50 50  0000 L CNN
@@ -806,7 +806,7 @@ F 3 "~" H 4450 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C51
+L rusPDM-rescue:C-Device C51
 U 1 1 5EE207B4
 P 4550 -150
 F 0 "C51" V 4600 -50 50  0000 L CNN
@@ -817,7 +817,7 @@ F 3 "~" H 4550 -150 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C52
+L rusPDM-rescue:C-Device C52
 U 1 1 5EE2B308
 P 5300 -550
 F 0 "C52" V 5350 -450 50  0000 L CNN
@@ -828,7 +828,7 @@ F 3 "~" H 5300 -550 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C53
+L rusPDM-rescue:C-Device C53
 U 1 1 5EE30B32
 P 5600 -550
 F 0 "C53" V 5650 -450 50  0000 L CNN
@@ -931,7 +931,7 @@ Wire Wire Line
 	5300 -700 5600 -700
 Connection ~ 5300 -700
 $Comp
-L power:+3.3V #PWR0125
+L rusPDM-rescue:+3.3V-power #PWR0125
 U 1 1 5EF14812
 P 5950 -1000
 F 0 "#PWR0125" H 5950 -1150 50  0001 C CNN
@@ -947,7 +947,7 @@ Wire Wire Line
 	5950 -700 5950 -1000
 Connection ~ 5600 -700
 $Comp
-L power:GND #PWR0126
+L rusPDM-rescue:GND-power #PWR0126
 U 1 1 5EF26666
 P 5300 -350
 F 0 "#PWR0126" H 5300 -600 50  0001 C CNN
@@ -958,7 +958,7 @@ F 3 "" H 5300 -350 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0127
+L rusPDM-rescue:GND-power #PWR0127
 U 1 1 5EF2EF7C
 P 5600 -350
 F 0 "#PWR0127" H 5600 -600 50  0001 C CNN
@@ -973,7 +973,7 @@ Wire Wire Line
 Wire Wire Line
 	5600 -400 5600 -350
 $Comp
-L power:GND #PWR0128
+L rusPDM-rescue:GND-power #PWR0128
 U 1 1 5EF49945
 P 3350 -300
 F 0 "#PWR0128" H 3350 -550 50  0001 C CNN
@@ -984,7 +984,7 @@ F 3 "" H 3350 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0129
+L rusPDM-rescue:GND-power #PWR0129
 U 1 1 5EF523F3
 P 3450 -300
 F 0 "#PWR0129" H 3450 -550 50  0001 C CNN
@@ -995,7 +995,7 @@ F 3 "" H 3450 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0130
+L rusPDM-rescue:GND-power #PWR0130
 U 1 1 5EF5AD8A
 P 3550 -300
 F 0 "#PWR0130" H 3550 -550 50  0001 C CNN
@@ -1006,7 +1006,7 @@ F 3 "" H 3550 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0131
+L rusPDM-rescue:GND-power #PWR0131
 U 1 1 5EF752D7
 P 3650 -300
 F 0 "#PWR0131" H 3650 -550 50  0001 C CNN
@@ -1017,7 +1017,7 @@ F 3 "" H 3650 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0132
+L rusPDM-rescue:GND-power #PWR0132
 U 1 1 5EF7DC5B
 P 3750 -300
 F 0 "#PWR0132" H 3750 -550 50  0001 C CNN
@@ -1028,7 +1028,7 @@ F 3 "" H 3750 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0133
+L rusPDM-rescue:GND-power #PWR0133
 U 1 1 5EF86615
 P 3850 -300
 F 0 "#PWR0133" H 3850 -550 50  0001 C CNN
@@ -1039,7 +1039,7 @@ F 3 "" H 3850 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0134
+L rusPDM-rescue:GND-power #PWR0134
 U 1 1 5EF8F022
 P 3950 -300
 F 0 "#PWR0134" H 3950 -550 50  0001 C CNN
@@ -1050,7 +1050,7 @@ F 3 "" H 3950 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0135
+L rusPDM-rescue:GND-power #PWR0135
 U 1 1 5EF97A7A
 P 4050 -300
 F 0 "#PWR0135" H 4050 -550 50  0001 C CNN
@@ -1061,7 +1061,7 @@ F 3 "" H 4050 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0136
+L rusPDM-rescue:GND-power #PWR0136
 U 1 1 5EFA0488
 P 4150 -300
 F 0 "#PWR0136" H 4150 -550 50  0001 C CNN
@@ -1072,7 +1072,7 @@ F 3 "" H 4150 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0137
+L rusPDM-rescue:GND-power #PWR0137
 U 1 1 5EFA8E6B
 P 4250 -300
 F 0 "#PWR0137" H 4250 -550 50  0001 C CNN
@@ -1083,7 +1083,7 @@ F 3 "" H 4250 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0138
+L rusPDM-rescue:GND-power #PWR0138
 U 1 1 5EFB175D
 P 4350 -300
 F 0 "#PWR0138" H 4350 -550 50  0001 C CNN
@@ -1094,7 +1094,7 @@ F 3 "" H 4350 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0143
+L rusPDM-rescue:GND-power #PWR0143
 U 1 1 5EFBA04F
 P 4450 -300
 F 0 "#PWR0143" H 4450 -550 50  0001 C CNN
@@ -1105,7 +1105,7 @@ F 3 "" H 4450 -300 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0144
+L rusPDM-rescue:GND-power #PWR0144
 U 1 1 5EFC2941
 P 4550 -300
 F 0 "#PWR0144" H 4550 -550 50  0001 C CNN
@@ -1120,7 +1120,7 @@ Wire Wire Line
 Wire Wire Line
 	4650 -700 4650 550 
 $Comp
-L power:+3.3V #PWR0145
+L rusPDM-rescue:+3.3V-power #PWR0145
 U 1 1 5EFFEBFB
 P 3050 200
 F 0 "#PWR0145" H 3050 50  50  0001 C CNN
@@ -1133,7 +1133,7 @@ $EndComp
 Wire Wire Line
 	3350 200  3050 200 
 $Comp
-L power:GND #PWR0146
+L rusPDM-rescue:GND-power #PWR0146
 U 1 1 5F00FDAB
 P 3550 7750
 F 0 "#PWR0146" H 3550 7500 50  0001 C CNN
@@ -1144,7 +1144,7 @@ F 3 "" H 3550 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0147
+L rusPDM-rescue:GND-power #PWR0147
 U 1 1 5F018456
 P 3650 7750
 F 0 "#PWR0147" H 3650 7500 50  0001 C CNN
@@ -1155,7 +1155,7 @@ F 3 "" H 3650 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0148
+L rusPDM-rescue:GND-power #PWR0148
 U 1 1 5F020BF2
 P 3750 7750
 F 0 "#PWR0148" H 3750 7500 50  0001 C CNN
@@ -1166,7 +1166,7 @@ F 3 "" H 3750 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0149
+L rusPDM-rescue:GND-power #PWR0149
 U 1 1 5F0292F3
 P 3850 7750
 F 0 "#PWR0149" H 3850 7500 50  0001 C CNN
@@ -1177,7 +1177,7 @@ F 3 "" H 3850 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0156
+L rusPDM-rescue:GND-power #PWR0156
 U 1 1 5F031AF1
 P 3950 7750
 F 0 "#PWR0156" H 3950 7500 50  0001 C CNN
@@ -1188,7 +1188,7 @@ F 3 "" H 3950 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0157
+L rusPDM-rescue:GND-power #PWR0157
 U 1 1 5F03A2C3
 P 4050 7750
 F 0 "#PWR0157" H 4050 7500 50  0001 C CNN
@@ -1199,7 +1199,7 @@ F 3 "" H 4050 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0158
+L rusPDM-rescue:GND-power #PWR0158
 U 1 1 5F0428BE
 P 4150 7750
 F 0 "#PWR0158" H 4150 7500 50  0001 C CNN
@@ -1210,7 +1210,7 @@ F 3 "" H 4150 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0159
+L rusPDM-rescue:GND-power #PWR0159
 U 1 1 5F04B0BD
 P 4250 7750
 F 0 "#PWR0159" H 4250 7500 50  0001 C CNN
@@ -1221,7 +1221,7 @@ F 3 "" H 4250 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0160
+L rusPDM-rescue:GND-power #PWR0160
 U 1 1 5F05C1D7
 P 4350 7750
 F 0 "#PWR0160" H 4350 7500 50  0001 C CNN
@@ -1232,7 +1232,7 @@ F 3 "" H 4350 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0161
+L rusPDM-rescue:GND-power #PWR0161
 U 1 1 5F06490C
 P 4450 7750
 F 0 "#PWR0161" H 4450 7500 50  0001 C CNN
@@ -1243,7 +1243,7 @@ F 3 "" H 4450 7750 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C35
+L rusPDM-rescue:C-Device C35
 U 1 1 5F089388
 P 1900 1350
 F 0 "C35" V 1950 1450 50  0000 L CNN
@@ -1254,7 +1254,7 @@ F 3 "~" H 1900 1350 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C C36
+L rusPDM-rescue:C-Device C36
 U 1 1 5F091670
 P 2250 1450
 F 0 "C36" V 2300 1550 50  0000 L CNN
@@ -1265,7 +1265,7 @@ F 3 "~" H 2250 1450 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C C37
+L rusPDM-rescue:C-Device C37
 U 1 1 5F0999E5
 P 2550 1700
 F 0 "C37" V 2600 1800 50  0000 L CNN
@@ -1282,7 +1282,7 @@ Wire Wire Line
 Wire Wire Line
 	2750 1350 2050 1350
 $Comp
-L power:GND #PWR0162
+L rusPDM-rescue:GND-power #PWR0162
 U 1 1 5F0BCA51
 P 1750 1350
 F 0 "#PWR0162" H 1750 1100 50  0001 C CNN
@@ -1293,7 +1293,7 @@ F 3 "" H 1750 1350 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR0163
+L rusPDM-rescue:GND-power #PWR0163
 U 1 1 5F0C565B
 P 2100 1450
 F 0 "#PWR0163" H 2100 1200 50  0001 C CNN
@@ -1304,7 +1304,7 @@ F 3 "" H 2100 1450 50  0001 C CNN
 	0    1    1    0   
 $EndComp
 $Comp
-L power:GND #PWR0164
+L rusPDM-rescue:GND-power #PWR0164
 U 1 1 5F0CE4C7
 P 2550 1850
 F 0 "#PWR0164" H 2550 1600 50  0001 C CNN
@@ -1315,7 +1315,7 @@ F 3 "" H 2550 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:+3.3V #PWR0165
+L rusPDM-rescue:+3.3V-power #PWR0165
 U 1 1 5F0D81FB
 P 2750 950
 F 0 "#PWR0165" H 2750 800 50  0001 C CNN
@@ -1326,7 +1326,7 @@ F 3 "" H 2750 950 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:C C33
+L rusPDM-rescue:C-Device C33
 U 1 1 5F0E9E1B
 P 800 1450
 F 0 "C33" V 850 1550 50  0000 L CNN
@@ -1345,7 +1345,7 @@ Wire Wire Line
 	800  850  800  1200
 Connection ~ 800  1200
 $Comp
-L Switch:SW_Push SW1
+L rusPDM-rescue:SW_Push-Switch SW1
 U 1 1 5E7BDCFB
 P 600 1450
 F 0 "SW1" V 700 1750 50  0000 R CNN
@@ -1356,7 +1356,7 @@ F 3 "~" H 600 1650 50  0001 C CNN
 	0    -1   -1   0   
 $EndComp
 $Comp
-L Device:R_US R?
+L rusPDM-rescue:R_US-Device R?
 U 1 1 5F161EA6
 P 1350 1250
 AR Path="/5E363ACA/5E367FE2/5F161EA6" Ref="R?"  Part="1" 
@@ -1381,7 +1381,7 @@ F 3 "~" H 1350 1250 50  0001 C CNN
 	-1   0    0    1   
 $EndComp
 $Comp
-L power:GND #PWR0166
+L rusPDM-rescue:GND-power #PWR0166
 U 1 1 5F161EAC
 P 1350 1850
 F 0 "#PWR0166" H 1350 1600 50  0001 C CNN
@@ -1392,7 +1392,7 @@ F 3 "" H 1350 1850 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L power:GND #PWR0167
+L rusPDM-rescue:GND-power #PWR0167
 U 1 1 5F161EB2
 P 1550 1800
 F 0 "#PWR0167" H 1550 1550 50  0001 C CNN
@@ -1405,7 +1405,7 @@ $EndComp
 Wire Wire Line
 	1350 1450 1350 1400
 $Comp
-L power:+3.3V #PWR0168
+L rusPDM-rescue:+3.3V-power #PWR0168
 U 1 1 5F161EB9
 P 1350 1100
 F 0 "#PWR0168" H 1350 950 50  0001 C CNN
@@ -1416,7 +1416,7 @@ F 3 "" H 1350 1100 50  0001 C CNN
 	1    0    0    -1  
 $EndComp
 $Comp
-L Device:C C34
+L rusPDM-rescue:C-Device C34
 U 1 1 5F161EC0
 P 1550 1650
 F 0 "C34" V 1600 1750 50  0000 L CNN
@@ -1439,7 +1439,7 @@ Connection ~ 1550 1400
 Wire Wire Line
 	800  850  2750 850 
 $Comp
-L Switch:SW_Push SW2
+L rusPDM-rescue:SW_Push-Switch SW2
 U 1 1 5F161ECC
 P 1350 1650
 F 0 "SW2" V 1450 1950 50  0000 R CNN
@@ -1503,4 +1503,155 @@ Wire Wire Line
 	5150 7350 5300 7350
 Text HLabel 5300 7350 2    50   Input ~ 0
 IN1
+$Comp
+L Interface_CAN_LIN:SN65HVD230 U?
+U 1 1 5EC55900
+P 8950 5450
+AR Path="/5E5656AB/5EC55900" Ref="U?"  Part="1" 
+AR Path="/5E44F1E9/5EC55900" Ref="U28"  Part="1" 
+F 0 "U28" H 8950 4869 50  0000 C CNN
+F 1 "SN65HVD230" H 8950 4960 50  0000 C CNN
+F 2 "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm" H 8950 4950 50  0001 C CNN
+F 3 "http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf" H 8850 5850 50  0001 C CNN
+	1    8950 5450
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Device:R_US R88
+U 1 1 5EC600A2
+P 9850 5800
+F 0 "R88" H 9782 5754 50  0000 R CNN
+F 1 "10k" H 9782 5845 50  0000 R CNN
+F 2 "Resistor_SMD:R_0402_1005Metric" V 9890 5790 50  0001 C CNN
+F 3 "~" H 9850 5800 50  0001 C CNN
+	1    9850 5800
+	-1   0    0    1   
+$EndComp
+$Comp
+L rusPDM-rescue:GND-power #PWR0111
+U 1 1 5EC6C86C
+P 9850 6100
+F 0 "#PWR0111" H 9850 5850 50  0001 C CNN
+F 1 "GND" V 9855 5972 50  0000 R CNN
+F 2 "" H 9850 6100 50  0001 C CNN
+F 3 "" H 9850 6100 50  0001 C CNN
+	1    9850 6100
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9850 6100 9850 5950
+Wire Wire Line
+	7450 5100 7450 5200
+Connection ~ 7450 5900
+Connection ~ 7450 5100
+Text HLabel 7250 5900 0    50   BiDi ~ 0
+CANL
+$Comp
+L rusPDM-rescue:D_TVS_x2_AAC-Device D?
+U 1 1 5EC558F6
+P 7450 5550
+AR Path="/5E5656AB/5EC558F6" Ref="D?"  Part="1" 
+AR Path="/5E44F1E9/5EC558F6" Ref="D3"  Part="1" 
+F 0 "D3" V 7404 5628 50  0000 L CNN
+F 1 "PESD1CAN-UX" V 7495 5628 50  0000 L CNN
+F 2 "Package_TO_SOT_SMD:SOT-323_SC-70" H 7300 5550 50  0001 C CNN
+F 3 "~" H 7300 5550 50  0001 C CNN
+F 4 "PESD1CAN-UX" H 7450 5550 50  0001 C CNN "PN"
+	1    7450 5550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	7250 5900 7450 5900
+$Comp
+L rusPDM-rescue:GND-power #PWR?
+U 1 1 5EC558EE
+P 7300 5550
+AR Path="/5E5656AB/5EC558EE" Ref="#PWR?"  Part="1" 
+AR Path="/5E44F1E9/5EC558EE" Ref="#PWR0178"  Part="1" 
+F 0 "#PWR0178" H 7300 5300 50  0001 C CNN
+F 1 "GND" H 7305 5377 50  0000 C CNN
+F 2 "" H 7300 5550 50  0001 C CNN
+F 3 "" H 7300 5550 50  0001 C CNN
+	1    7300 5550
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	8075 5900 8075 5650
+Wire Wire Line
+	7450 5900 8075 5900
+Wire Wire Line
+	8075 5100 8075 5350
+Wire Wire Line
+	7450 5100 8075 5100
+Wire Wire Line
+	7250 5100 7450 5100
+Connection ~ 8225 5350
+Wire Wire Line
+	8225 5350 8075 5350
+Connection ~ 8225 5650
+Wire Wire Line
+	8075 5650 8225 5650
+Text HLabel 7250 5100 0    50   BiDi ~ 0
+CANH
+Wire Wire Line
+	8225 5400 8225 5350
+Wire Wire Line
+	8225 5600 8225 5650
+$Comp
+L rusPDM-rescue:R_Small-Device R?
+U 1 1 5EC558DA
+P 8225 5500
+AR Path="/5E5656AB/5EC558DA" Ref="R?"  Part="1" 
+AR Path="/5E44F1E9/5EC558DA" Ref="R87"  Part="1" 
+F 0 "R87" V 8125 5425 50  0000 L CNN
+F 1 "120" V 8225 5425 50  0000 L CNN
+F 2 "Resistor_SMD:R_0603_1608Metric" H 8225 5500 50  0001 C CNN
+F 3 "~" H 8225 5500 50  0001 C CNN
+	1    8225 5500
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	9350 5650 9850 5650
+Wire Wire Line
+	8550 5450 8550 5350
+Wire Wire Line
+	8225 5350 8550 5350
+Wire Wire Line
+	8550 5550 8550 5650
+Wire Wire Line
+	8225 5650 8550 5650
+$Comp
+L rusPDM-rescue:+3.3V-power #PWR0179
+U 1 1 5ECF111E
+P 8950 4950
+F 0 "#PWR0179" H 8950 4800 50  0001 C CNN
+F 1 "+3.3V" H 8965 5123 50  0000 C CNN
+F 2 "" H 8950 4950 50  0001 C CNN
+F 3 "" H 8950 4950 50  0001 C CNN
+	1    8950 4950
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 5150 8950 4950
+$Comp
+L rusPDM-rescue:GND-power #PWR0180
+U 1 1 5ECFC0D1
+P 8950 6000
+F 0 "#PWR0180" H 8950 5750 50  0001 C CNN
+F 1 "GND" V 8955 5872 50  0000 R CNN
+F 2 "" H 8950 6000 50  0001 C CNN
+F 3 "" H 8950 6000 50  0001 C CNN
+	1    8950 6000
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8950 6000 8950 5850
+Text HLabel 9500 5450 2    50   Input ~ 0
+CAN_RX
+Text HLabel 9500 5350 2    50   Input ~ 0
+CAN_TX
+Wire Wire Line
+	9350 5350 9500 5350
+Wire Wire Line
+	9350 5450 9500 5450
 $EndSCHEMATC

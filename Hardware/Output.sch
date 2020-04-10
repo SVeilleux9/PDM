@@ -3,7 +3,7 @@ EELAYER 30 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 13 29
+Sheet 24 29
 Title ""
 Date ""
 Rev ""
@@ -15,8 +15,6 @@ Comment4 ""
 $EndDescr
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Wire Wire Line
 	6000 3400 6200 3400
 Wire Wire Line
@@ -30,8 +28,6 @@ Wire Wire Line
 Connection ~ 6000 2900
 Wire Wire Line
 	6000 2900 6300 2900
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Wire Wire Line
 	4300 3800 4300 3950
 Wire Wire Line
@@ -39,7 +35,7 @@ Wire Wire Line
 Wire Wire Line
 	4300 3400 4600 3400
 $Comp
-L Device:R_US R17
+L rusPDM-rescue:R_US-Device R17
 U 1 1 5E535448
 P 3750 3650
 AR Path="/5E53342A/5E534B9B/5E535448" Ref="R17"  Part="1" 
@@ -174,7 +170,7 @@ AR Path="/5E53342A/5E7B5FB9/5E535448" Ref="R72"  Part="1"
 AR Path="/5E53342A/5E7B7BE2/5E535448" Ref="R75"  Part="1" 
 AR Path="/5E53342A/5E7B95EC/5E535448" Ref="R78"  Part="1" 
 AR Path="/5E53342A/5E7BB1EA/5E535448" Ref="R81"  Part="1" 
-F 0 "R33" V 3955 3650 50  0000 C CNN
+F 0 "R66" V 3955 3650 50  0000 C CNN
 F 1 "15k" V 3864 3650 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3790 3640 50  0001 C CNN
 F 3 "~" H 3750 3650 50  0001 C CNN
@@ -205,12 +201,10 @@ Wire Wire Line
 Connection ~ 4300 3400
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
 $Comp
-L Device:R_US R19
+L rusPDM-rescue:R_US-Device R19
 U 1 1 5E53546B
 P 4300 3650
 AR Path="/5E53342A/5E534B9B/5E53546B" Ref="R19"  Part="1" 
@@ -345,105 +339,75 @@ AR Path="/5E53342A/5E7B5FB9/5E53546B" Ref="R74"  Part="1"
 AR Path="/5E53342A/5E7B7BE2/5E53546B" Ref="R77"  Part="1" 
 AR Path="/5E53342A/5E7B95EC/5E53546B" Ref="R80"  Part="1" 
 AR Path="/5E53342A/5E7BB1EA/5E53546B" Ref="R83"  Part="1" 
-F 0 "R35" H 4368 3696 50  0000 L CNN
+F 0 "R68" H 4368 3696 50  0000 L CNN
 F 1 "1k" H 4368 3605 50  0000 L CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 4340 3640 50  0001 C CNN
 F 3 "~" H 4300 3650 50  0001 C CNN
 	1    4300 3650
 	1    0    0    -1  
 $EndComp
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 Text GLabel 4450 2800 0    50   Input ~ 0
 Vbat
-Text GLabel 6200 3400 2    50   Input ~ 0
-VGND
 Text HLabel 6300 2900 2    50   Input ~ 0
 output
-Text GLabel 3450 3950 0    50   Input ~ 0
-VGND
 Text HLabel 3550 3000 0    50   Input ~ 0
 input
 Text HLabel 4200 3400 0    50   Input ~ 0
 vSense
 $Comp
-L Device:R_US R18
+L rusPDM-rescue:R_US-Device R18
 U 1 1 5E35E508
 P 3950 3000
 AR Path="/5E53342A/5E534B9B/5E35E508" Ref="R18"  Part="1" 
@@ -578,7 +542,7 @@ AR Path="/5E53342A/5E7B5FB9/5E35E508" Ref="R73"  Part="1"
 AR Path="/5E53342A/5E7B7BE2/5E35E508" Ref="R76"  Part="1" 
 AR Path="/5E53342A/5E7B95EC/5E35E508" Ref="R79"  Part="1" 
 AR Path="/5E53342A/5E7BB1EA/5E35E508" Ref="R82"  Part="1" 
-F 0 "R34" V 4155 3000 50  0000 C CNN
+F 0 "R67" V 4155 3000 50  0000 C CNN
 F 1 "15k" V 4064 3000 50  0000 C CNN
 F 2 "Resistor_SMD:R_0402_1005Metric" V 3990 2990 50  0001 C CNN
 F 3 "~" H 3950 3000 50  0001 C CNN
@@ -723,11 +687,77 @@ AR Path="/5E53342A/5E7B5FB9/5E535523" Ref="U20"  Part="1"
 AR Path="/5E53342A/5E7B7BE2/5E535523" Ref="U21"  Part="1" 
 AR Path="/5E53342A/5E7B95EC/5E535523" Ref="U22"  Part="1" 
 AR Path="/5E53342A/5E7BB1EA/5E535523" Ref="U26"  Part="1" 
-F 0 "U7" H 5300 2376 50  0000 C CNN
+F 0 "U18" H 5300 2376 50  0000 C CNN
 F 1 "STMICROELECTRONICS_VN7004CHTR" H 4700 2500 50  0001 L BNN
 F 2 "STMICROELECTRONICS_VN7004CHTR_0" H 4700 2500 50  0001 L BNN
 F 3 "" H 4700 2500 50  0001 C CNN
 	1    4700 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0181
+U 1 1 5ED80323
+P 6200 3400
+AR Path="/5E53342A/5E7A82E9/5ED80323" Ref="#PWR0181"  Part="1" 
+AR Path="/5E53342A/5E7A8CA2/5ED80323" Ref="#PWR0183"  Part="1" 
+AR Path="/5E53342A/5E7A907F/5ED80323" Ref="#PWR0185"  Part="1" 
+AR Path="/5E53342A/5E7A94C8/5ED80323" Ref="#PWR0187"  Part="1" 
+AR Path="/5E53342A/5E7A97FA/5ED80323" Ref="#PWR0189"  Part="1" 
+AR Path="/5E53342A/5E7AA01C/5ED80323" Ref="#PWR0191"  Part="1" 
+AR Path="/5E53342A/5E7AA63D/5ED80323" Ref="#PWR0193"  Part="1" 
+AR Path="/5E53342A/5E7AACB8/5ED80323" Ref="#PWR0195"  Part="1" 
+AR Path="/5E53342A/5E7AB5B6/5ED80323" Ref="#PWR0197"  Part="1" 
+AR Path="/5E53342A/5E7ABD66/5ED80323" Ref="#PWR0199"  Part="1" 
+AR Path="/5E53342A/5E7AC74F/5ED80323" Ref="#PWR0201"  Part="1" 
+AR Path="/5E53342A/5E7AE3FA/5ED80323" Ref="#PWR0203"  Part="1" 
+AR Path="/5E53342A/5E7AF16E/5ED80323" Ref="#PWR0205"  Part="1" 
+AR Path="/5E53342A/5E7B00AA/5ED80323" Ref="#PWR0207"  Part="1" 
+AR Path="/5E53342A/5E7B0F63/5ED80323" Ref="#PWR0209"  Part="1" 
+AR Path="/5E53342A/5E7B206C/5ED80323" Ref="#PWR0211"  Part="1" 
+AR Path="/5E53342A/5E7B32BA/5ED80323" Ref="#PWR0213"  Part="1" 
+AR Path="/5E53342A/5E7B484E/5ED80323" Ref="#PWR0215"  Part="1" 
+AR Path="/5E53342A/5E7B5FB9/5ED80323" Ref="#PWR0217"  Part="1" 
+AR Path="/5E53342A/5E7B7BE2/5ED80323" Ref="#PWR0219"  Part="1" 
+AR Path="/5E53342A/5E7B95EC/5ED80323" Ref="#PWR0221"  Part="1" 
+AR Path="/5E53342A/5E7BB1EA/5ED80323" Ref="#PWR0223"  Part="1" 
+F 0 "#PWR0223" H 6200 3150 50  0001 C CNN
+F 1 "GND" H 6205 3227 50  0000 C CNN
+F 2 "" H 6200 3400 50  0001 C CNN
+F 3 "" H 6200 3400 50  0001 C CNN
+	1    6200 3400
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0182
+U 1 1 5ED81105
+P 3450 3950
+AR Path="/5E53342A/5E7A82E9/5ED81105" Ref="#PWR0182"  Part="1" 
+AR Path="/5E53342A/5E7A8CA2/5ED81105" Ref="#PWR0184"  Part="1" 
+AR Path="/5E53342A/5E7A907F/5ED81105" Ref="#PWR0186"  Part="1" 
+AR Path="/5E53342A/5E7A94C8/5ED81105" Ref="#PWR0188"  Part="1" 
+AR Path="/5E53342A/5E7A97FA/5ED81105" Ref="#PWR0190"  Part="1" 
+AR Path="/5E53342A/5E7AA01C/5ED81105" Ref="#PWR0192"  Part="1" 
+AR Path="/5E53342A/5E7AA63D/5ED81105" Ref="#PWR0194"  Part="1" 
+AR Path="/5E53342A/5E7AACB8/5ED81105" Ref="#PWR0196"  Part="1" 
+AR Path="/5E53342A/5E7AB5B6/5ED81105" Ref="#PWR0198"  Part="1" 
+AR Path="/5E53342A/5E7ABD66/5ED81105" Ref="#PWR0200"  Part="1" 
+AR Path="/5E53342A/5E7AC74F/5ED81105" Ref="#PWR0202"  Part="1" 
+AR Path="/5E53342A/5E7AE3FA/5ED81105" Ref="#PWR0204"  Part="1" 
+AR Path="/5E53342A/5E7AF16E/5ED81105" Ref="#PWR0206"  Part="1" 
+AR Path="/5E53342A/5E7B00AA/5ED81105" Ref="#PWR0208"  Part="1" 
+AR Path="/5E53342A/5E7B0F63/5ED81105" Ref="#PWR0210"  Part="1" 
+AR Path="/5E53342A/5E7B206C/5ED81105" Ref="#PWR0212"  Part="1" 
+AR Path="/5E53342A/5E7B32BA/5ED81105" Ref="#PWR0214"  Part="1" 
+AR Path="/5E53342A/5E7B484E/5ED81105" Ref="#PWR0216"  Part="1" 
+AR Path="/5E53342A/5E7B5FB9/5ED81105" Ref="#PWR0218"  Part="1" 
+AR Path="/5E53342A/5E7B7BE2/5ED81105" Ref="#PWR0220"  Part="1" 
+AR Path="/5E53342A/5E7B95EC/5ED81105" Ref="#PWR0222"  Part="1" 
+AR Path="/5E53342A/5E7BB1EA/5ED81105" Ref="#PWR0224"  Part="1" 
+F 0 "#PWR0224" H 3450 3700 50  0001 C CNN
+F 1 "GND" H 3455 3777 50  0000 C CNN
+F 2 "" H 3450 3950 50  0001 C CNN
+F 3 "" H 3450 3950 50  0001 C CNN
+	1    3450 3950
 	1    0    0    -1  
 $EndComp
 $EndSCHEMATC

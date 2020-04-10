@@ -841,26 +841,6 @@ Wire Wire Line
 	3400 5250 4100 5250
 Wire Wire Line
 	3400 5150 4100 5150
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Text GLabel 1850 5150 0    50   Input ~ 0
-Vbat
-Wire Wire Line
-	1850 5150 2050 5150
 Wire Wire Line
 	7150 1550 7000 1550
 Text Label 7150 1550 0    50   ~ 0
@@ -1181,4 +1161,35 @@ Text Label 9500 4400 0    50   ~ 0
 Input16
 Text Label 9500 4000 0    50   ~ 0
 Input14
+Wire Wire Line
+	1850 5150 2050 5150
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+Text GLabel 1850 5150 0    50   Input ~ 0
+Vbat
+$Comp
+L STPS3030CG-TR:STPS3030CG-TR D5
+U 1 1 5E9E4580
+P 10750 2850
+F 0 "D5" H 10725 2975 50  0000 C CNN
+F 1 "STPS3030CG-TR" H 10725 2884 50  0000 C CNN
+F 2 "" H 10750 2850 50  0001 C CNN
+F 3 "" H 10750 2850 50  0001 C CNN
+	1    10750 2850
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
