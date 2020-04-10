@@ -7,4 +7,5 @@
   (lib (name rusPDM-rescue)(type Legacy)(uri ${KIPRJMOD}/rusPDM-rescue.lib)(options "")(descr ""))
   (lib (name STM32F407ZGT6)(type Legacy)(uri ${KIPRJMOD}/Library/STM32F407ZGT6.lib)(options "")(descr ""))
   (lib (name MP2451DT-LF-Z)(type Legacy)(uri ${KIPRJMOD}/Library/MP2451DT-LF-Z.lib)(options "")(descr ""))
+  (lib (name STPS3030CG-TR)(type Legacy)(uri ${KIPRJMOD}/Library/STPS3030CG-TR.lib)(options "")(descr ""))
 )
