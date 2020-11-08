@@ -1,0 +1,5213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="D">
+  <design>
+    <source>C:\Users\Shaun\Documents\GitHub\PDM\Hardware\rusPDM.sch</source>
+    <date>11/7/2020 6:11:09 PM</date>
+    <tool>Eeschema (5.1.5)-3</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>rusPDM.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Input/" tstamps="/5E363ACA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Input.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="3" name="/Input2/" tstamps="/5E8255F9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Input.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="4" name="/Input3/" tstamps="/5E82DF72/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Input.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="5" name="/psu/" tstamps="/5E5656AB/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>psu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="6" name="/OutputGroup1/" tstamps="/5E53342A/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>OutputGroup2.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="7" name="/OutputGroup1/sheet5E7A82DE/" tstamps="/5E53342A/5E7A82E9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="8" name="/OutputGroup1/sheet5E7A8C97/" tstamps="/5E53342A/5E7A8CA2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="9" name="/OutputGroup1/sheet5E7A9074/" tstamps="/5E53342A/5E7A907F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="10" name="/OutputGroup1/sheet5E7A94BD/" tstamps="/5E53342A/5E7A94C8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="11" name="/OutputGroup1/sheet5E7A97EF/" tstamps="/5E53342A/5E7A97FA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="12" name="/OutputGroup1/sheet5E7AA011/" tstamps="/5E53342A/5E7AA01C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="13" name="/OutputGroup1/sheet5E7AA632/" tstamps="/5E53342A/5E7AA63D/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="14" name="/OutputGroup1/sheet5E7AACAD/" tstamps="/5E53342A/5E7AACB8/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="15" name="/OutputGroup1/sheet5E7AB5AB/" tstamps="/5E53342A/5E7AB5B6/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="16" name="/OutputGroup1/sheet5E7ABD5B/" tstamps="/5E53342A/5E7ABD66/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="17" name="/OutputGroup1/sheet5E7AC744/" tstamps="/5E53342A/5E7AC74F/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="18" name="/OutputGroup1/sheet5E7AE3EF/" tstamps="/5E53342A/5E7AE3FA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="19" name="/OutputGroup1/sheet5E7AF163/" tstamps="/5E53342A/5E7AF16E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="20" name="/OutputGroup1/sheet5E7B009F/" tstamps="/5E53342A/5E7B00AA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="21" name="/OutputGroup1/sheet5E7B0F58/" tstamps="/5E53342A/5E7B0F63/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="22" name="/OutputGroup1/sheet5E7B2061/" tstamps="/5E53342A/5E7B206C/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="23" name="/OutputGroup1/sheet5E7B32AF/" tstamps="/5E53342A/5E7B32BA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="24" name="/OutputGroup1/sheet5E7B4843/" tstamps="/5E53342A/5E7B484E/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="25" name="/OutputGroup1/sheet5E7B5FAE/" tstamps="/5E53342A/5E7B5FB9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="26" name="/OutputGroup1/sheet5E7B7BD7/" tstamps="/5E53342A/5E7B7BE2/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="27" name="/OutputGroup1/sheet5E7B95E1/" tstamps="/5E53342A/5E7B95EC/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="28" name="/OutputGroup1/sheet5E7BB1DF/" tstamps="/5E53342A/5E7BB1EA/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>Output.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="29" name="/STM32G473VBT6/" tstamps="/5E44F1E9/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>mcu.sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="J1">
+      <value>1-1418362-1</value>
+      <footprint>TE_1-1418362-1</footprint>
+      <datasheet>https://www.te.com/usa-en/product-1-1418362-1.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493</datasheet>
+      <fields>
+        <field name="Field4">Compliant</field>
+        <field name="Field5">1-1418362-1</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="1-1418362-1-Leavyseal" description=""/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamp>5E4F3ABA</tstamp>
+    </comp>
+    <comp ref="R1">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3B47C2</tstamp>
+    </comp>
+    <comp ref="C1">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3B47DD</tstamp>
+    </comp>
+    <comp ref="R5">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3B47E3</tstamp>
+    </comp>
+    <comp ref="R9">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3CA31C</tstamp>
+    </comp>
+    <comp ref="C5">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3CA322</tstamp>
+    </comp>
+    <comp ref="R13">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3CA328</tstamp>
+    </comp>
+    <comp ref="R2">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3CBD1C</tstamp>
+    </comp>
+    <comp ref="C2">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3CBD22</tstamp>
+    </comp>
+    <comp ref="R10">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D623E</tstamp>
+    </comp>
+    <comp ref="C6">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D6244</tstamp>
+    </comp>
+    <comp ref="R14">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D624A</tstamp>
+    </comp>
+    <comp ref="R3">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D7B0E</tstamp>
+    </comp>
+    <comp ref="C3">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D7B14</tstamp>
+    </comp>
+    <comp ref="R7">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D7B1A</tstamp>
+    </comp>
+    <comp ref="R11">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D83EF</tstamp>
+    </comp>
+    <comp ref="C7">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D83F5</tstamp>
+    </comp>
+    <comp ref="R15">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D83FB</tstamp>
+    </comp>
+    <comp ref="R4">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D965D</tstamp>
+    </comp>
+    <comp ref="C4">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D9663</tstamp>
+    </comp>
+    <comp ref="R8">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3D9669</tstamp>
+    </comp>
+    <comp ref="R12">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3DA15C</tstamp>
+    </comp>
+    <comp ref="C8">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3DA162</tstamp>
+    </comp>
+    <comp ref="R16">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3DA168</tstamp>
+    </comp>
+    <comp ref="U23">
+      <value>74AHC244</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C5515</field>
+        <field name="LCSC Part #">C5515</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="74AHC244-74xx" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E363DAC</tstamp>
+    </comp>
+    <comp ref="U29">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+        <field name="LCSC Part #">C85364</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="SRV05-4-Power_Protection" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5F46803E</tstamp>
+    </comp>
+    <comp ref="U30">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+        <field name="LCSC Part #">C85364</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="SRV05-4-Power_Protection" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5F46B5F8</tstamp>
+    </comp>
+    <comp ref="R6">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input/" tstamps="/5E363ACA/"/>
+      <tstamp>5E3CBD28</tstamp>
+    </comp>
+    <comp ref="R89">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3B47C2</tstamp>
+    </comp>
+    <comp ref="C9">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3B47DD</tstamp>
+    </comp>
+    <comp ref="R93">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3B47E3</tstamp>
+    </comp>
+    <comp ref="R97">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3CA31C</tstamp>
+    </comp>
+    <comp ref="C13">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3CA322</tstamp>
+    </comp>
+    <comp ref="R101">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3CA328</tstamp>
+    </comp>
+    <comp ref="R90">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3CBD1C</tstamp>
+    </comp>
+    <comp ref="C10">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3CBD22</tstamp>
+    </comp>
+    <comp ref="R98">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D623E</tstamp>
+    </comp>
+    <comp ref="C14">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D6244</tstamp>
+    </comp>
+    <comp ref="R102">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D624A</tstamp>
+    </comp>
+    <comp ref="R91">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D7B0E</tstamp>
+    </comp>
+    <comp ref="C11">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D7B14</tstamp>
+    </comp>
+    <comp ref="R95">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D7B1A</tstamp>
+    </comp>
+    <comp ref="R99">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D83EF</tstamp>
+    </comp>
+    <comp ref="C15">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D83F5</tstamp>
+    </comp>
+    <comp ref="R103">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D83FB</tstamp>
+    </comp>
+    <comp ref="R92">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D965D</tstamp>
+    </comp>
+    <comp ref="C12">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D9663</tstamp>
+    </comp>
+    <comp ref="R96">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3D9669</tstamp>
+    </comp>
+    <comp ref="R100">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3DA15C</tstamp>
+    </comp>
+    <comp ref="C16">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3DA162</tstamp>
+    </comp>
+    <comp ref="R104">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3DA168</tstamp>
+    </comp>
+    <comp ref="U24">
+      <value>74AHC244</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C5515</field>
+        <field name="LCSC Part #">C5515</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="74AHC244-74xx" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E363DAC</tstamp>
+    </comp>
+    <comp ref="U31">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+        <field name="LCSC Part #">C85364</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="SRV05-4-Power_Protection" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5F46803E</tstamp>
+    </comp>
+    <comp ref="U32">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+        <field name="LCSC Part #">C85364</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="SRV05-4-Power_Protection" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5F46B5F8</tstamp>
+    </comp>
+    <comp ref="R94">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input2/" tstamps="/5E8255F9/"/>
+      <tstamp>5E3CBD28</tstamp>
+    </comp>
+    <comp ref="R105">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3B47C2</tstamp>
+    </comp>
+    <comp ref="C17">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3B47DD</tstamp>
+    </comp>
+    <comp ref="R109">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3B47E3</tstamp>
+    </comp>
+    <comp ref="R113">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3CA31C</tstamp>
+    </comp>
+    <comp ref="C21">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3CA322</tstamp>
+    </comp>
+    <comp ref="R117">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3CA328</tstamp>
+    </comp>
+    <comp ref="R106">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3CBD1C</tstamp>
+    </comp>
+    <comp ref="C18">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3CBD22</tstamp>
+    </comp>
+    <comp ref="R114">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D623E</tstamp>
+    </comp>
+    <comp ref="C22">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D6244</tstamp>
+    </comp>
+    <comp ref="R118">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D624A</tstamp>
+    </comp>
+    <comp ref="R107">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D7B0E</tstamp>
+    </comp>
+    <comp ref="C19">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D7B14</tstamp>
+    </comp>
+    <comp ref="R111">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D7B1A</tstamp>
+    </comp>
+    <comp ref="R115">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D83EF</tstamp>
+    </comp>
+    <comp ref="C23">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D83F5</tstamp>
+    </comp>
+    <comp ref="R119">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D83FB</tstamp>
+    </comp>
+    <comp ref="R108">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D965D</tstamp>
+    </comp>
+    <comp ref="C20">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D9663</tstamp>
+    </comp>
+    <comp ref="R112">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3D9669</tstamp>
+    </comp>
+    <comp ref="R116">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3DA15C</tstamp>
+    </comp>
+    <comp ref="C24">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3DA162</tstamp>
+    </comp>
+    <comp ref="R120">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3DA168</tstamp>
+    </comp>
+    <comp ref="U25">
+      <value>74AHC244</value>
+      <footprint>Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm</footprint>
+      <datasheet>https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT244.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C5515</field>
+        <field name="LCSC Part #">C5515</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="74AHC244-74xx" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E363DAC</tstamp>
+    </comp>
+    <comp ref="U33">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+        <field name="LCSC Part #">C85364</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="SRV05-4-Power_Protection" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5F46803E</tstamp>
+    </comp>
+    <comp ref="U34">
+      <value>SRV05-4</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www.onsemi.com/pub/Collateral/SRV05-4-D.PDF</datasheet>
+      <fields>
+        <field name="LCSC">C85364</field>
+        <field name="LCSC Part #">C85364</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="SRV05-4-Power_Protection" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5F46B5F8</tstamp>
+    </comp>
+    <comp ref="R110">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/Input3/" tstamps="/5E82DF72/"/>
+      <tstamp>5E3CBD28</tstamp>
+    </comp>
+    <comp ref="D1">
+      <value>SM15T33CA</value>
+      <footprint>Diode_SMD:D_SMC</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C133648</field>
+        <field name="LCSC Part #">C133648</field>
+        <field name="PN">SM15T33CA</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="D_TVS-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5DA74381</tstamp>
+    </comp>
+    <comp ref="C27">
+      <value>1uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15849</field>
+        <field name="LCSC Part #">C15849</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5D9E5C9A</tstamp>
+    </comp>
+    <comp ref="C28">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+        <field name="LCSC Part #">C14663</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5D9E5F24</tstamp>
+    </comp>
+    <comp ref="C26">
+      <value>68uF</value>
+      <footprint>Capacitor_SMD:CP_Elec_8x10</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="PN">EEH-ZE1H680V</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CP-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5DB0F6E7</tstamp>
+    </comp>
+    <comp ref="L1">
+      <value>2.2uH</value>
+      <footprint>Inductor_SMD:L_1210_3225Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C36828</field>
+        <field name="LCSC Part #">C36828</field>
+        <field name="PN">SRN3015TA-2R2M</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="L-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5DB21EA1</tstamp>
+    </comp>
+    <comp ref="C25">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C14663</field>
+        <field name="LCSC Part #">C14663</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5DB22D8F</tstamp>
+    </comp>
+    <comp ref="D2">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C8598</field>
+        <field name="LCSC Part #">C8598</field>
+        <field name="PN">MBRS3200T3G</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="D_Schottky-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5DBD5DC2</tstamp>
+    </comp>
+    <comp ref="C54">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="LCSC Part #">C1525</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5F8C4AE3</tstamp>
+    </comp>
+    <comp ref="R85">
+      <value>120k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25750</field>
+        <field name="LCSC Part #">C25750</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5F8D096E</tstamp>
+    </comp>
+    <comp ref="R86">
+      <value>39k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25783</field>
+        <field name="LCSC Part #">C25783</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5F8D1358</tstamp>
+    </comp>
+    <comp ref="C55">
+      <value>33pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1562</field>
+        <field name="LCSC Part #">C1562</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5F8D41C0</tstamp>
+    </comp>
+    <comp ref="D4">
+      <value>D_Schottky</value>
+      <footprint>Diode_SMD:D_SMA</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C8678</field>
+        <field name="LCSC Part #">C8678</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="D_Schottky-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5F8D9488</tstamp>
+    </comp>
+    <comp ref="IC1">
+      <value>MP2451DT-LF-Z</value>
+      <footprint>SamacSys_Parts:SOT95P280X145-6N</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/MP2451DT-LF-Z.pdf</datasheet>
+      <fields>
+        <field name="Description">Switching Voltage Regulators 600mA 36V 2MHz Non-sync Buck</field>
+        <field name="Height">1.45</field>
+        <field name="LCSC">C14123</field>
+        <field name="LCSC Part #">C14123</field>
+        <field name="Manufacturer_Name">Monolithic Power Systems (MPS)</field>
+        <field name="Manufacturer_Part_Number">MP2451DT-LF-Z</field>
+        <field name="Mouser Part Number">946-MP2451DTLFZ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=946-MP2451DTLFZ</field>
+      </fields>
+      <libsource lib="MP2451DT-LF-Z" part="MP2451DT-LF-Z" description="Switching Voltage Regulators 600mA 36V 2MHz Non-sync Buck"/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5F8B6A3F</tstamp>
+    </comp>
+    <comp ref="C29">
+      <value>22uF</value>
+      <footprint>Capacitor_SMD:C_1210_3225Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C268020</field>
+        <field name="LCSC Part #">C268020</field>
+        <field name="PN">C1210C226K4RACTU</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5D927061</tstamp>
+    </comp>
+    <comp ref="L2">
+      <value>15uH</value>
+      <footprint>Inductor_SMD:L_Bourns-SRN6028</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="PN">SRN5040TA-150M </field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="L-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5D92626A</tstamp>
+    </comp>
+    <comp ref="C30">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C19666</field>
+        <field name="LCSC Part #">C19666</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5DB1B456</tstamp>
+    </comp>
+    <comp ref="J4">
+      <value>7461098</value>
+      <footprint>Library:7461098</footprint>
+      <datasheet>https://componentsearchengine.com/Datasheets/1/7461098.pdf</datasheet>
+      <fields>
+        <field name="Description">Wurth Elektronik REDCUBE 25 Pin Power Element, 250A, Press Fit, M6, Vertical</field>
+        <field name="Height">15.5</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">7461098</field>
+        <field name="Mouser Part Number">710-7461098</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=710-7461098</field>
+      </fields>
+      <libsource lib="7461098" part="7461098" description="Wurth Elektronik REDCUBE 25 Pin Power Element, 250A, Press Fit, M6, Vertical"/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>5E9C828E</tstamp>
+    </comp>
+    <comp ref="R121">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>60000005</tstamp>
+    </comp>
+    <comp ref="C56">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>6000000B</tstamp>
+    </comp>
+    <comp ref="R122">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>60000011</tstamp>
+    </comp>
+    <comp ref="Q1">
+      <value>AO3401A</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23</footprint>
+      <datasheet>http://www.aosmd.com/pdfs/datasheet/AO3401A.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C15127</field>
+        <field name="LCSC Part #">C15127</field>
+      </fields>
+      <libsource lib="Transistor_FET" part="AO3401A" description="-4.0A Id, -30V Vds, P-Channel MOSFET, SOT-23"/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>60002978</tstamp>
+    </comp>
+    <comp ref="R123">
+      <value>100k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25741</field>
+        <field name="LCSC Part #">C25741</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>600106D8</tstamp>
+    </comp>
+    <comp ref="R125">
+      <value>39k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25783</field>
+        <field name="LCSC Part #">C25783</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/psu/" tstamps="/5E5656AB/"/>
+      <tstamp>60011BF3</tstamp>
+    </comp>
+    <comp ref="R17">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A82DE/" tstamps="/5E53342A/5E7A82E9/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R19">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A82DE/" tstamps="/5E53342A/5E7A82E9/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R18">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A82DE/" tstamps="/5E53342A/5E7A82E9/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U1">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A82DE/" tstamps="/5E53342A/5E7A82E9/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R20">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A8C97/" tstamps="/5E53342A/5E7A8CA2/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R22">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A8C97/" tstamps="/5E53342A/5E7A8CA2/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R21">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A8C97/" tstamps="/5E53342A/5E7A8CA2/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U2">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A8C97/" tstamps="/5E53342A/5E7A8CA2/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R24">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A9074/" tstamps="/5E53342A/5E7A907F/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R26">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A9074/" tstamps="/5E53342A/5E7A907F/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R25">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A9074/" tstamps="/5E53342A/5E7A907F/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U3">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A9074/" tstamps="/5E53342A/5E7A907F/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R27">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A94BD/" tstamps="/5E53342A/5E7A94C8/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R29">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A94BD/" tstamps="/5E53342A/5E7A94C8/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R28">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A94BD/" tstamps="/5E53342A/5E7A94C8/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U5">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A94BD/" tstamps="/5E53342A/5E7A94C8/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R30">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A97EF/" tstamps="/5E53342A/5E7A97FA/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R32">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A97EF/" tstamps="/5E53342A/5E7A97FA/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R31">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A97EF/" tstamps="/5E53342A/5E7A97FA/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U6">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7A97EF/" tstamps="/5E53342A/5E7A97FA/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R33">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA011/" tstamps="/5E53342A/5E7AA01C/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R35">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA011/" tstamps="/5E53342A/5E7AA01C/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R34">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA011/" tstamps="/5E53342A/5E7AA01C/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U7">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA011/" tstamps="/5E53342A/5E7AA01C/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R36">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA632/" tstamps="/5E53342A/5E7AA63D/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R38">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA632/" tstamps="/5E53342A/5E7AA63D/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R37">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA632/" tstamps="/5E53342A/5E7AA63D/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U8">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AA632/" tstamps="/5E53342A/5E7AA63D/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R39">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AACAD/" tstamps="/5E53342A/5E7AACB8/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R41">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AACAD/" tstamps="/5E53342A/5E7AACB8/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R40">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AACAD/" tstamps="/5E53342A/5E7AACB8/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U9">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AACAD/" tstamps="/5E53342A/5E7AACB8/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R42">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AB5AB/" tstamps="/5E53342A/5E7AB5B6/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R44">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AB5AB/" tstamps="/5E53342A/5E7AB5B6/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R43">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AB5AB/" tstamps="/5E53342A/5E7AB5B6/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U10">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AB5AB/" tstamps="/5E53342A/5E7AB5B6/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R45">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7ABD5B/" tstamps="/5E53342A/5E7ABD66/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R47">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7ABD5B/" tstamps="/5E53342A/5E7ABD66/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R46">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7ABD5B/" tstamps="/5E53342A/5E7ABD66/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U11">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7ABD5B/" tstamps="/5E53342A/5E7ABD66/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R48">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AC744/" tstamps="/5E53342A/5E7AC74F/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R50">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AC744/" tstamps="/5E53342A/5E7AC74F/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R49">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AC744/" tstamps="/5E53342A/5E7AC74F/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U12">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AC744/" tstamps="/5E53342A/5E7AC74F/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R51">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AE3EF/" tstamps="/5E53342A/5E7AE3FA/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R53">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AE3EF/" tstamps="/5E53342A/5E7AE3FA/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R52">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AE3EF/" tstamps="/5E53342A/5E7AE3FA/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U13">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AE3EF/" tstamps="/5E53342A/5E7AE3FA/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R54">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AF163/" tstamps="/5E53342A/5E7AF16E/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R56">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AF163/" tstamps="/5E53342A/5E7AF16E/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R55">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AF163/" tstamps="/5E53342A/5E7AF16E/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U14">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7AF163/" tstamps="/5E53342A/5E7AF16E/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R57">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B009F/" tstamps="/5E53342A/5E7B00AA/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R59">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B009F/" tstamps="/5E53342A/5E7B00AA/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R58">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B009F/" tstamps="/5E53342A/5E7B00AA/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U15">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B009F/" tstamps="/5E53342A/5E7B00AA/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R60">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B0F58/" tstamps="/5E53342A/5E7B0F63/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R62">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B0F58/" tstamps="/5E53342A/5E7B0F63/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R61">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B0F58/" tstamps="/5E53342A/5E7B0F63/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U16">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B0F58/" tstamps="/5E53342A/5E7B0F63/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R63">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B2061/" tstamps="/5E53342A/5E7B206C/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R65">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B2061/" tstamps="/5E53342A/5E7B206C/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R64">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B2061/" tstamps="/5E53342A/5E7B206C/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U17">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B2061/" tstamps="/5E53342A/5E7B206C/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R66">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B32AF/" tstamps="/5E53342A/5E7B32BA/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R68">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B32AF/" tstamps="/5E53342A/5E7B32BA/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R67">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B32AF/" tstamps="/5E53342A/5E7B32BA/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U18">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B32AF/" tstamps="/5E53342A/5E7B32BA/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R69">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B4843/" tstamps="/5E53342A/5E7B484E/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R71">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B4843/" tstamps="/5E53342A/5E7B484E/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R70">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B4843/" tstamps="/5E53342A/5E7B484E/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U19">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B4843/" tstamps="/5E53342A/5E7B484E/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R72">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B5FAE/" tstamps="/5E53342A/5E7B5FB9/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R74">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B5FAE/" tstamps="/5E53342A/5E7B5FB9/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R73">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B5FAE/" tstamps="/5E53342A/5E7B5FB9/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U20">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B5FAE/" tstamps="/5E53342A/5E7B5FB9/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R75">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B7BD7/" tstamps="/5E53342A/5E7B7BE2/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R77">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B7BD7/" tstamps="/5E53342A/5E7B7BE2/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R76">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B7BD7/" tstamps="/5E53342A/5E7B7BE2/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U21">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B7BD7/" tstamps="/5E53342A/5E7B7BE2/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R78">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B95E1/" tstamps="/5E53342A/5E7B95EC/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R80">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B95E1/" tstamps="/5E53342A/5E7B95EC/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R79">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B95E1/" tstamps="/5E53342A/5E7B95EC/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U22">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7B95E1/" tstamps="/5E53342A/5E7B95EC/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="R81">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7BB1DF/" tstamps="/5E53342A/5E7BB1EA/"/>
+      <tstamp>5E535448</tstamp>
+    </comp>
+    <comp ref="R83">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7BB1DF/" tstamps="/5E53342A/5E7BB1EA/"/>
+      <tstamp>5E53546B</tstamp>
+    </comp>
+    <comp ref="R82">
+      <value>15k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25756</field>
+        <field name="LCSC Part #">C25756</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7BB1DF/" tstamps="/5E53342A/5E7BB1EA/"/>
+      <tstamp>5E35E508</tstamp>
+    </comp>
+    <comp ref="U26">
+      <value>STMICROELECTRONICS_VN7004CHTR</value>
+      <footprint>STMICROELECTRONICS_VN7004CHTR_0</footprint>
+      <libsource lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR" description=""/>
+      <sheetpath names="/OutputGroup1/sheet5E7BB1DF/" tstamps="/5E53342A/5E7BB1EA/"/>
+      <tstamp>5E535523</tstamp>
+    </comp>
+    <comp ref="Y1">
+      <value>16MHz</value>
+      <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C13738</field>
+        <field name="LCSC Part #">C13738</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="Crystal_GND24-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E72F695</tstamp>
+    </comp>
+    <comp ref="R124">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E7CC237</tstamp>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_PinHeader_1.27mm:PinHeader_2x05_P1.27mm_Vertical_SMD</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="rusPDM-rescue" part="Conn_02x05_Odd_Even-Connector_Generic" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E68D9DC</tstamp>
+    </comp>
+    <comp ref="J3">
+      <value>USB_B</value>
+      <footprint>Connector_USB:USB_Micro-B_Wuerth_614105150721_Vertical</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="USB_B_Micro" description="USB Micro Type B connector"/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E6DDBC5</tstamp>
+    </comp>
+    <comp ref="C42">
+      <value>100nF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1525</field>
+        <field name="LCSC Part #">C1525</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E6E112E</tstamp>
+    </comp>
+    <comp ref="R23">
+      <value>R_US</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E6E649E</tstamp>
+    </comp>
+    <comp ref="U4">
+      <value>USBLC6-2SC6</value>
+      <footprint>Package_TO_SOT_SMD:SOT-23-6</footprint>
+      <datasheet>http://www2.st.com/resource/en/datasheet/CD00050750.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C7519</field>
+        <field name="LCSC Part #">C7519</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="USBLC6-2SC6-Power_Protection" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E70A5E8</tstamp>
+    </comp>
+    <comp ref="U27">
+      <value>STM32F407ZGTx</value>
+      <footprint>Package_QFP:LQFP-144_20x20mm_P0.5mm</footprint>
+      <datasheet>http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00037051.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C19156</field>
+        <field name="LCSC Part #">C19156</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="STM32F407ZGTx-MCU_ST_STM32F4" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E8E1DB0</tstamp>
+    </comp>
+    <comp ref="C32">
+      <value>12pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1547</field>
+        <field name="LCSC Part #">C1547</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E749B4A</tstamp>
+    </comp>
+    <comp ref="C31">
+      <value>12pF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C1547</field>
+        <field name="LCSC Part #">C1547</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="CAP-pspice" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E7476F1</tstamp>
+    </comp>
+    <comp ref="C38">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5ED785B4</tstamp>
+    </comp>
+    <comp ref="C39">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EDE498F</tstamp>
+    </comp>
+    <comp ref="C40">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EDEA024</tstamp>
+    </comp>
+    <comp ref="C41">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EDEF768</tstamp>
+    </comp>
+    <comp ref="C43">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EDF4E50</tstamp>
+    </comp>
+    <comp ref="C44">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EDFA42A</tstamp>
+    </comp>
+    <comp ref="C45">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EDFFA9F</tstamp>
+    </comp>
+    <comp ref="C46">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE050EB</tstamp>
+    </comp>
+    <comp ref="C47">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE0A88A</tstamp>
+    </comp>
+    <comp ref="C48">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE1013C</tstamp>
+    </comp>
+    <comp ref="C49">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE1591C</tstamp>
+    </comp>
+    <comp ref="C50">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE1AFCB</tstamp>
+    </comp>
+    <comp ref="C51">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE207B4</tstamp>
+    </comp>
+    <comp ref="C52">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE2B308</tstamp>
+    </comp>
+    <comp ref="C53">
+      <value>4.7uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C19666</field>
+        <field name="LCSC Part #">C19666</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EE30B32</tstamp>
+    </comp>
+    <comp ref="C35">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23630</field>
+        <field name="LCSC Part #">C23630</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F089388</tstamp>
+    </comp>
+    <comp ref="C36">
+      <value>2.2uF</value>
+      <footprint>Capacitor_SMD:C_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C23630</field>
+        <field name="LCSC Part #">C23630</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F091670</tstamp>
+    </comp>
+    <comp ref="C37">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F0999E5</tstamp>
+    </comp>
+    <comp ref="C33">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F0E9E1B</tstamp>
+    </comp>
+    <comp ref="SW1">
+      <value>SW_Push</value>
+      <footprint>Library:SW_TS-1187A-B-A-B</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C318884</field>
+        <field name="LCSC Part #">C318884</field>
+      </fields>
+      <libsource lib="TS-1187A-B-A-B" part="TS-1187A-B-A-B" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5E7BDCFB</tstamp>
+    </comp>
+    <comp ref="R84">
+      <value>1k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C11702</field>
+        <field name="LCSC Part #">C11702</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_US-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F161EA6</tstamp>
+    </comp>
+    <comp ref="C34">
+      <value>10nF</value>
+      <footprint>Capacitor_SMD:C_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C15195</field>
+        <field name="LCSC Part #">C15195</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="C-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F161EC0</tstamp>
+    </comp>
+    <comp ref="SW2">
+      <value>SW_Push</value>
+      <footprint>Library:SW_TS-1187A-B-A-B</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C318884</field>
+        <field name="LCSC Part #">C318884</field>
+      </fields>
+      <libsource lib="TS-1187A-B-A-B" part="TS-1187A-B-A-B" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5F161ECC</tstamp>
+    </comp>
+    <comp ref="U28">
+      <value>SN65HVD230</value>
+      <footprint>Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf</datasheet>
+      <fields>
+        <field name="LCSC">C12084</field>
+        <field name="LCSC Part #">C12084</field>
+      </fields>
+      <libsource lib="Interface_CAN_LIN" part="SN65HVD230" description="CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC"/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EC55900</tstamp>
+    </comp>
+    <comp ref="R88">
+      <value>10k</value>
+      <footprint>Resistor_SMD:R_0402_1005Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C25744</field>
+        <field name="LCSC Part #">C25744</field>
+      </fields>
+      <libsource lib="Device" part="R_US" description="Resistor, US symbol"/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EC600A2</tstamp>
+    </comp>
+    <comp ref="D3">
+      <value>PESD1CAN-UX</value>
+      <footprint>Package_TO_SOT_SMD:SOT-323_SC-70</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="PN">PESD1CAN-UX</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="D_TVS_x2_AAC-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EC558F6</tstamp>
+    </comp>
+    <comp ref="R87">
+      <value>120</value>
+      <footprint>Resistor_SMD:R_0603_1608Metric</footprint>
+      <datasheet>~</datasheet>
+      <fields>
+        <field name="LCSC">C22787</field>
+        <field name="LCSC Part #">C22787</field>
+      </fields>
+      <libsource lib="rusPDM-rescue" part="R_Small-Device" description=""/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5EC558DA</tstamp>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_01x02_Female</value>
+      <footprint>Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical</footprint>
+      <datasheet>~</datasheet>
+      <libsource lib="Connector" part="Conn_01x02_Female" description="Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <sheetpath names="/STM32G473VBT6/" tstamps="/5E44F1E9/"/>
+      <tstamp>5FB1E915</tstamp>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="7461098" part="7461098">
+      <description>Wurth Elektronik REDCUBE 25 Pin Power Element, 250A, Press Fit, M6, Vertical</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/7461098.pdf</docs>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">7461098</field>
+        <field name="Footprint">7461098</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/7461098.pdf</field>
+        <field name="Description">Wurth Elektronik REDCUBE 25 Pin Power Element, 250A, Press Fit, M6, Vertical</field>
+        <field name="Height">15.5</field>
+        <field name="Mouser Part Number">710-7461098</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=710-7461098</field>
+        <field name="Manufacturer_Name">Wurth Elektronik</field>
+        <field name="Manufacturer_Part_Number">7461098</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="unspc"/>
+        <pin num="2" name="2" type="unspc"/>
+        <pin num="3" name="3" type="unspc"/>
+        <pin num="4" name="4" type="unspc"/>
+        <pin num="5" name="5" type="unspc"/>
+        <pin num="6" name="6" type="unspc"/>
+        <pin num="7" name="7" type="unspc"/>
+        <pin num="8" name="8" type="unspc"/>
+        <pin num="9" name="9" type="unspc"/>
+        <pin num="10" name="10" type="unspc"/>
+        <pin num="11" name="11" type="unspc"/>
+        <pin num="12" name="12" type="unspc"/>
+        <pin num="13" name="13" type="unspc"/>
+        <pin num="14" name="14" type="unspc"/>
+        <pin num="15" name="15" type="unspc"/>
+        <pin num="16" name="16" type="unspc"/>
+        <pin num="17" name="17" type="unspc"/>
+        <pin num="18" name="18" type="unspc"/>
+        <pin num="19" name="19" type="unspc"/>
+        <pin num="20" name="20" type="unspc"/>
+        <pin num="21" name="21" type="unspc"/>
+        <pin num="22" name="22" type="unspc"/>
+        <pin num="23" name="23" type="unspc"/>
+        <pin num="24" name="24" type="unspc"/>
+        <pin num="25" name="25" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x02_Female">
+      <description>Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x02_Female</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B_Micro">
+      <aliases>
+        <alias>USB_B_Mini</alias>
+      </aliases>
+      <description>USB Micro Type B connector</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B_Micro</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="passive"/>
+        <pin num="3" name="D+" type="passive"/>
+        <pin num="4" name="ID" type="passive"/>
+        <pin num="5" name="GND" type="power_out"/>
+        <pin num="6" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_US">
+      <description>Resistor, US symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Interface_CAN_LIN" part="SN65HVD230">
+      <aliases>
+        <alias>SN65HVD231</alias>
+      </aliases>
+      <description>CAN Bus Transceivers, 3.3V, 1Mbps, Low-Power capabilities, SOIC</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn65hvd230.pdf</docs>
+      <footprints>
+        <fp>SOIC*3.9x4.9mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SN65HVD230</field>
+        <field name="Footprint">Package_SO:SOIC-8_3.9x4.9mm_P1.27mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="D" type="input"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="VCC" type="power_in"/>
+        <pin num="4" name="R" type="output"/>
+        <pin num="5" name="Vref" type="output"/>
+        <pin num="6" name="CANL" type="BiDi"/>
+        <pin num="7" name="CANH" type="BiDi"/>
+        <pin num="8" name="Rs" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="MP2451DT-LF-Z" part="MP2451DT-LF-Z">
+      <description>Switching Voltage Regulators 600mA 36V 2MHz Non-sync Buck</description>
+      <docs>https://componentsearchengine.com/Datasheets/1/MP2451DT-LF-Z.pdf</docs>
+      <fields>
+        <field name="Reference">IC</field>
+        <field name="Value">MP2451DT-LF-Z</field>
+        <field name="Footprint">SOT95P280X145-6N</field>
+        <field name="Datasheet">https://componentsearchengine.com/Datasheets/1/MP2451DT-LF-Z.pdf</field>
+        <field name="Description">Switching Voltage Regulators 600mA 36V 2MHz Non-sync Buck</field>
+        <field name="Height">1.45</field>
+        <field name="Mouser Part Number">946-MP2451DTLFZ</field>
+        <field name="Mouser Price/Stock">https://www.mouser.com/Search/Refine.aspx?Keyword=946-MP2451DTLFZ</field>
+        <field name="Manufacturer_Name">Monolithic Power Systems (MPS)</field>
+        <field name="Manufacturer_Part_Number">MP2451DT-LF-Z</field>
+      </fields>
+      <pins>
+        <pin num="1" name="BST" type="unspc"/>
+        <pin num="2" name="GND" type="unspc"/>
+        <pin num="3" name="FB" type="unspc"/>
+        <pin num="4" name="EN" type="unspc"/>
+        <pin num="5" name="VIN" type="unspc"/>
+        <pin num="6" name="SW" type="unspc"/>
+      </pins>
+    </libpart>
+    <libpart lib="STMICROELECTRONICS_VN7004CHTR" part="STMICROELECTRONICS_VN7004CHTR">
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STMICROELECTRONICS_VN7004CHTR</field>
+        <field name="Footprint">STMICROELECTRONICS_VN7004CHTR_0</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1_OUTPUT" type="output"/>
+        <pin num="2" name="2_OUTPUT" type="output"/>
+        <pin num="3" name="3_OUTPUT" type="output"/>
+        <pin num="4" name="INPUT" type="input"/>
+        <pin num="5" name="CS" type="input"/>
+        <pin num="6" name="~SE!~" type="input"/>
+        <pin num="7" name="GND" type="power_in"/>
+        <pin num="8" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="TS-1187A-B-A-B" part="TS-1187A-B-A-B">
+      <fields>
+        <field name="Reference">S</field>
+        <field name="Value">TS-1187A-B-A-B</field>
+        <field name="Footprint">SW_TS-1187A-B-A-B</field>
+        <field name="Datasheet">A0</field>
+        <field name="Field4">1.5mm</field>
+        <field name="Field5">Manufacturer Recommendations</field>
+        <field name="Field6">XKB Industrial Precision</field>
+      </fields>
+      <pins>
+        <pin num="A" name="~" type="passive"/>
+        <pin num="B" name="~" type="passive"/>
+        <pin num="C" name="~" type="passive"/>
+        <pin num="D" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Transistor_FET" part="TP0610T">
+      <aliases>
+        <alias>VP0610T</alias>
+        <alias>BSS84</alias>
+        <alias>NTR2101P</alias>
+        <alias>BSS83P</alias>
+        <alias>Si2319CDS</alias>
+        <alias>IRLML6402</alias>
+        <alias>DMG2301L</alias>
+        <alias>AO3401A</alias>
+        <alias>IRLML9301</alias>
+        <alias>IRLML5203</alias>
+        <alias>Si2371EDS</alias>
+      </aliases>
+      <description>-0.18A Id, -60V Vds, P-Channel MOSFET, SOT-23</description>
+      <docs>http://www.vishay.com/docs/70209/70209.pdf</docs>
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Q</field>
+        <field name="Value">TP0610T</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23</field>
+      </fields>
+      <pins>
+        <pin num="1" name="G" type="input"/>
+        <pin num="2" name="S" type="passive"/>
+        <pin num="3" name="D" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="1-1418362-1-Leavyseal">
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">1-1418362-1-Leavyseal</field>
+        <field name="Footprint">TE_1-1418362-1</field>
+        <field name="Datasheet">https://www.te.com/usa-en/product-1-1418362-1.html?te_bu=Cor&amp;te_type=disp&amp;te_campaign=seda_glo_cor-seda-global-disp-prtnr-fy19-seda-model-bom-cta_sma-317_1&amp;elqCampaignId=32493</field>
+        <field name="Field4">Compliant</field>
+        <field name="Field5">1-1418362-1</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+        <pin num="5" name="5" type="passive"/>
+        <pin num="6" name="6" type="passive"/>
+        <pin num="7" name="7" type="passive"/>
+        <pin num="8" name="8" type="passive"/>
+        <pin num="9" name="9" type="passive"/>
+        <pin num="10" name="10" type="passive"/>
+        <pin num="11" name="11" type="passive"/>
+        <pin num="12" name="12" type="passive"/>
+        <pin num="13" name="13" type="passive"/>
+        <pin num="14" name="14" type="passive"/>
+        <pin num="15" name="15" type="passive"/>
+        <pin num="16" name="16" type="passive"/>
+        <pin num="17" name="17" type="passive"/>
+        <pin num="18" name="18" type="passive"/>
+        <pin num="19" name="19" type="passive"/>
+        <pin num="20" name="20" type="passive"/>
+        <pin num="21" name="21" type="passive"/>
+        <pin num="22" name="22" type="passive"/>
+        <pin num="23" name="23" type="passive"/>
+        <pin num="24" name="24" type="passive"/>
+        <pin num="25" name="25" type="passive"/>
+        <pin num="26" name="26" type="passive"/>
+        <pin num="27" name="27" type="passive"/>
+        <pin num="28" name="28" type="passive"/>
+        <pin num="29" name="29" type="passive"/>
+        <pin num="30" name="30" type="passive"/>
+        <pin num="31" name="31" type="passive"/>
+        <pin num="32" name="32" type="passive"/>
+        <pin num="33" name="33" type="passive"/>
+        <pin num="34" name="34" type="passive"/>
+        <pin num="35" name="35" type="passive"/>
+        <pin num="36" name="36" type="passive"/>
+        <pin num="37" name="37" type="passive"/>
+        <pin num="38" name="38" type="passive"/>
+        <pin num="39" name="39" type="passive"/>
+        <pin num="40" name="40" type="passive"/>
+        <pin num="41" name="41" type="passive"/>
+        <pin num="42" name="42" type="passive"/>
+        <pin num="43" name="43" type="passive"/>
+        <pin num="44" name="44" type="passive"/>
+        <pin num="45" name="45" type="passive"/>
+        <pin num="46" name="46" type="passive"/>
+        <pin num="47" name="47" type="passive"/>
+        <pin num="48" name="48" type="passive"/>
+        <pin num="49" name="49" type="passive"/>
+        <pin num="50" name="50" type="passive"/>
+        <pin num="51" name="51" type="passive"/>
+        <pin num="52" name="52" type="passive"/>
+        <pin num="53" name="53" type="passive"/>
+        <pin num="54" name="54" type="passive"/>
+        <pin num="55" name="55" type="passive"/>
+        <pin num="56" name="56" type="passive"/>
+        <pin num="57" name="57" type="passive"/>
+        <pin num="58" name="58" type="passive"/>
+        <pin num="59" name="59" type="passive"/>
+        <pin num="60" name="60" type="passive"/>
+        <pin num="61" name="61" type="passive"/>
+        <pin num="62" name="62" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="74AHC244-74xx">
+      <footprints>
+        <fp>TSSOP*4.4x6.5mm*P0.65mm*</fp>
+        <fp>SSOP*4.4x6.5mm*P0.65mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74AHC244-74xx</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1OE" type="input"/>
+        <pin num="2" name="1A0" type="input"/>
+        <pin num="3" name="2Y0" type="3state"/>
+        <pin num="4" name="1A1" type="input"/>
+        <pin num="5" name="2Y1" type="3state"/>
+        <pin num="6" name="1A2" type="input"/>
+        <pin num="7" name="2Y2" type="3state"/>
+        <pin num="8" name="1A3" type="input"/>
+        <pin num="9" name="2Y3" type="3state"/>
+        <pin num="10" name="GND" type="power_in"/>
+        <pin num="11" name="2A3" type="input"/>
+        <pin num="12" name="1Y3" type="3state"/>
+        <pin num="13" name="2A2" type="input"/>
+        <pin num="14" name="1Y2" type="3state"/>
+        <pin num="15" name="2A1" type="input"/>
+        <pin num="16" name="1Y1" type="3state"/>
+        <pin num="17" name="2A0" type="input"/>
+        <pin num="18" name="1Y0" type="3state"/>
+        <pin num="19" name="2OE" type="input"/>
+        <pin num="20" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="C-Device">
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="CAP-pspice">
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CAP-pspice</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="CP-Device">
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">CP-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="Conn_02x05_Odd_Even-Connector_Generic">
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even-Connector_Generic</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="Crystal_GND24-Device">
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal_GND24-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="D_Schottky-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Schottky-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="D_TVS-Device">
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="D_TVS_x2_AAC-Device">
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_TVS_x2_AAC-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A1" type="passive"/>
+        <pin num="2" name="A2" type="passive"/>
+        <pin num="3" name="common" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="L-Device">
+      <footprints>
+        <fp>Choke_*</fp>
+        <fp>*Coil*</fp>
+        <fp>Inductor_*</fp>
+        <fp>L_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">L</field>
+        <field name="Value">L-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="R_Small-Device">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_Small-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="R_US-Device">
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R_US-Device</field>
+      </fields>
+      <pins>
+        <pin num="1" name="~" type="passive"/>
+        <pin num="2" name="~" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="SRV05-4-Power_Protection">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">SRV05-4-Power_Protection</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="VN" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO3" type="passive"/>
+        <pin num="5" name="VP" type="passive"/>
+        <pin num="6" name="IO4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="STM32F407ZGTx-MCU_ST_STM32F4">
+      <footprints>
+        <fp>LQFP*20x20mm*P0.5mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">STM32F407ZGTx-MCU_ST_STM32F4</field>
+        <field name="Footprint">Package_QFP:LQFP-144_20x20mm_P0.5mm</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PE2" type="BiDi"/>
+        <pin num="2" name="PE3" type="BiDi"/>
+        <pin num="3" name="PE4" type="BiDi"/>
+        <pin num="4" name="PE5" type="BiDi"/>
+        <pin num="5" name="PE6" type="BiDi"/>
+        <pin num="6" name="VBAT" type="power_in"/>
+        <pin num="7" name="PC13" type="BiDi"/>
+        <pin num="8" name="PC14" type="BiDi"/>
+        <pin num="9" name="PC15" type="BiDi"/>
+        <pin num="10" name="PF0" type="BiDi"/>
+        <pin num="11" name="PF1" type="BiDi"/>
+        <pin num="12" name="PF2" type="BiDi"/>
+        <pin num="13" name="PF3" type="BiDi"/>
+        <pin num="14" name="PF4" type="BiDi"/>
+        <pin num="15" name="PF5" type="BiDi"/>
+        <pin num="16" name="VSS" type="power_in"/>
+        <pin num="17" name="VDD" type="power_in"/>
+        <pin num="18" name="PF6" type="BiDi"/>
+        <pin num="19" name="PF7" type="BiDi"/>
+        <pin num="20" name="PF8" type="BiDi"/>
+        <pin num="21" name="PF9" type="BiDi"/>
+        <pin num="22" name="PF10" type="BiDi"/>
+        <pin num="23" name="PH0" type="input"/>
+        <pin num="24" name="PH1" type="input"/>
+        <pin num="25" name="NRST" type="input"/>
+        <pin num="26" name="PC0" type="BiDi"/>
+        <pin num="27" name="PC1" type="BiDi"/>
+        <pin num="28" name="PC2" type="BiDi"/>
+        <pin num="29" name="PC3" type="BiDi"/>
+        <pin num="30" name="VDD" type="power_in"/>
+        <pin num="31" name="VSSA" type="power_in"/>
+        <pin num="32" name="VREF+" type="power_in"/>
+        <pin num="33" name="VDDA" type="power_in"/>
+        <pin num="34" name="PA0" type="BiDi"/>
+        <pin num="35" name="PA1" type="BiDi"/>
+        <pin num="36" name="PA2" type="BiDi"/>
+        <pin num="37" name="PA3" type="BiDi"/>
+        <pin num="38" name="VSS" type="power_in"/>
+        <pin num="39" name="VDD" type="power_in"/>
+        <pin num="40" name="PA4" type="BiDi"/>
+        <pin num="41" name="PA5" type="BiDi"/>
+        <pin num="42" name="PA6" type="BiDi"/>
+        <pin num="43" name="PA7" type="BiDi"/>
+        <pin num="44" name="PC4" type="BiDi"/>
+        <pin num="45" name="PC5" type="BiDi"/>
+        <pin num="46" name="PB0" type="BiDi"/>
+        <pin num="47" name="PB1" type="BiDi"/>
+        <pin num="48" name="PB2" type="BiDi"/>
+        <pin num="49" name="PF11" type="BiDi"/>
+        <pin num="50" name="PF12" type="BiDi"/>
+        <pin num="51" name="VSS" type="power_in"/>
+        <pin num="52" name="VDD" type="power_in"/>
+        <pin num="53" name="PF13" type="BiDi"/>
+        <pin num="54" name="PF14" type="BiDi"/>
+        <pin num="55" name="PF15" type="BiDi"/>
+        <pin num="56" name="PG0" type="BiDi"/>
+        <pin num="57" name="PG1" type="BiDi"/>
+        <pin num="58" name="PE7" type="BiDi"/>
+        <pin num="59" name="PE8" type="BiDi"/>
+        <pin num="60" name="PE9" type="BiDi"/>
+        <pin num="61" name="VSS" type="power_in"/>
+        <pin num="62" name="VDD" type="power_in"/>
+        <pin num="63" name="PE10" type="BiDi"/>
+        <pin num="64" name="PE11" type="BiDi"/>
+        <pin num="65" name="PE12" type="BiDi"/>
+        <pin num="66" name="PE13" type="BiDi"/>
+        <pin num="67" name="PE14" type="BiDi"/>
+        <pin num="68" name="PE15" type="BiDi"/>
+        <pin num="69" name="PB10" type="BiDi"/>
+        <pin num="70" name="PB11" type="BiDi"/>
+        <pin num="71" name="VCAP_1" type="power_in"/>
+        <pin num="72" name="VDD" type="power_in"/>
+        <pin num="73" name="PB12" type="BiDi"/>
+        <pin num="74" name="PB13" type="BiDi"/>
+        <pin num="75" name="PB14" type="BiDi"/>
+        <pin num="76" name="PB15" type="BiDi"/>
+        <pin num="77" name="PD8" type="BiDi"/>
+        <pin num="78" name="PD9" type="BiDi"/>
+        <pin num="79" name="PD10" type="BiDi"/>
+        <pin num="80" name="PD11" type="BiDi"/>
+        <pin num="81" name="PD12" type="BiDi"/>
+        <pin num="82" name="PD13" type="BiDi"/>
+        <pin num="83" name="VSS" type="power_in"/>
+        <pin num="84" name="VDD" type="power_in"/>
+        <pin num="85" name="PD14" type="BiDi"/>
+        <pin num="86" name="PD15" type="BiDi"/>
+        <pin num="87" name="PG2" type="BiDi"/>
+        <pin num="88" name="PG3" type="BiDi"/>
+        <pin num="89" name="PG4" type="BiDi"/>
+        <pin num="90" name="PG5" type="BiDi"/>
+        <pin num="91" name="PG6" type="BiDi"/>
+        <pin num="92" name="PG7" type="BiDi"/>
+        <pin num="93" name="PG8" type="BiDi"/>
+        <pin num="94" name="VSS" type="power_in"/>
+        <pin num="95" name="VDD" type="power_in"/>
+        <pin num="96" name="PC6" type="BiDi"/>
+        <pin num="97" name="PC7" type="BiDi"/>
+        <pin num="98" name="PC8" type="BiDi"/>
+        <pin num="99" name="PC9" type="BiDi"/>
+        <pin num="100" name="PA8" type="BiDi"/>
+        <pin num="101" name="PA9" type="BiDi"/>
+        <pin num="102" name="PA10" type="BiDi"/>
+        <pin num="103" name="PA11" type="BiDi"/>
+        <pin num="104" name="PA12" type="BiDi"/>
+        <pin num="105" name="PA13" type="BiDi"/>
+        <pin num="106" name="VCAP_2" type="power_in"/>
+        <pin num="107" name="VSS" type="power_in"/>
+        <pin num="108" name="VDD" type="power_in"/>
+        <pin num="109" name="PA14" type="BiDi"/>
+        <pin num="110" name="PA15" type="BiDi"/>
+        <pin num="111" name="PC10" type="BiDi"/>
+        <pin num="112" name="PC11" type="BiDi"/>
+        <pin num="113" name="PC12" type="BiDi"/>
+        <pin num="114" name="PD0" type="BiDi"/>
+        <pin num="115" name="PD1" type="BiDi"/>
+        <pin num="116" name="PD2" type="BiDi"/>
+        <pin num="117" name="PD3" type="BiDi"/>
+        <pin num="118" name="PD4" type="BiDi"/>
+        <pin num="119" name="PD5" type="BiDi"/>
+        <pin num="120" name="VSS" type="power_in"/>
+        <pin num="121" name="VDD" type="power_in"/>
+        <pin num="122" name="PD6" type="BiDi"/>
+        <pin num="123" name="PD7" type="BiDi"/>
+        <pin num="124" name="PG9" type="BiDi"/>
+        <pin num="125" name="PG10" type="BiDi"/>
+        <pin num="126" name="PG11" type="BiDi"/>
+        <pin num="127" name="PG12" type="BiDi"/>
+        <pin num="128" name="PG13" type="BiDi"/>
+        <pin num="129" name="PG14" type="BiDi"/>
+        <pin num="130" name="VSS" type="power_in"/>
+        <pin num="131" name="VDD" type="power_in"/>
+        <pin num="132" name="PG15" type="BiDi"/>
+        <pin num="133" name="PB3" type="BiDi"/>
+        <pin num="134" name="PB4" type="BiDi"/>
+        <pin num="135" name="PB5" type="BiDi"/>
+        <pin num="136" name="PB6" type="BiDi"/>
+        <pin num="137" name="PB7" type="BiDi"/>
+        <pin num="138" name="BOOT0" type="input"/>
+        <pin num="139" name="PB8" type="BiDi"/>
+        <pin num="140" name="PB9" type="BiDi"/>
+        <pin num="141" name="PE0" type="BiDi"/>
+        <pin num="142" name="PE1" type="BiDi"/>
+        <pin num="143" name="PDR_ON" type="input"/>
+        <pin num="144" name="VDD" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="rusPDM-rescue" part="USBLC6-2SC6-Power_Protection">
+      <footprints>
+        <fp>SOT?23*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">USBLC6-2SC6-Power_Protection</field>
+        <field name="Footprint">Package_TO_SOT_SMD:SOT-23-6</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IO1" type="passive"/>
+        <pin num="2" name="GND" type="passive"/>
+        <pin num="3" name="IO2" type="passive"/>
+        <pin num="4" name="IO2" type="passive"/>
+        <pin num="5" name="VBUS" type="passive"/>
+        <pin num="6" name="IO1" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="7461098">
+      <uri>C:\Users\Shaun\Documents\GitHub\PDM\Hardware/Library/7461098.lib</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Connector.lib</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Device.lib</uri>
+    </library>
+    <library logical="Interface_CAN_LIN">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Interface_CAN_LIN.lib</uri>
+    </library>
+    <library logical="MP2451DT-LF-Z">
+      <uri>C:\Users\Shaun\Documents\GitHub\PDM\Hardware/Library/MP2451DT-LF-Z.lib</uri>
+    </library>
+    <library logical="STMICROELECTRONICS_VN7004CHTR">
+      <uri>C:\Users\Shaun\Documents\GitHub\PDM\Hardware/vn7004/STMICROELECTRONICS_VN7004CHTR.lib</uri>
+    </library>
+    <library logical="TS-1187A-B-A-B">
+      <uri>C:\Users\Shaun\Documents\GitHub\PDM\Hardware/Library/TS-1187A-B-A-B.lib</uri>
+    </library>
+    <library logical="Transistor_FET">
+      <uri>C:\Program Files\KiCad\share\kicad\library/Transistor_FET.lib</uri>
+    </library>
+    <library logical="rusPDM-rescue">
+      <uri>C:\Users\Shaun\Documents\GitHub\PDM\Hardware/rusPDM-rescue.lib</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="/OUT10">
+      <node ref="U27" pin="53"/>
+      <node ref="R46" pin="1"/>
+    </net>
+    <net code="2" name="/OUT22">
+      <node ref="R52" pin="1"/>
+      <node ref="U27" pin="137"/>
+    </net>
+    <net code="3" name="/OUT9">
+      <node ref="R43" pin="1"/>
+      <node ref="U27" pin="12"/>
+    </net>
+    <net code="4" name="/ADC12">
+      <node ref="R56" pin="1"/>
+      <node ref="U27" pin="36"/>
+      <node ref="U14" pin="5"/>
+    </net>
+    <net code="5" name="/OUT13">
+      <node ref="R58" pin="1"/>
+      <node ref="U27" pin="9"/>
+    </net>
+    <net code="6" name="/ADC13">
+      <node ref="U27" pin="44"/>
+      <node ref="U15" pin="5"/>
+      <node ref="R59" pin="1"/>
+    </net>
+    <net code="7" name="/OUT14">
+      <node ref="R61" pin="1"/>
+      <node ref="U27" pin="55"/>
+    </net>
+    <net code="8" name="/ADC14">
+      <node ref="U16" pin="5"/>
+      <node ref="U27" pin="37"/>
+      <node ref="R62" pin="1"/>
+    </net>
+    <net code="9" name="/LowCurrent3">
+      <node ref="U3" pin="3"/>
+      <node ref="U3" pin="1"/>
+      <node ref="J1" pin="21"/>
+      <node ref="U3" pin="2"/>
+    </net>
+    <net code="10" name="/LowCurrent4">
+      <node ref="U5" pin="2"/>
+      <node ref="U5" pin="1"/>
+      <node ref="U5" pin="3"/>
+      <node ref="J1" pin="33"/>
+    </net>
+    <net code="11" name="/LowCurrent5">
+      <node ref="U6" pin="2"/>
+      <node ref="U6" pin="3"/>
+      <node ref="U6" pin="1"/>
+      <node ref="J1" pin="60"/>
+    </net>
+    <net code="12" name="/ADC15">
+      <node ref="R65" pin="1"/>
+      <node ref="U17" pin="5"/>
+      <node ref="U27" pin="20"/>
+    </net>
+    <net code="13" name="/ADC4">
+      <node ref="R29" pin="1"/>
+      <node ref="U27" pin="27"/>
+      <node ref="U5" pin="5"/>
+    </net>
+    <net code="14" name="/Input16">
+      <node ref="J1" pin="35"/>
+      <node ref="R100" pin="1"/>
+    </net>
+    <net code="15" name="/Input5">
+      <node ref="R3" pin="1"/>
+      <node ref="J1" pin="32"/>
+    </net>
+    <net code="16" name="/Input6">
+      <node ref="J1" pin="24"/>
+      <node ref="R11" pin="1"/>
+    </net>
+    <net code="17" name="/Input7">
+      <node ref="J1" pin="28"/>
+      <node ref="R4" pin="1"/>
+    </net>
+    <net code="18" name="/Input8">
+      <node ref="R12" pin="1"/>
+      <node ref="J1" pin="20"/>
+    </net>
+    <net code="19" name="/Input9">
+      <node ref="J1" pin="27"/>
+      <node ref="R89" pin="1"/>
+    </net>
+    <net code="20" name="/Input10">
+      <node ref="R97" pin="1"/>
+      <node ref="J1" pin="51"/>
+    </net>
+    <net code="21" name="/Input11">
+      <node ref="R90" pin="1"/>
+      <node ref="J1" pin="52"/>
+    </net>
+    <net code="22" name="/Input12">
+      <node ref="J1" pin="47"/>
+      <node ref="R98" pin="1"/>
+    </net>
+    <net code="23" name="/Input13">
+      <node ref="R91" pin="1"/>
+      <node ref="J1" pin="43"/>
+    </net>
+    <net code="24" name="/Input14">
+      <node ref="J1" pin="39"/>
+      <node ref="R99" pin="1"/>
+    </net>
+    <net code="25" name="/Input15">
+      <node ref="R92" pin="1"/>
+      <node ref="J1" pin="48"/>
+    </net>
+    <net code="26" name="/Input4">
+      <node ref="J1" pin="36"/>
+      <node ref="R10" pin="1"/>
+    </net>
+    <net code="27" name="/Input17">
+      <node ref="J1" pin="22"/>
+      <node ref="R105" pin="1"/>
+    </net>
+    <net code="28" name="/Input18">
+      <node ref="J1" pin="38"/>
+      <node ref="R113" pin="1"/>
+    </net>
+    <net code="29" name="/Input19">
+      <node ref="R106" pin="1"/>
+      <node ref="J1" pin="30"/>
+    </net>
+    <net code="30" name="/Input20">
+      <node ref="J1" pin="54"/>
+      <node ref="R114" pin="1"/>
+    </net>
+    <net code="31" name="/Input21">
+      <node ref="R107" pin="1"/>
+      <node ref="J1" pin="46"/>
+    </net>
+    <net code="32" name="/Input22">
+      <node ref="R115" pin="1"/>
+      <node ref="J1" pin="55"/>
+    </net>
+    <net code="33" name="/Input23">
+      <node ref="R108" pin="1"/>
+      <node ref="J1" pin="56"/>
+    </net>
+    <net code="34" name="/Input24">
+      <node ref="J1" pin="23"/>
+      <node ref="R116" pin="1"/>
+    </net>
+    <net code="35" name="/ADC16">
+      <node ref="U27" pin="43"/>
+      <node ref="U18" pin="5"/>
+      <node ref="R68" pin="1"/>
+    </net>
+    <net code="36" name="/OUT18">
+      <node ref="R73" pin="1"/>
+      <node ref="U27" pin="54"/>
+    </net>
+    <net code="37" name="/OUT19">
+      <node ref="U27" pin="10"/>
+      <node ref="R76" pin="1"/>
+    </net>
+    <net code="38" name="/OUT3">
+      <node ref="U27" pin="5"/>
+      <node ref="R25" pin="1"/>
+    </net>
+    <net code="39" name="/OUT20">
+      <node ref="U27" pin="3"/>
+      <node ref="R79" pin="1"/>
+    </net>
+    <net code="40" name="/OUT21">
+      <node ref="R82" pin="1"/>
+      <node ref="U27" pin="2"/>
+    </net>
+    <net code="41" name="/Input1">
+      <node ref="R1" pin="1"/>
+      <node ref="J1" pin="31"/>
+    </net>
+    <net code="42" name="/Input2">
+      <node ref="J1" pin="40"/>
+      <node ref="R9" pin="1"/>
+    </net>
+    <net code="43" name="/Input3">
+      <node ref="R2" pin="1"/>
+      <node ref="J1" pin="44"/>
+    </net>
+    <net code="44" name="/ADC2">
+      <node ref="U2" pin="5"/>
+      <node ref="U27" pin="29"/>
+      <node ref="R22" pin="1"/>
+    </net>
+    <net code="45" name="/OUT1">
+      <node ref="U27" pin="58"/>
+      <node ref="R18" pin="1"/>
+    </net>
+    <net code="46" name="/OUT2">
+      <node ref="R21" pin="1"/>
+      <node ref="U27" pin="7"/>
+    </net>
+    <net code="47" name="/OUT4">
+      <node ref="R28" pin="1"/>
+      <node ref="U27" pin="4"/>
+    </net>
+    <net code="48" name="/OUT5">
+      <node ref="U27" pin="57"/>
+      <node ref="R31" pin="1"/>
+    </net>
+    <net code="49" name="/OUT6">
+      <node ref="U27" pin="136"/>
+      <node ref="R34" pin="1"/>
+    </net>
+    <net code="50" name="/OUT7">
+      <node ref="R37" pin="1"/>
+      <node ref="U27" pin="1"/>
+    </net>
+    <net code="51" name="/ADC1">
+      <node ref="R19" pin="1"/>
+      <node ref="U1" pin="5"/>
+      <node ref="U27" pin="34"/>
+    </net>
+    <net code="52" name="/ADC5">
+      <node ref="U27" pin="35"/>
+      <node ref="U6" pin="5"/>
+      <node ref="R32" pin="1"/>
+    </net>
+    <net code="53" name="/ADC7">
+      <node ref="U27" pin="21"/>
+      <node ref="R38" pin="1"/>
+      <node ref="U8" pin="5"/>
+    </net>
+    <net code="54" name="/OUT15">
+      <node ref="U27" pin="142"/>
+      <node ref="R64" pin="1"/>
+    </net>
+    <net code="55" name="/OUT16">
+      <node ref="R67" pin="1"/>
+      <node ref="U27" pin="8"/>
+    </net>
+    <net code="56" name="/ADC9">
+      <node ref="U10" pin="5"/>
+      <node ref="U27" pin="42"/>
+      <node ref="R44" pin="1"/>
+    </net>
+    <net code="57" name="/ADC10">
+      <node ref="U27" pin="41"/>
+      <node ref="U11" pin="5"/>
+      <node ref="R47" pin="1"/>
+    </net>
+    <net code="58" name="/ADC11">
+      <node ref="U27" pin="46"/>
+      <node ref="U12" pin="5"/>
+      <node ref="R50" pin="1"/>
+    </net>
+    <net code="59" name="/ADC3">
+      <node ref="U3" pin="5"/>
+      <node ref="R26" pin="1"/>
+      <node ref="U27" pin="28"/>
+    </net>
+    <net code="60" name="/ADC8">
+      <node ref="U27" pin="19"/>
+      <node ref="U9" pin="5"/>
+      <node ref="R41" pin="1"/>
+    </net>
+    <net code="61" name="/ADC6">
+      <node ref="U7" pin="5"/>
+      <node ref="U27" pin="15"/>
+      <node ref="R35" pin="1"/>
+    </net>
+    <net code="62" name="/ADC21">
+      <node ref="U26" pin="5"/>
+      <node ref="U27" pin="22"/>
+      <node ref="R83" pin="1"/>
+    </net>
+    <net code="63" name="/LowCurrent7">
+      <node ref="U9" pin="1"/>
+      <node ref="J1" pin="1"/>
+      <node ref="U9" pin="3"/>
+      <node ref="U9" pin="2"/>
+    </net>
+    <net code="64" name="/LowCurrent15">
+      <node ref="J1" pin="37"/>
+      <node ref="U17" pin="1"/>
+      <node ref="U17" pin="2"/>
+      <node ref="U17" pin="3"/>
+    </net>
+    <net code="65" name="/ADC22">
+      <node ref="R53" pin="1"/>
+      <node ref="U13" pin="5"/>
+      <node ref="U27" pin="18"/>
+    </net>
+    <net code="66" name="/LowCurrent13">
+      <node ref="U15" pin="1"/>
+      <node ref="U15" pin="2"/>
+      <node ref="U15" pin="3"/>
+      <node ref="J1" pin="17"/>
+    </net>
+    <net code="67" name="/psu/12v_PROT">
+      <node ref="D2" pin="1"/>
+      <node ref="L1" pin="1"/>
+      <node ref="C25" pin="1"/>
+      <node ref="Q1" pin="3"/>
+      <node ref="R122" pin="1"/>
+    </net>
+    <net code="68" name="/STM32G473VBT6/!SS">
+      <node ref="U27" pin="110"/>
+    </net>
+    <net code="69" name="/STM32G473VBT6/MISO">
+      <node ref="U27" pin="134"/>
+    </net>
+    <net code="70" name="/STM32G473VBT6/MOSI">
+      <node ref="U27" pin="135"/>
+    </net>
+    <net code="71" name="/STM32G473VBT6/SCK">
+      <node ref="U27" pin="133"/>
+    </net>
+    <net code="72" name="/STM32G473VBT6/IN9">
+      <node ref="U27" pin="89"/>
+      <node ref="U24" pin="18"/>
+    </net>
+    <net code="73" name="/STM32G473VBT6/IN10">
+      <node ref="U24" pin="16"/>
+      <node ref="U27" pin="90"/>
+    </net>
+    <net code="74" name="/STM32G473VBT6/IN11">
+      <node ref="U27" pin="91"/>
+      <node ref="U24" pin="14"/>
+    </net>
+    <net code="75" name="/STM32G473VBT6/IN12">
+      <node ref="U27" pin="92"/>
+      <node ref="U24" pin="12"/>
+    </net>
+    <net code="76" name="/STM32G473VBT6/IN13">
+      <node ref="U24" pin="3"/>
+      <node ref="U27" pin="79"/>
+    </net>
+    <net code="77" name="/STM32G473VBT6/IN14">
+      <node ref="U27" pin="80"/>
+      <node ref="U24" pin="5"/>
+    </net>
+    <net code="78" name="/STM32G473VBT6/IN15">
+      <node ref="U24" pin="7"/>
+      <node ref="U27" pin="81"/>
+    </net>
+    <net code="79" name="/STM32G473VBT6/IN16">
+      <node ref="U27" pin="82"/>
+      <node ref="U24" pin="9"/>
+    </net>
+    <net code="80" name="/!pwrEn">
+      <node ref="R121" pin="1"/>
+      <node ref="J1" pin="8"/>
+    </net>
+    <net code="81" name="/CANL">
+      <node ref="J1" pin="12"/>
+      <node ref="R87" pin="2"/>
+      <node ref="D3" pin="2"/>
+      <node ref="U28" pin="6"/>
+    </net>
+    <net code="82" name="/CANH">
+      <node ref="J1" pin="16"/>
+      <node ref="D3" pin="1"/>
+      <node ref="U28" pin="7"/>
+      <node ref="J5" pin="2"/>
+    </net>
+    <net code="83" name="/STM32G473VBT6/IN3">
+      <node ref="U27" pin="87"/>
+      <node ref="U23" pin="14"/>
+    </net>
+    <net code="84" name="/STM32G473VBT6/IN4">
+      <node ref="U27" pin="88"/>
+      <node ref="U23" pin="12"/>
+    </net>
+    <net code="85" name="/OUT24">
+      <node ref="U27" pin="123"/>
+    </net>
+    <net code="86" name="/OUT8">
+      <node ref="U27" pin="141"/>
+      <node ref="R40" pin="1"/>
+    </net>
+    <net code="87" name="/OUT11">
+      <node ref="U27" pin="11"/>
+      <node ref="R49" pin="1"/>
+    </net>
+    <net code="88" name="Vbat">
+      <node ref="U6" pin="8"/>
+      <node ref="U26" pin="8"/>
+      <node ref="U5" pin="8"/>
+      <node ref="J4" pin="15"/>
+      <node ref="U14" pin="8"/>
+      <node ref="U10" pin="8"/>
+      <node ref="U8" pin="8"/>
+      <node ref="D1" pin="1"/>
+      <node ref="U17" pin="8"/>
+      <node ref="D2" pin="2"/>
+      <node ref="U7" pin="8"/>
+      <node ref="U15" pin="8"/>
+      <node ref="U12" pin="8"/>
+      <node ref="U2" pin="8"/>
+      <node ref="J4" pin="23"/>
+      <node ref="J4" pin="25"/>
+      <node ref="U11" pin="8"/>
+      <node ref="U1" pin="8"/>
+      <node ref="U20" pin="8"/>
+      <node ref="U9" pin="8"/>
+      <node ref="U16" pin="8"/>
+      <node ref="U19" pin="8"/>
+      <node ref="U22" pin="8"/>
+      <node ref="J4" pin="22"/>
+      <node ref="J4" pin="21"/>
+      <node ref="J4" pin="20"/>
+      <node ref="J4" pin="19"/>
+      <node ref="J4" pin="18"/>
+      <node ref="J4" pin="17"/>
+      <node ref="J4" pin="16"/>
+      <node ref="J4" pin="14"/>
+      <node ref="J4" pin="13"/>
+      <node ref="U3" pin="8"/>
+      <node ref="J4" pin="12"/>
+      <node ref="J4" pin="11"/>
+      <node ref="J4" pin="10"/>
+      <node ref="J4" pin="9"/>
+      <node ref="U13" pin="8"/>
+      <node ref="J4" pin="3"/>
+      <node ref="J4" pin="2"/>
+      <node ref="J4" pin="1"/>
+      <node ref="J4" pin="24"/>
+      <node ref="U18" pin="8"/>
+      <node ref="U21" pin="8"/>
+      <node ref="J4" pin="7"/>
+      <node ref="J4" pin="8"/>
+      <node ref="J4" pin="5"/>
+      <node ref="J4" pin="6"/>
+      <node ref="J4" pin="4"/>
+    </net>
+    <net code="89" name="/OUT17">
+      <node ref="U27" pin="59"/>
+      <node ref="R70" pin="1"/>
+    </net>
+    <net code="90" name="/OUT12">
+      <node ref="R55" pin="1"/>
+      <node ref="U27" pin="56"/>
+    </net>
+    <net code="91" name="/ADC18">
+      <node ref="U27" pin="40"/>
+      <node ref="R74" pin="1"/>
+      <node ref="U20" pin="5"/>
+    </net>
+    <net code="92" name="/LowCurrent17">
+      <node ref="U20" pin="3"/>
+      <node ref="U20" pin="2"/>
+      <node ref="U20" pin="1"/>
+      <node ref="J1" pin="58"/>
+    </net>
+    <net code="93" name="/LowCurrent18">
+      <node ref="U19" pin="2"/>
+      <node ref="U19" pin="3"/>
+      <node ref="U19" pin="1"/>
+      <node ref="J1" pin="49"/>
+    </net>
+    <net code="94" name="/HighCurrent1">
+      <node ref="J1" pin="5"/>
+      <node ref="U21" pin="2"/>
+      <node ref="U21" pin="1"/>
+      <node ref="U21" pin="3"/>
+    </net>
+    <net code="95" name="Net-(J1-Pad50)">
+      <node ref="J1" pin="50"/>
+    </net>
+    <net code="96" name="Net-(J1-Pad53)">
+      <node ref="J1" pin="53"/>
+    </net>
+    <net code="97" name="/LowCurrent12">
+      <node ref="J1" pin="57"/>
+      <node ref="U14" pin="3"/>
+      <node ref="U14" pin="2"/>
+      <node ref="U14" pin="1"/>
+    </net>
+    <net code="98" name="/LowCurrent10">
+      <node ref="J1" pin="59"/>
+      <node ref="U11" pin="3"/>
+      <node ref="U11" pin="2"/>
+      <node ref="U11" pin="1"/>
+    </net>
+    <net code="99" name="Net-(J1-Pad6)">
+      <node ref="J1" pin="6"/>
+    </net>
+    <net code="100" name="/LowCurrent14">
+      <node ref="U16" pin="2"/>
+      <node ref="U16" pin="1"/>
+      <node ref="U16" pin="3"/>
+      <node ref="J1" pin="61"/>
+    </net>
+    <net code="101" name="Net-(J1-Pad7)">
+      <node ref="J1" pin="7"/>
+    </net>
+    <net code="102" name="/HighCurrent2">
+      <node ref="U22" pin="3"/>
+      <node ref="U22" pin="1"/>
+      <node ref="U22" pin="2"/>
+      <node ref="J1" pin="29"/>
+    </net>
+    <net code="103" name="/HighCurrent4">
+      <node ref="J1" pin="3"/>
+      <node ref="U13" pin="2"/>
+      <node ref="U13" pin="3"/>
+      <node ref="U13" pin="1"/>
+    </net>
+    <net code="104" name="Net-(J1-Pad34)">
+      <node ref="J1" pin="34"/>
+    </net>
+    <net code="105" name="/LowCurrent16">
+      <node ref="U18" pin="2"/>
+      <node ref="U18" pin="1"/>
+      <node ref="U18" pin="3"/>
+      <node ref="J1" pin="13"/>
+    </net>
+    <net code="106" name="/LowCurrent6">
+      <node ref="U7" pin="1"/>
+      <node ref="J1" pin="4"/>
+      <node ref="U7" pin="2"/>
+      <node ref="U7" pin="3"/>
+    </net>
+    <net code="107" name="/HighCurrent3">
+      <node ref="J1" pin="41"/>
+      <node ref="U26" pin="2"/>
+      <node ref="U26" pin="3"/>
+      <node ref="U26" pin="1"/>
+    </net>
+    <net code="108" name="Net-(J1-Pad42)">
+      <node ref="J1" pin="42"/>
+    </net>
+    <net code="109" name="/LowCurrent1">
+      <node ref="J1" pin="45"/>
+      <node ref="U1" pin="3"/>
+      <node ref="U1" pin="1"/>
+      <node ref="U1" pin="2"/>
+    </net>
+    <net code="110" name="/LowCurrent2">
+      <node ref="J1" pin="25"/>
+      <node ref="U2" pin="2"/>
+      <node ref="U2" pin="1"/>
+      <node ref="U2" pin="3"/>
+    </net>
+    <net code="111" name="/LowCurrent9">
+      <node ref="U10" pin="1"/>
+      <node ref="U10" pin="3"/>
+      <node ref="U10" pin="2"/>
+      <node ref="J1" pin="62"/>
+    </net>
+    <net code="112" name="/LowCurrent8">
+      <node ref="U8" pin="2"/>
+      <node ref="U8" pin="3"/>
+      <node ref="U8" pin="1"/>
+      <node ref="J1" pin="2"/>
+    </net>
+    <net code="113" name="/LowCurrent11">
+      <node ref="U12" pin="2"/>
+      <node ref="U12" pin="3"/>
+      <node ref="J1" pin="9"/>
+      <node ref="U12" pin="1"/>
+    </net>
+    <net code="114" name="/STM32G473VBT6/IN7">
+      <node ref="U23" pin="7"/>
+      <node ref="U27" pin="77"/>
+    </net>
+    <net code="115" name="/STM32G473VBT6/IN5">
+      <node ref="U27" pin="73"/>
+      <node ref="U23" pin="3"/>
+    </net>
+    <net code="116" name="/STM32G473VBT6/IN1">
+      <node ref="U23" pin="18"/>
+      <node ref="U27" pin="85"/>
+    </net>
+    <net code="117" name="/STM32G473VBT6/IN2">
+      <node ref="U27" pin="86"/>
+      <node ref="U23" pin="16"/>
+    </net>
+    <net code="118" name="/STM32G473VBT6/IN6">
+      <node ref="U27" pin="74"/>
+      <node ref="U23" pin="5"/>
+    </net>
+    <net code="119" name="/STM32G473VBT6/IN8">
+      <node ref="U23" pin="9"/>
+      <node ref="U27" pin="78"/>
+    </net>
+    <net code="120" name="/STM32G473VBT6/IN17">
+      <node ref="U27" pin="93"/>
+      <node ref="U25" pin="18"/>
+    </net>
+    <net code="121" name="Net-(J1-Pad10)">
+      <node ref="J1" pin="10"/>
+    </net>
+    <net code="122" name="Net-(J1-Pad11)">
+      <node ref="J1" pin="11"/>
+    </net>
+    <net code="123" name="Net-(J1-Pad14)">
+      <node ref="J1" pin="14"/>
+    </net>
+    <net code="124" name="Net-(J1-Pad15)">
+      <node ref="J1" pin="15"/>
+    </net>
+    <net code="125" name="Net-(J1-Pad18)">
+      <node ref="J1" pin="18"/>
+    </net>
+    <net code="126" name="Net-(J1-Pad19)">
+      <node ref="J1" pin="19"/>
+    </net>
+    <net code="127" name="Net-(J1-Pad26)">
+      <node ref="J1" pin="26"/>
+    </net>
+    <net code="128" name="/STM32G473VBT6/IN21">
+      <node ref="U25" pin="3"/>
+      <node ref="U27" pin="99"/>
+    </net>
+    <net code="129" name="/STM32G473VBT6/IN24">
+      <node ref="U27" pin="102"/>
+      <node ref="U25" pin="9"/>
+    </net>
+    <net code="130" name="/STM32G473VBT6/IN23">
+      <node ref="U25" pin="7"/>
+      <node ref="U27" pin="101"/>
+    </net>
+    <net code="131" name="/STM32G473VBT6/IN22">
+      <node ref="U27" pin="100"/>
+      <node ref="U25" pin="5"/>
+    </net>
+    <net code="132" name="/STM32G473VBT6/IN20">
+      <node ref="U27" pin="98"/>
+      <node ref="U25" pin="12"/>
+    </net>
+    <net code="133" name="/STM32G473VBT6/IN19">
+      <node ref="U27" pin="97"/>
+      <node ref="U25" pin="14"/>
+    </net>
+    <net code="134" name="/STM32G473VBT6/IN18">
+      <node ref="U25" pin="16"/>
+      <node ref="U27" pin="96"/>
+    </net>
+    <net code="135" name="/ADC17">
+      <node ref="U19" pin="5"/>
+      <node ref="R71" pin="1"/>
+      <node ref="U27" pin="47"/>
+    </net>
+    <net code="136" name="/ADC19">
+      <node ref="U27" pin="45"/>
+      <node ref="R77" pin="1"/>
+      <node ref="U21" pin="5"/>
+    </net>
+    <net code="137" name="/ADC20">
+      <node ref="R80" pin="1"/>
+      <node ref="U22" pin="5"/>
+      <node ref="U27" pin="26"/>
+    </net>
+    <net code="138" name="/ADC23">
+      <node ref="U27" pin="14"/>
+    </net>
+    <net code="139" name="/ADC24">
+      <node ref="U27" pin="13"/>
+    </net>
+    <net code="143" name="/Input/ESD1">
+      <node ref="R7" pin="2"/>
+      <node ref="C3" pin="1"/>
+      <node ref="U23" pin="4"/>
+      <node ref="U29" pin="1"/>
+      <node ref="R3" pin="2"/>
+    </net>
+    <net code="144" name="+3V3">
+      <node ref="R13" pin="1"/>
+      <node ref="R109" pin="1"/>
+      <node ref="C49" pin="2"/>
+      <node ref="C48" pin="2"/>
+      <node ref="U31" pin="5"/>
+      <node ref="R14" pin="1"/>
+      <node ref="R120" pin="1"/>
+      <node ref="U27" pin="95"/>
+      <node ref="U27" pin="84"/>
+      <node ref="U32" pin="5"/>
+      <node ref="R118" pin="1"/>
+      <node ref="U29" pin="5"/>
+      <node ref="U23" pin="20"/>
+      <node ref="U30" pin="5"/>
+      <node ref="R5" pin="1"/>
+      <node ref="R16" pin="1"/>
+      <node ref="R8" pin="1"/>
+      <node ref="R15" pin="1"/>
+      <node ref="R7" pin="1"/>
+      <node ref="R117" pin="1"/>
+      <node ref="R6" pin="1"/>
+      <node ref="R84" pin="2"/>
+      <node ref="R110" pin="1"/>
+      <node ref="L2" pin="2"/>
+      <node ref="C29" pin="1"/>
+      <node ref="R95" pin="1"/>
+      <node ref="C55" pin="2"/>
+      <node ref="R124" pin="2"/>
+      <node ref="R85" pin="2"/>
+      <node ref="C30" pin="1"/>
+      <node ref="R93" pin="1"/>
+      <node ref="R104" pin="1"/>
+      <node ref="R101" pin="1"/>
+      <node ref="U25" pin="20"/>
+      <node ref="U33" pin="5"/>
+      <node ref="U28" pin="3"/>
+      <node ref="R103" pin="1"/>
+      <node ref="R96" pin="1"/>
+      <node ref="U34" pin="5"/>
+      <node ref="U27" pin="39"/>
+      <node ref="C51" pin="2"/>
+      <node ref="U24" pin="20"/>
+      <node ref="C52" pin="1"/>
+      <node ref="U27" pin="52"/>
+      <node ref="C53" pin="1"/>
+      <node ref="R119" pin="1"/>
+      <node ref="U27" pin="72"/>
+      <node ref="U27" pin="62"/>
+      <node ref="U27" pin="6"/>
+      <node ref="U27" pin="17"/>
+      <node ref="U27" pin="144"/>
+      <node ref="U27" pin="143"/>
+      <node ref="U27" pin="33"/>
+      <node ref="R112" pin="1"/>
+      <node ref="U27" pin="108"/>
+      <node ref="C50" pin="2"/>
+      <node ref="U27" pin="121"/>
+      <node ref="C41" pin="2"/>
+      <node ref="C43" pin="2"/>
+      <node ref="C44" pin="2"/>
+      <node ref="C45" pin="2"/>
+      <node ref="R94" pin="1"/>
+      <node ref="C46" pin="2"/>
+      <node ref="J2" pin="7"/>
+      <node ref="C47" pin="2"/>
+      <node ref="U27" pin="30"/>
+      <node ref="U27" pin="131"/>
+      <node ref="R111" pin="1"/>
+      <node ref="C38" pin="2"/>
+      <node ref="C39" pin="2"/>
+      <node ref="C40" pin="2"/>
+      <node ref="R102" pin="1"/>
+    </net>
+    <net code="145" name="/Input/ESD8">
+      <node ref="R8" pin="2"/>
+      <node ref="U29" pin="6"/>
+      <node ref="C4" pin="1"/>
+      <node ref="R4" pin="2"/>
+      <node ref="U23" pin="15"/>
+    </net>
+    <net code="146" name="/Input/ESD4">
+      <node ref="U23" pin="6"/>
+      <node ref="U30" pin="3"/>
+      <node ref="R14" pin="2"/>
+      <node ref="C6" pin="1"/>
+      <node ref="R10" pin="2"/>
+    </net>
+    <net code="147" name="GND">
+      <node ref="R62" pin="2"/>
+      <node ref="U17" pin="7"/>
+      <node ref="R71" pin="2"/>
+      <node ref="R48" pin="1"/>
+      <node ref="R41" pin="2"/>
+      <node ref="U20" pin="7"/>
+      <node ref="R72" pin="1"/>
+      <node ref="R56" pin="2"/>
+      <node ref="R63" pin="1"/>
+      <node ref="R45" pin="1"/>
+      <node ref="R74" pin="2"/>
+      <node ref="U12" pin="7"/>
+      <node ref="U16" pin="7"/>
+      <node ref="R39" pin="1"/>
+      <node ref="R68" pin="2"/>
+      <node ref="R59" pin="2"/>
+      <node ref="R69" pin="1"/>
+      <node ref="R60" pin="1"/>
+      <node ref="U15" pin="7"/>
+      <node ref="U19" pin="7"/>
+      <node ref="R57" pin="1"/>
+      <node ref="R47" pin="2"/>
+      <node ref="U13" pin="7"/>
+      <node ref="U26" pin="7"/>
+      <node ref="R44" pin="2"/>
+      <node ref="R80" pin="2"/>
+      <node ref="U10" pin="7"/>
+      <node ref="R51" pin="1"/>
+      <node ref="R65" pin="2"/>
+      <node ref="U18" pin="7"/>
+      <node ref="R83" pin="2"/>
+      <node ref="R81" pin="1"/>
+      <node ref="R42" pin="1"/>
+      <node ref="R53" pin="2"/>
+      <node ref="R75" pin="1"/>
+      <node ref="U21" pin="7"/>
+      <node ref="R50" pin="2"/>
+      <node ref="R54" pin="1"/>
+      <node ref="U11" pin="7"/>
+      <node ref="R66" pin="1"/>
+      <node ref="R78" pin="1"/>
+      <node ref="U22" pin="7"/>
+      <node ref="R77" pin="2"/>
+      <node ref="U14" pin="7"/>
+      <node ref="C35" pin="1"/>
+      <node ref="C24" pin="2"/>
+      <node ref="R23" pin="2"/>
+      <node ref="J3" pin="5"/>
+      <node ref="C20" pin="2"/>
+      <node ref="C23" pin="2"/>
+      <node ref="C42" pin="2"/>
+      <node ref="C19" pin="2"/>
+      <node ref="C56" pin="2"/>
+      <node ref="U28" pin="2"/>
+      <node ref="C22" pin="2"/>
+      <node ref="U24" pin="1"/>
+      <node ref="U4" pin="2"/>
+      <node ref="U24" pin="10"/>
+      <node ref="C18" pin="2"/>
+      <node ref="C36" pin="1"/>
+      <node ref="C21" pin="2"/>
+      <node ref="C17" pin="2"/>
+      <node ref="C27" pin="2"/>
+      <node ref="C28" pin="2"/>
+      <node ref="C41" pin="1"/>
+      <node ref="C29" pin="2"/>
+      <node ref="U33" pin="2"/>
+      <node ref="C26" pin="2"/>
+      <node ref="U27" pin="120"/>
+      <node ref="D3" pin="3"/>
+      <node ref="R125" pin="2"/>
+      <node ref="R88" pin="1"/>
+      <node ref="U27" pin="130"/>
+      <node ref="C25" pin="2"/>
+      <node ref="D1" pin="2"/>
+      <node ref="U27" pin="107"/>
+      <node ref="C12" pin="2"/>
+      <node ref="C33" pin="1"/>
+      <node ref="SW2" pin="B"/>
+      <node ref="SW2" pin="A"/>
+      <node ref="J2" pin="3"/>
+      <node ref="C11" pin="2"/>
+      <node ref="U24" pin="19"/>
+      <node ref="C15" pin="2"/>
+      <node ref="C16" pin="2"/>
+      <node ref="Y1" pin="2"/>
+      <node ref="Y1" pin="4"/>
+      <node ref="C34" pin="1"/>
+      <node ref="SW1" pin="B"/>
+      <node ref="U31" pin="2"/>
+      <node ref="SW1" pin="A"/>
+      <node ref="U27" pin="51"/>
+      <node ref="U25" pin="10"/>
+      <node ref="U25" pin="1"/>
+      <node ref="U27" pin="61"/>
+      <node ref="U27" pin="31"/>
+      <node ref="U27" pin="38"/>
+      <node ref="C9" pin="2"/>
+      <node ref="U32" pin="2"/>
+      <node ref="U27" pin="16"/>
+      <node ref="C13" pin="2"/>
+      <node ref="C10" pin="2"/>
+      <node ref="C14" pin="2"/>
+      <node ref="C37" pin="2"/>
+      <node ref="U6" pin="7"/>
+      <node ref="U29" pin="2"/>
+      <node ref="R30" pin="1"/>
+      <node ref="R32" pin="2"/>
+      <node ref="U5" pin="7"/>
+      <node ref="U7" pin="7"/>
+      <node ref="R27" pin="1"/>
+      <node ref="R29" pin="2"/>
+      <node ref="C31" pin="1"/>
+      <node ref="C53" pin="2"/>
+      <node ref="U27" pin="83"/>
+      <node ref="R36" pin="1"/>
+      <node ref="R38" pin="2"/>
+      <node ref="U30" pin="2"/>
+      <node ref="C52" pin="2"/>
+      <node ref="C51" pin="1"/>
+      <node ref="U27" pin="94"/>
+      <node ref="C48" pin="1"/>
+      <node ref="C49" pin="1"/>
+      <node ref="U9" pin="7"/>
+      <node ref="C50" pin="1"/>
+      <node ref="R35" pin="2"/>
+      <node ref="U23" pin="19"/>
+      <node ref="R33" pin="1"/>
+      <node ref="C32" pin="1"/>
+      <node ref="U8" pin="7"/>
+      <node ref="U1" pin="7"/>
+      <node ref="C45" pin="1"/>
+      <node ref="R86" pin="1"/>
+      <node ref="C44" pin="1"/>
+      <node ref="C1" pin="2"/>
+      <node ref="C43" pin="1"/>
+      <node ref="C40" pin="1"/>
+      <node ref="U34" pin="2"/>
+      <node ref="C5" pin="2"/>
+      <node ref="C39" pin="1"/>
+      <node ref="IC1" pin="2"/>
+      <node ref="C8" pin="2"/>
+      <node ref="D4" pin="2"/>
+      <node ref="C4" pin="2"/>
+      <node ref="R17" pin="1"/>
+      <node ref="U25" pin="19"/>
+      <node ref="U23" pin="10"/>
+      <node ref="U23" pin="1"/>
+      <node ref="C6" pin="2"/>
+      <node ref="C47" pin="1"/>
+      <node ref="C2" pin="2"/>
+      <node ref="C30" pin="2"/>
+      <node ref="C46" pin="1"/>
+      <node ref="U2" pin="7"/>
+      <node ref="U3" pin="7"/>
+      <node ref="C38" pin="1"/>
+      <node ref="R24" pin="1"/>
+      <node ref="R26" pin="2"/>
+      <node ref="R19" pin="2"/>
+      <node ref="C7" pin="2"/>
+      <node ref="R22" pin="2"/>
+      <node ref="C3" pin="2"/>
+      <node ref="R20" pin="1"/>
+    </net>
+    <net code="148" name="/Input/ESD6">
+      <node ref="U29" pin="4"/>
+      <node ref="U23" pin="17"/>
+      <node ref="R15" pin="2"/>
+      <node ref="C7" pin="1"/>
+      <node ref="R11" pin="2"/>
+    </net>
+    <net code="149" name="/Input/ESD7">
+      <node ref="R6" pin="2"/>
+      <node ref="U23" pin="11"/>
+      <node ref="R2" pin="2"/>
+      <node ref="C2" pin="1"/>
+      <node ref="U30" pin="6"/>
+    </net>
+    <net code="150" name="/Input/ESD2">
+      <node ref="R12" pin="2"/>
+      <node ref="C8" pin="1"/>
+      <node ref="R16" pin="2"/>
+      <node ref="U23" pin="2"/>
+      <node ref="U29" pin="3"/>
+    </net>
+    <net code="151" name="/Input/ESD3">
+      <node ref="R5" pin="2"/>
+      <node ref="U23" pin="8"/>
+      <node ref="R1" pin="2"/>
+      <node ref="C1" pin="1"/>
+      <node ref="U30" pin="1"/>
+    </net>
+    <net code="152" name="/Input/ESD5">
+      <node ref="U23" pin="13"/>
+      <node ref="U30" pin="4"/>
+      <node ref="R13" pin="2"/>
+      <node ref="C5" pin="1"/>
+      <node ref="R9" pin="2"/>
+    </net>
+    <net code="153" name="Net-(U27-Pad111)">
+      <node ref="U27" pin="111"/>
+    </net>
+    <net code="154" name="Net-(C36-Pad2)">
+      <node ref="U27" pin="106"/>
+      <node ref="C36" pin="2"/>
+    </net>
+    <net code="155" name="Net-(U27-Pad104)">
+      <node ref="U27" pin="104"/>
+    </net>
+    <net code="156" name="Net-(U27-Pad103)">
+      <node ref="U27" pin="103"/>
+    </net>
+    <net code="157" name="Net-(J3-Pad1)">
+      <node ref="J3" pin="1"/>
+      <node ref="U4" pin="5"/>
+    </net>
+    <net code="158" name="/STM32G473VBT6/USB_D-">
+      <node ref="J3" pin="2"/>
+      <node ref="U27" pin="75"/>
+      <node ref="U4" pin="4"/>
+      <node ref="U4" pin="3"/>
+    </net>
+    <net code="159" name="/STM32G473VBT6/USB_D+">
+      <node ref="U27" pin="76"/>
+      <node ref="U4" pin="6"/>
+      <node ref="U4" pin="1"/>
+      <node ref="J3" pin="3"/>
+    </net>
+    <net code="160" name="Net-(U27-Pad129)">
+      <node ref="U27" pin="129"/>
+    </net>
+    <net code="161" name="Net-(U27-Pad128)">
+      <node ref="U27" pin="128"/>
+    </net>
+    <net code="162" name="Net-(U27-Pad127)">
+      <node ref="U27" pin="127"/>
+    </net>
+    <net code="163" name="Net-(U27-Pad126)">
+      <node ref="U27" pin="126"/>
+    </net>
+    <net code="164" name="Net-(U27-Pad125)">
+      <node ref="U27" pin="125"/>
+    </net>
+    <net code="165" name="Net-(U27-Pad124)">
+      <node ref="U27" pin="124"/>
+    </net>
+    <net code="166" name="Net-(U27-Pad122)">
+      <node ref="U27" pin="122"/>
+    </net>
+    <net code="167" name="Net-(U27-Pad112)">
+      <node ref="U27" pin="112"/>
+    </net>
+    <net code="168" name="Net-(U27-Pad119)">
+      <node ref="U27" pin="119"/>
+    </net>
+    <net code="169" name="Net-(U27-Pad118)">
+      <node ref="U27" pin="118"/>
+    </net>
+    <net code="170" name="Net-(U27-Pad117)">
+      <node ref="U27" pin="117"/>
+    </net>
+    <net code="171" name="Net-(U27-Pad116)">
+      <node ref="U27" pin="116"/>
+    </net>
+    <net code="172" name="Net-(U27-Pad115)">
+      <node ref="U27" pin="115"/>
+    </net>
+    <net code="173" name="Net-(U27-Pad114)">
+      <node ref="U27" pin="114"/>
+    </net>
+    <net code="174" name="Net-(U27-Pad113)">
+      <node ref="U27" pin="113"/>
+    </net>
+    <net code="175" name="Net-(C42-Pad1)">
+      <node ref="C42" pin="1"/>
+      <node ref="J3" pin="6"/>
+      <node ref="R23" pin="1"/>
+    </net>
+    <net code="176" name="Net-(J3-Pad4)">
+      <node ref="J3" pin="4"/>
+    </net>
+    <net code="177" name="Net-(U27-Pad48)">
+      <node ref="U27" pin="48"/>
+    </net>
+    <net code="178" name="Net-(U27-Pad50)">
+      <node ref="U27" pin="50"/>
+    </net>
+    <net code="179" name="Net-(U27-Pad49)">
+      <node ref="U27" pin="49"/>
+    </net>
+    <net code="180" name="Net-(U27-Pad67)">
+      <node ref="U27" pin="67"/>
+    </net>
+    <net code="181" name="Net-(C35-Pad2)">
+      <node ref="C35" pin="2"/>
+      <node ref="U27" pin="71"/>
+    </net>
+    <net code="182" name="Net-(U27-Pad70)">
+      <node ref="U27" pin="70"/>
+    </net>
+    <net code="183" name="Net-(U27-Pad69)">
+      <node ref="U27" pin="69"/>
+    </net>
+    <net code="184" name="Net-(U27-Pad68)">
+      <node ref="U27" pin="68"/>
+    </net>
+    <net code="185" name="Net-(U27-Pad66)">
+      <node ref="U27" pin="66"/>
+    </net>
+    <net code="186" name="Net-(U27-Pad65)">
+      <node ref="U27" pin="65"/>
+    </net>
+    <net code="187" name="Net-(U27-Pad64)">
+      <node ref="U27" pin="64"/>
+    </net>
+    <net code="188" name="Net-(U27-Pad63)">
+      <node ref="U27" pin="63"/>
+    </net>
+    <net code="189" name="Net-(U27-Pad60)">
+      <node ref="U27" pin="60"/>
+    </net>
+    <net code="190" name="Net-(C34-Pad2)">
+      <node ref="SW2" pin="D"/>
+      <node ref="SW2" pin="C"/>
+      <node ref="R84" pin="1"/>
+      <node ref="U27" pin="138"/>
+      <node ref="C34" pin="2"/>
+    </net>
+    <net code="191" name="Net-(U27-Pad132)">
+      <node ref="U27" pin="132"/>
+    </net>
+    <net code="192" name="Net-(C37-Pad1)">
+      <node ref="C37" pin="1"/>
+      <node ref="U27" pin="32"/>
+    </net>
+    <net code="193" name="Net-(C31-Pad2)">
+      <node ref="C31" pin="2"/>
+      <node ref="Y1" pin="1"/>
+      <node ref="U27" pin="23"/>
+    </net>
+    <net code="194" name="Net-(J2-Pad9)">
+      <node ref="J2" pin="9"/>
+    </net>
+    <net code="195" name="Net-(J2-Pad8)">
+      <node ref="J2" pin="8"/>
+    </net>
+    <net code="196" name="/STM32G473VBT6/SWCLK">
+      <node ref="J2" pin="6"/>
+      <node ref="U27" pin="109"/>
+    </net>
+    <net code="197" name="Net-(J2-Pad5)">
+      <node ref="J2" pin="5"/>
+    </net>
+    <net code="198" name="Net-(J2-Pad4)">
+      <node ref="J2" pin="4"/>
+    </net>
+    <net code="199" name="/STM32G473VBT6/SWDIO">
+      <node ref="J2" pin="2"/>
+      <node ref="U27" pin="105"/>
+    </net>
+    <net code="200" name="Net-(J2-Pad10)">
+      <node ref="J2" pin="10"/>
+    </net>
+    <net code="201" name="Net-(C32-Pad2)">
+      <node ref="U27" pin="24"/>
+      <node ref="C32" pin="2"/>
+      <node ref="Y1" pin="3"/>
+    </net>
+    <net code="202" name="/STM32G473VBT6/nRESET">
+      <node ref="C33" pin="2"/>
+      <node ref="U27" pin="25"/>
+      <node ref="J2" pin="1"/>
+      <node ref="SW1" pin="C"/>
+      <node ref="SW1" pin="D"/>
+      <node ref="R124" pin="1"/>
+    </net>
+    <net code="203" name="/STM32G473VBT6/CAN_RX">
+      <node ref="U28" pin="4"/>
+      <node ref="U27" pin="139"/>
+    </net>
+    <net code="204" name="/STM32G473VBT6/CAN_TX">
+      <node ref="U28" pin="1"/>
+      <node ref="U27" pin="140"/>
+    </net>
+    <net code="205" name="Net-(R88-Pad2)">
+      <node ref="R88" pin="2"/>
+      <node ref="U28" pin="8"/>
+    </net>
+    <net code="206" name="Net-(J5-Pad1)">
+      <node ref="J5" pin="1"/>
+      <node ref="R87" pin="1"/>
+    </net>
+    <net code="207" name="Net-(U28-Pad5)">
+      <node ref="U28" pin="5"/>
+    </net>
+    <net code="208" name="Net-(C54-Pad2)">
+      <node ref="D4" pin="1"/>
+      <node ref="L2" pin="1"/>
+      <node ref="IC1" pin="6"/>
+      <node ref="C54" pin="2"/>
+    </net>
+    <net code="209" name="Net-(C54-Pad1)">
+      <node ref="C54" pin="1"/>
+      <node ref="IC1" pin="1"/>
+    </net>
+    <net code="210" name="Net-(C55-Pad1)">
+      <node ref="R85" pin="1"/>
+      <node ref="IC1" pin="3"/>
+      <node ref="R86" pin="2"/>
+      <node ref="C55" pin="1"/>
+    </net>
+    <net code="211" name="Net-(C26-Pad1)">
+      <node ref="C28" pin="1"/>
+      <node ref="IC1" pin="5"/>
+      <node ref="L1" pin="2"/>
+      <node ref="C27" pin="1"/>
+      <node ref="C26" pin="1"/>
+    </net>
+    <net code="212" name="/psu/Enable">
+      <node ref="R123" pin="2"/>
+      <node ref="R125" pin="1"/>
+      <node ref="IC1" pin="4"/>
+    </net>
+    <net code="213" name="Net-(C56-Pad1)">
+      <node ref="C56" pin="1"/>
+      <node ref="R122" pin="2"/>
+      <node ref="R121" pin="2"/>
+      <node ref="Q1" pin="1"/>
+    </net>
+    <net code="214" name="Net-(Q1-Pad2)">
+      <node ref="R123" pin="1"/>
+      <node ref="Q1" pin="2"/>
+    </net>
+    <net code="215" name="/Input2/ESD5">
+      <node ref="R101" pin="2"/>
+      <node ref="U24" pin="13"/>
+      <node ref="C13" pin="1"/>
+      <node ref="R97" pin="2"/>
+      <node ref="U32" pin="4"/>
+    </net>
+    <net code="216" name="/Input2/ESD8">
+      <node ref="R96" pin="2"/>
+      <node ref="C12" pin="1"/>
+      <node ref="R92" pin="2"/>
+      <node ref="U24" pin="15"/>
+      <node ref="U31" pin="6"/>
+    </net>
+    <net code="217" name="/Input2/ESD7">
+      <node ref="R94" pin="2"/>
+      <node ref="U32" pin="6"/>
+      <node ref="R90" pin="2"/>
+      <node ref="C10" pin="1"/>
+      <node ref="U24" pin="11"/>
+    </net>
+    <net code="218" name="/Input2/ESD6">
+      <node ref="U24" pin="17"/>
+      <node ref="U31" pin="4"/>
+      <node ref="R103" pin="2"/>
+      <node ref="C15" pin="1"/>
+      <node ref="R99" pin="2"/>
+    </net>
+    <net code="219" name="/Input2/ESD4">
+      <node ref="C14" pin="1"/>
+      <node ref="R98" pin="2"/>
+      <node ref="U24" pin="6"/>
+      <node ref="U32" pin="3"/>
+      <node ref="R102" pin="2"/>
+    </net>
+    <net code="220" name="/Input2/ESD3">
+      <node ref="C9" pin="1"/>
+      <node ref="U32" pin="1"/>
+      <node ref="U24" pin="8"/>
+      <node ref="R93" pin="2"/>
+      <node ref="R89" pin="2"/>
+    </net>
+    <net code="221" name="/Input2/ESD1">
+      <node ref="R95" pin="2"/>
+      <node ref="U24" pin="4"/>
+      <node ref="U31" pin="1"/>
+      <node ref="R91" pin="2"/>
+      <node ref="C11" pin="1"/>
+    </net>
+    <net code="222" name="/Input2/ESD2">
+      <node ref="U31" pin="3"/>
+      <node ref="R100" pin="2"/>
+      <node ref="C16" pin="1"/>
+      <node ref="R104" pin="2"/>
+      <node ref="U24" pin="2"/>
+    </net>
+    <net code="223" name="/Input3/ESD5">
+      <node ref="U25" pin="13"/>
+      <node ref="U34" pin="4"/>
+      <node ref="R117" pin="2"/>
+      <node ref="C21" pin="1"/>
+      <node ref="R113" pin="2"/>
+    </net>
+    <net code="224" name="/Input3/ESD7">
+      <node ref="R110" pin="2"/>
+      <node ref="C18" pin="1"/>
+      <node ref="U34" pin="6"/>
+      <node ref="U25" pin="11"/>
+      <node ref="R106" pin="2"/>
+    </net>
+    <net code="225" name="/Input3/ESD8">
+      <node ref="C20" pin="1"/>
+      <node ref="R112" pin="2"/>
+      <node ref="U33" pin="6"/>
+      <node ref="U25" pin="15"/>
+      <node ref="R108" pin="2"/>
+    </net>
+    <net code="226" name="/Input3/ESD2">
+      <node ref="U25" pin="2"/>
+      <node ref="U33" pin="3"/>
+      <node ref="R116" pin="2"/>
+      <node ref="C24" pin="1"/>
+      <node ref="R120" pin="2"/>
+    </net>
+    <net code="227" name="/Input3/ESD3">
+      <node ref="R105" pin="2"/>
+      <node ref="C17" pin="1"/>
+      <node ref="R109" pin="2"/>
+      <node ref="U34" pin="1"/>
+      <node ref="U25" pin="8"/>
+    </net>
+    <net code="228" name="/Input3/ESD4">
+      <node ref="R114" pin="2"/>
+      <node ref="U25" pin="6"/>
+      <node ref="C22" pin="1"/>
+      <node ref="R118" pin="2"/>
+      <node ref="U34" pin="3"/>
+    </net>
+    <net code="229" name="/Input3/ESD1">
+      <node ref="U33" pin="1"/>
+      <node ref="R107" pin="2"/>
+      <node ref="R111" pin="2"/>
+      <node ref="C19" pin="1"/>
+      <node ref="U25" pin="4"/>
+    </net>
+    <net code="230" name="/Input3/ESD6">
+      <node ref="C23" pin="1"/>
+      <node ref="R115" pin="2"/>
+      <node ref="R119" pin="2"/>
+      <node ref="U33" pin="4"/>
+      <node ref="U25" pin="17"/>
+    </net>
+    <net code="231" name="Net-(R18-Pad2)">
+      <node ref="U1" pin="4"/>
+      <node ref="R18" pin="2"/>
+    </net>
+    <net code="232" name="Net-(R17-Pad2)">
+      <node ref="R17" pin="2"/>
+      <node ref="U1" pin="6"/>
+    </net>
+    <net code="233" name="Net-(R20-Pad2)">
+      <node ref="R20" pin="2"/>
+      <node ref="U2" pin="6"/>
+    </net>
+    <net code="234" name="Net-(R21-Pad2)">
+      <node ref="R21" pin="2"/>
+      <node ref="U2" pin="4"/>
+    </net>
+    <net code="235" name="Net-(R25-Pad2)">
+      <node ref="U3" pin="4"/>
+      <node ref="R25" pin="2"/>
+    </net>
+    <net code="236" name="Net-(R24-Pad2)">
+      <node ref="U3" pin="6"/>
+      <node ref="R24" pin="2"/>
+    </net>
+    <net code="237" name="Net-(R28-Pad2)">
+      <node ref="U5" pin="4"/>
+      <node ref="R28" pin="2"/>
+    </net>
+    <net code="238" name="Net-(R27-Pad2)">
+      <node ref="R27" pin="2"/>
+      <node ref="U5" pin="6"/>
+    </net>
+    <net code="239" name="Net-(R31-Pad2)">
+      <node ref="U6" pin="4"/>
+      <node ref="R31" pin="2"/>
+    </net>
+    <net code="240" name="Net-(R30-Pad2)">
+      <node ref="U6" pin="6"/>
+      <node ref="R30" pin="2"/>
+    </net>
+    <net code="241" name="Net-(R34-Pad2)">
+      <node ref="R34" pin="2"/>
+      <node ref="U7" pin="4"/>
+    </net>
+    <net code="242" name="Net-(R33-Pad2)">
+      <node ref="U7" pin="6"/>
+      <node ref="R33" pin="2"/>
+    </net>
+    <net code="243" name="Net-(R37-Pad2)">
+      <node ref="U8" pin="4"/>
+      <node ref="R37" pin="2"/>
+    </net>
+    <net code="244" name="Net-(R36-Pad2)">
+      <node ref="U8" pin="6"/>
+      <node ref="R36" pin="2"/>
+    </net>
+    <net code="245" name="Net-(R40-Pad2)">
+      <node ref="U9" pin="4"/>
+      <node ref="R40" pin="2"/>
+    </net>
+    <net code="246" name="Net-(R39-Pad2)">
+      <node ref="R39" pin="2"/>
+      <node ref="U9" pin="6"/>
+    </net>
+    <net code="247" name="Net-(R43-Pad2)">
+      <node ref="U10" pin="4"/>
+      <node ref="R43" pin="2"/>
+    </net>
+    <net code="248" name="Net-(R42-Pad2)">
+      <node ref="U10" pin="6"/>
+      <node ref="R42" pin="2"/>
+    </net>
+    <net code="249" name="Net-(R46-Pad2)">
+      <node ref="R46" pin="2"/>
+      <node ref="U11" pin="4"/>
+    </net>
+    <net code="250" name="Net-(R45-Pad2)">
+      <node ref="R45" pin="2"/>
+      <node ref="U11" pin="6"/>
+    </net>
+    <net code="251" name="Net-(R49-Pad2)">
+      <node ref="U12" pin="4"/>
+      <node ref="R49" pin="2"/>
+    </net>
+    <net code="252" name="Net-(R48-Pad2)">
+      <node ref="R48" pin="2"/>
+      <node ref="U12" pin="6"/>
+    </net>
+    <net code="253" name="Net-(R52-Pad2)">
+      <node ref="R52" pin="2"/>
+      <node ref="U13" pin="4"/>
+    </net>
+    <net code="254" name="Net-(R51-Pad2)">
+      <node ref="R51" pin="2"/>
+      <node ref="U13" pin="6"/>
+    </net>
+    <net code="255" name="Net-(R55-Pad2)">
+      <node ref="R55" pin="2"/>
+      <node ref="U14" pin="4"/>
+    </net>
+    <net code="256" name="Net-(R54-Pad2)">
+      <node ref="U14" pin="6"/>
+      <node ref="R54" pin="2"/>
+    </net>
+    <net code="257" name="Net-(R58-Pad2)">
+      <node ref="R58" pin="2"/>
+      <node ref="U15" pin="4"/>
+    </net>
+    <net code="258" name="Net-(R57-Pad2)">
+      <node ref="R57" pin="2"/>
+      <node ref="U15" pin="6"/>
+    </net>
+    <net code="259" name="Net-(R61-Pad2)">
+      <node ref="U16" pin="4"/>
+      <node ref="R61" pin="2"/>
+    </net>
+    <net code="260" name="Net-(R60-Pad2)">
+      <node ref="U16" pin="6"/>
+      <node ref="R60" pin="2"/>
+    </net>
+    <net code="261" name="Net-(R64-Pad2)">
+      <node ref="R64" pin="2"/>
+      <node ref="U17" pin="4"/>
+    </net>
+    <net code="262" name="Net-(R63-Pad2)">
+      <node ref="U17" pin="6"/>
+      <node ref="R63" pin="2"/>
+    </net>
+    <net code="263" name="Net-(R67-Pad2)">
+      <node ref="U18" pin="4"/>
+      <node ref="R67" pin="2"/>
+    </net>
+    <net code="264" name="Net-(R66-Pad2)">
+      <node ref="U18" pin="6"/>
+      <node ref="R66" pin="2"/>
+    </net>
+    <net code="265" name="Net-(R70-Pad2)">
+      <node ref="R70" pin="2"/>
+      <node ref="U19" pin="4"/>
+    </net>
+    <net code="266" name="Net-(R69-Pad2)">
+      <node ref="U19" pin="6"/>
+      <node ref="R69" pin="2"/>
+    </net>
+    <net code="267" name="Net-(R72-Pad2)">
+      <node ref="U20" pin="6"/>
+      <node ref="R72" pin="2"/>
+    </net>
+    <net code="268" name="Net-(R73-Pad2)">
+      <node ref="U20" pin="4"/>
+      <node ref="R73" pin="2"/>
+    </net>
+    <net code="269" name="Net-(R76-Pad2)">
+      <node ref="R76" pin="2"/>
+      <node ref="U21" pin="4"/>
+    </net>
+    <net code="270" name="Net-(R75-Pad2)">
+      <node ref="U21" pin="6"/>
+      <node ref="R75" pin="2"/>
+    </net>
+    <net code="271" name="Net-(R79-Pad2)">
+      <node ref="R79" pin="2"/>
+      <node ref="U22" pin="4"/>
+    </net>
+    <net code="272" name="Net-(R78-Pad2)">
+      <node ref="R78" pin="2"/>
+      <node ref="U22" pin="6"/>
+    </net>
+    <net code="273" name="Net-(R82-Pad2)">
+      <node ref="R82" pin="2"/>
+      <node ref="U26" pin="4"/>
+    </net>
+    <net code="274" name="Net-(R81-Pad2)">
+      <node ref="R81" pin="2"/>
+      <node ref="U26" pin="6"/>
+    </net>
+  </nets>
+</export>
